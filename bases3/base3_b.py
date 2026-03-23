@@ -1,4 +1,4 @@
-# bases3/base3_a.py
+# bases3/base3_b.py
 from creature_base import GlobalCreatureBaseClass
 
 
@@ -7,5 +7,5 @@ class Base3B(GlobalCreatureBaseClass):
         super().__init__(*args, **kwargs)
         self.abilities.append("Regeneration")
 
-    def method3(self) -> None:
-        print("Base3B.method3")
+    def method3b(self) -> None:
+        print("Base3B.method3b")

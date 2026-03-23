@@ -1,11 +1,11 @@
-# bases2/base2_a.py
+# bases2/base2_b.py
 from creature_base import GlobalCreatureBaseClass
 
 
-class Base2D(GlobalCreatureBaseClass):
+class Base2B(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
         self.abilities.append("MagicResistance")
 
-    def method2(self) -> None:
-        print("Base2D.method2")
+    def method2b(self) -> None:
+        print("Base2B.method2b")
