@@ -2,6 +2,7 @@
 import os
 import importlib.util
 import random
+from typing import Union
 
 
 def load_classes_from_dir(directory: str) -> dict[str, type]:
