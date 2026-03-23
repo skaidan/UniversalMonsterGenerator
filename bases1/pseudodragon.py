@@ -1,0 +1,51 @@
+# bases1/pseudodragon.py
+"""
+Pseudodragon creature class scraped from https://www.aidedd.org/dnd/monstres.php?vo=pseudodragon
+"""
+from creature_base import GlobalCreatureBaseClass
+
+
+class Pseudodragon(GlobalCreatureBaseClass):
+    """
+    Pseudodragon creature
+    Size: Tiny, Type: dragon, neutral good
+    Source: AiDeDd Monster Database (D&D 5e SRD)
+    """
+    
+    # Valores por defecto extraídos del scraping
+    DEFAULT_STATS = {
+        "hit_points": 7,
+        "min_level": 2,
+        "level": 2,
+        "STR": 10,
+        "DEX": 10,
+        "CON": 10,
+        "INT": 10,
+        "WIS": 10,
+        "CHAR": 10,
+        "armor_class": 13,
+        "alignment": "Unaligned",
+        "legendary": False,
+        "size": "Tiny",
+        "type": "dragon, neutral good",
+        "hit_points_up": [1, 1, 1],
+        "STR_up": [1, 0, 0],
+        "DEX_up": [1, 0, 0],
+        "CON_up": [0, 1, 0],
+        "INT_up": [0, 1, 0],
+        "WIS_up": [0, 0, 1],
+        "CHAR_up": [0, 0, 1],
+        "abilities": [],
+    }
+
+    def __init__(self, *args, **kwargs) -> None:
+        super().__init__(*args, **kwargs)
+        self.abilities.extend(['keen_senses'])
+
+    def keen_senses(self) -> str:
+        """Keen Senses: The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.M..."""
+        return "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.Magic Resistance. The pseudodragon has advantage on saving throws against spells and other magical ef"
+    def keen_senses(self) -> str:
+        """Keen Senses: The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.M..."""
+        return "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.Magic Resistance. The pseudodragon has advantage on saving throws against spells and other magical ef"
+

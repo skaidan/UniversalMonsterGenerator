@@ -19,14 +19,14 @@ class Base1B(GlobalCreatureBaseClass):
         "legendary": True,
         "size": "Large",
         "type": "Beast",
-        "hit_points_up": [2, 1, 2],  # 1-2 (10% de 25 = 2.5, pero int)
-        "min_level_up": [1, 1, 0],   # Suma por columna debe ser 2
-        "STR_up": [1, 0, 1],        # Suma por columna debe ser 2
-        "DEX_up": [0, 1, 0],        # Suma por columna debe ser 2
-        "CON_up": [0, 0, 1],        # Suma por columna debe ser 2
-        "INT_up": [0, 0, 0],        # Suma por columna debe ser 2
-        "WIS_up": [0, 0, 0],        # Suma por columna debe ser 2
-        "CHAR_up": [0, 0, 0],       # Suma por columna debe ser 2
+        "hit_points_up": [2, 1, 2],
+        "STR_up": [1, 0, 1],
+        "DEX_up": [0, 1, 0],
+        "CON_up": [0, 0, 1],
+        "INT_up": [1, 0, 0],
+        "WIS_up": [0, 1, 0],
+        "CHAR_up": [0, 0, 0],
+        "abilities": [],
     }
 
     def __init__(self, *args, **kwargs) -> None:

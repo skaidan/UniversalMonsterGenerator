@@ -62,7 +62,6 @@ class GlobalCreatureBaseClass:
     size: str
     type: str
     hit_points_up: List[int]
-    min_level_up: List[int]
     STR_up: List[int]
     DEX_up: List[int]
     CON_up: List[int]
@@ -113,7 +112,6 @@ class GlobalCreatureBaseClass:
         # Validate _up fields (arrays with specific constraints)
         up_field_names = [
             "hit_points_up",
-            "min_level_up",
             "STR_up",
             "DEX_up",
             "CON_up",

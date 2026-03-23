@@ -19,14 +19,14 @@ class Base1A(GlobalCreatureBaseClass):
         "legendary": False,
         "size": "Medium",
         "type": "Humanoid",
-        "hit_points_up": [1, 2, 1],  # 1-2 (10% de 20)
-        "min_level_up": [0, 1, 0],   # Suma por columna debe ser 2
-        "STR_up": [1, 0, 1],        # Suma por columna debe ser 2
-        "DEX_up": [0, 1, 0],        # Suma por columna debe ser 2
-        "CON_up": [1, 0, 1],        # Suma por columna debe ser 2
-        "INT_up": [0, 0, 0],        # Suma por columna debe ser 2
-        "WIS_up": [0, 0, 0],        # Suma por columna debe ser 2
-        "CHAR_up": [0, 0, 0],       # Suma por columna debe ser 2
+        "hit_points_up": [1, 2, 1],
+        "STR_up": [1, 1, 0],
+        "DEX_up": [0, 0, 0],
+        "CON_up": [1, 0, 1],
+        "INT_up": [0, 0, 1],
+        "WIS_up": [0, 1, 0],
+        "CHAR_up": [0, 0, 0],
+        "abilities": [],
     }
 
     def __init__(self, *args, **kwargs) -> None:
