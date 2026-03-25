@@ -64,6 +64,7 @@ class ItemsScraper:
         print("🔗 Descargando items.json desde GitHub mirror...")
         
         urls = [
+            "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items-base.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/foundry-items.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/fluff-items.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items-base.json",
@@ -71,7 +72,13 @@ class ItemsScraper:
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data/items.json",
             "https://raw.githubusercontent.com/Skiviper-AJM/5eTools-Mirror/main/data/items.json",
-            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/main/data/items.json"
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/items.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/items-base.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/foundry-items.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/fluff-items.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/items-base.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/fluff-items.json",
+            "https://raw.githubusercontent.com/OTTOREIKU/5etools-Trevelyan/refs/heads/main/data/items.json",
         ]
         
         for url in urls:
