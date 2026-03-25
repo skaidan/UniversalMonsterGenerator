@@ -2,10 +2,10 @@
   "name": "Boots of Elvenkind",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have {@variantrule Advantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

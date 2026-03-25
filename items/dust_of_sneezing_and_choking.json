@@ -2,10 +2,10 @@
   "name": "Dust of Sneezing and Choking",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "Found in a small container, this powder resembles {@item Dust of Disappearance|XDMG}, and {@spell Identify|XPHB} reveals it to be such. There is enough of it for one use.\nAs a {@action Utilize|XPHB} action, you can throw the dust into the air, forcing yourself and every creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you to make a {@dc 15} Constitution saving throw. Constructs, Elementals, Oozes, Plants, and Undead succeed on the save automatically",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

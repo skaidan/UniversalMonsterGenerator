@@ -2,10 +2,10 @@
   "name": "Book of Exalted Deeds",
   "type": "item",
   "source": "XDMG",
-  "rarity": "artifact",
+  "rarity": "",
   "value": "",
-  "weight": 5,
-  "description": "The definitive treatise on all that is good in the multiverse, the Book of Exalted Deeds figures prominently in many religions. Rather than being a scripture devoted to a particular faith, the book's authors filled the pages with their own visions of true virtue, providing guidance for defeating evil.\nThe Book of Exalted Deeds rarely lingers in one place. As soon as the book is read, it vanishes to some other corner of the multiverse where its moral guidance can bring hope to an endangered world",
-  "requires_attunement": true,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

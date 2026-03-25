@@ -2,12 +2,10 @@
   "name": "Staff of the Adder",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "As a {@variantrule Bonus Action|XPHB}, you can turn the head of this staff into that of an animate, venomous snake for 1 minute or revert the staff to its inanimate form.\nWhen you take the {@action Attack|XPHB} action, you can make one of the attack rolls using the animated snake head, which has a reach of 5 feet. Apply your {@variantrule Proficiency|XPHB|Proficiency Bonus} and Wisdom modifier to the attack roll. On a hit, the target takes {@damage 1d6} Piercing damage and {@damage 3d6} Poison d",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

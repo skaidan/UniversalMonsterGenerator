@@ -2,12 +2,10 @@
   "name": "Staff of Withering",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "This staff has 3 charges and regains {@dice 1d3} expended charges daily at dawn.\nThe staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff , and you can expend 1 charge to deal an extra {@damage 2d10} Necrotic damage to the target and force it to make a {@dc 15} Constitution saving throw. On a failed save, the target has {@variantrule Disadvantage|XPHB} for 1 hour on any ability check or saving throw that uses Strength or Constitution.",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

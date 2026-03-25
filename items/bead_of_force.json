@@ -2,10 +2,10 @@
   "name": "Bead of Force",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, {@dice 1d4 + 4} Beads of Force are found together.\nYou can take a {@action Magic|XPHB} action to throw the bead up to 60 feet. The bead explodes in a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} on impact and is destroyed. Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must succeed on a {@dc 15} Dexterity saving throw or take {@damage 5d4} Force damage. A sphe",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

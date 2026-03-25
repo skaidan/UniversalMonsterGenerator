@@ -2,13 +2,10 @@
   "name": "Trident of Fish Command",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "This magic weapon has 3 charges, and it regains {@dice 1d3} expended charges daily at dawn. While you carry it, you can expend 1 charge to cast {@spell Dominate Beast|XPHB} (save {@dc 15}) from it on a Beast that has a {@variantrule Swim Speed|XPHB}.",
-  "requires_attunement": true,
-  "properties": [
-    "T|XPHB",
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

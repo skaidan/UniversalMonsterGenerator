@@ -64,11 +64,10 @@ class ItemsScraper:
         print("🔗 Descargando items.json desde GitHub mirror...")
         
         urls = [
-             "https://github.com/5etools-mirror-3/5etools-src/refs/heads/main/data/foundry-items.json",
-              "https://github.com/5etools-mirror-3/5etools-src/refs/heads/main/data/fluff-items.json",
-               "https://github.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items-base.json",
-
-            "https://github.com/5etools-mirror-3/5etools-src/refs/heads/main/data/fluff-items.json",
+            "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/foundry-items.json",
+            "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/fluff-items.json",
+            "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items-base.json",
+            "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/fluff-items.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items.json",
             "https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data/items.json",
             "https://raw.githubusercontent.com/Skiviper-AJM/5eTools-Mirror/main/data/items.json",

@@ -2,10 +2,10 @@
   "name": "Malice",
   "type": "item",
   "source": "XDMG",
-  "rarity": "none",
-  "value": 25000,
+  "rarity": "",
+  "value": "",
   "weight": "",
-  "description": "A creature subjected to Malice must succeed on a {@dc 15} Constitution saving throw or have the {@condition Poisoned|XPHB} condition for 1 hour. The creature also has the {@condition Blinded|XPHB} condition while {@condition Poisoned|XPHB} in this way.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

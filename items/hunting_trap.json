@@ -2,10 +2,10 @@
   "name": "Hunting Trap",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 500,
-  "weight": 25,
-  "description": "As a {@action Utilize|XPHB} action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a {@dc 13} Dexterity saving throw or take {@damage 1d4} Piercing damage and have its {@variantrule Speed|XPHB} reduced to 0 until the start of its next turn. Thereafter, u",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Potion of Speed",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "When you drink this potion, you gain the effect of the {@spell Haste|XPHB} spell for 1 minute (no {@status Concentration|XPHB} required) without suffering the wave of lethargy that typically occurs when the effect ends.\nThis potion's yellow fluid is streaked with black and swirls on its own.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Iron Bands of Bilarro",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 1,
-  "description": "This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can take a {@action Magic|XPHB} action to throw the sphere at a Huge or smaller creature you can see within 60 feet of yourself. As the sphere moves through the air, it opens into a tangle of metal bands.\nMake a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your {@variantrule Proficiency|XPHB|Proficiency Bonus}. On a hit, the target has the {@condition Restrained|XPHB} condition until you",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

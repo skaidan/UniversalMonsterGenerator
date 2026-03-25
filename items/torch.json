@@ -2,10 +2,10 @@
   "name": "Torch",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 1,
-  "weight": 1,
-  "description": "A Torch burns for 1 hour, casting {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. When you take the {@action Attack|XPHB} action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

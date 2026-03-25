@@ -2,12 +2,10 @@
   "name": "Staff of Charming",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "This staff has 10 charges. While holding the staff, you can use any of its properties:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Cast Spell\", \"entries\": [\"You can expend 1 of the staff's charges to cast {@spell Charm Person|XPHB}, {@spell Command|XPHB}, or {@spell Comprehend Languages|XPHB} from it using your spell save DC.\"]}, {\"type\": \"item\", \"name\": \"Reflect Enchantment\", \"entries\": [\"If you succeed on a saving throw against an Enchantment spell that t",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

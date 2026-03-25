@@ -2,10 +2,10 @@
   "name": "Candle",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 1,
+  "rarity": "",
+  "value": "",
   "weight": "",
-  "description": "For 1 hour, a lit Candle sheds {@variantrule Bright Light|XPHB} in a 5-foot radius and {@variantrule Dim Light|XPHB} for an additional 5 feet.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

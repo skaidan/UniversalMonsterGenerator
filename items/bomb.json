@@ -2,10 +2,10 @@
   "name": "Bomb",
   "type": "item",
   "source": "XDMG",
-  "rarity": "none",
-  "value": 10000,
-  "weight": 1,
-  "description": "As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point makes a {@dc 12} Dexterity saving throw, taking {@damage 3d6} Fire damage on a failed save or half as much damage on a successful one.",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

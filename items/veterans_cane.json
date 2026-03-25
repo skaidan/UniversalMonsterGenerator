@@ -1,11 +1,11 @@
 {
   "name": "Veteran's Cane",
   "type": "item",
-  "source": "XGE",
-  "rarity": "common",
+  "source": "XDMG",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "When you grasp this walking cane and use a bonus action to speak the command word, it transforms into an ordinary longsword and ceases to be magical.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

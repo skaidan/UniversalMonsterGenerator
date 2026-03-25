@@ -2,10 +2,10 @@
   "name": "Alchemist's Fire",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 5000,
-  "weight": 1,
-  "description": "When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or take {@damage 1d4} Fire damage and start {@hazard burning|XPHB}.",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

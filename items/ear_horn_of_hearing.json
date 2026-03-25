@@ -1,11 +1,11 @@
 {
   "name": "Ear Horn of Hearing",
   "type": "item",
-  "source": "XGE",
-  "rarity": "common",
+  "source": "XDMG",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While held up to your ear, this horn suppresses the effects of the {@condition deafened} condition on you, allowing you to hear normally.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

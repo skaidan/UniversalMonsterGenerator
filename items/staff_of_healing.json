@@ -2,12 +2,10 @@
   "name": "Staff of Healing",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell.\n{\"type\": \"table\", \"colStyles\": [\"col-10\", \"col-2 text-center\"], \"colLabels\": [\"Spell\", \"Charge Cost\"], \"rows\": [[\"{@spell Cure Wounds|XPHB}\", \"1 charge per spell level (maximum 4 for a level 4 spell)\"], [\"{@spell Lesser Restoration|XPHB}\", \"2\"], [\"{@spell Mass Cure Wound",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

@@ -2,12 +2,10 @@
   "name": "Sword of Kas",
   "type": "item",
   "source": "XDMG",
-  "rarity": "artifact",
+  "rarity": "",
   "value": "",
-  "weight": 3,
-  "description": "Kas was a powerful warrior who served {@book Vecna|XDMG|8|Vecna} and whose loyalty was rewarded with this sword. As Kas's power grew, so did his hubris. The sword urged Kas to destroy Vecna and usurp his throne. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind.\n{\"type\": \"entries\", \"name\": \"Bloodthirst\", \"entries\": [\"The sword thirsts for blood. If the sword doesn't taste blood on its blade within 1 minute",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

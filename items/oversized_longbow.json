@@ -2,14 +2,10 @@
   "name": "Oversized Longbow",
   "type": "item",
   "source": "WDH",
-  "rarity": "unknown",
+  "rarity": "",
   "value": "",
-  "weight": 2,
-  "description": "This unique weapon can be used only by a Medium or larger creature that has a Strength of 18 or higher. The bow shoots oversized arrows that deal piercing damage equal to {@dice 2d6} + the wielder's Strength modifier.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
-  "properties": [
-    "A",
-    "H",
-    "2H"
-  ]
+  "properties": []
 }

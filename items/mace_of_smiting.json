@@ -2,10 +2,10 @@
   "name": "Mace of Smiting",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +3 when you use the weapon to attack a Construct.\nWhen you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 Bludgeoning damage, or 14 Bludgeoning damage if it's a Construct. If a Construct has 25 {@variantrule Hit Points|XPHB} or fewer after taking this damage, it is destroyed.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

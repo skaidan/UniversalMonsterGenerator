@@ -2,10 +2,10 @@
   "name": "Bowl of Commanding Water Elementals",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While this bowl is filled with water and you are within 5 feet of it, you can take a {@action Magic|XPHB} action to summon a {@creature Water Elemental|XMM}. The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your {@variantrule Initiative|XPHB} count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a {@variantrule Bonus Action|XPHB}. The bowl can",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

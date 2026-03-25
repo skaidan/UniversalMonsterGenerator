@@ -2,13 +2,10 @@
   "name": "Whelm",
   "type": "item",
   "source": "XDMG",
-  "rarity": "artifact",
+  "rarity": "",
   "value": "",
-  "weight": 5,
-  "description": "Whelm is a powerful weapon forged by dwarves and lost in the dungeon of White Plume Mountain.\nYou gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.\n{\"type\": \"entries\", \"name\": \"Hurl\", \"entries\": [\"Whelm has {@itemProperty T|XPHB|Thrown} with a normal range of 60 feet and a long range of 180 feet. When you hit with a ranged attack roll using Whelm, the target takes an extra {@damage 1d8} Force damage, or an extra {@damage 4d8} Force damage if the target is a Construct,",
-  "requires_attunement": true,
-  "properties": [
-    "T|XPHB",
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Rival Coin",
   "type": "item",
   "source": "XDMG",
-  "rarity": "common",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a Rival Coin might show {@book Iggwilv|XDMG|8|Iggwilv} on one side and {@book Mordenkainen|XDMG|8|Mordenkainen} on the other, or {@book Venger|XDMG|8|Venger} on one side and {@book Tiamat|XDMG|8|Tiamat} on the other. One of these figures is on the \"heads\" side of the coin, the other on the \"tails\" side.\nThe coin has 1 charge and regains its expended charge ",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

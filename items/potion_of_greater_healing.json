@@ -2,10 +2,10 @@
   "name": "Potion of Greater Healing",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "You regain {@dice 4d4 + 4} {@variantrule Hit Points|XPHB} when you drink this potion. The potion's red liquid glimmers when agitated.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

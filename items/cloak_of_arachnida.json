@@ -2,10 +2,10 @@
   "name": "Cloak of Arachnida",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This fine garment is made of black silk interwoven with faint, silvery threads. While wearing it, you gain the following benefits.\n{\"type\": \"entries\", \"name\": \"Poison Resistance\", \"entries\": [\"You have {@variantrule Resistance|XPHB} to Poison damage.\"]}\n{\"type\": \"entries\", \"name\": \"Spider Climb\", \"entries\": [\"You have a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB} and can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free.\"]}\n",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

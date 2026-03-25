@@ -2,10 +2,10 @@
   "name": "Ring of Regeneration",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing this ring, you regain {@dice 1d6} {@variantrule Hit Points|XPHB} every 10 minutes if you have at least 1 {@variantrule Hit Points|XPHB|Hit Point}. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after {@dice 1d6 + 1} days if you have at least 1 {@variantrule Hit Points|XPHB|Hit Point} the whole time.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

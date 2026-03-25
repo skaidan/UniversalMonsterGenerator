@@ -2,10 +2,10 @@
   "name": "Boots of Striding and Springing",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While you wear these boots, your {@variantrule Speed|XPHB} becomes 30 feet unless your {@variantrule Speed|XPHB} is higher, and your {@variantrule Speed|XPHB} isn't reduced by you carrying weight in excess of your carrying capacity or wearing Heavy Armor.\nOnce on each of your turns, you can jump up to 30 feet by spending only 10 feet of movement.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

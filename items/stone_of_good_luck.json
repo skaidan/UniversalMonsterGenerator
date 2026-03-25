@@ -2,10 +2,10 @@
   "name": "Stone of Good Luck",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

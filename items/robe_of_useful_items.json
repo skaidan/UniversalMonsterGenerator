@@ -2,10 +2,10 @@
   "name": "Robe of Useful Items",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a {@action Magic|XPHB} action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.\nThe robe has two of each of the following patches:\n{\"type\": \"list\", \"items\": [\"{@item Bullseye Lantern|XPHB} (filled and lit)\", \"{@item Dagger|XPHB}\", \"{@item Mirror|XPHB}\", \"{@item Pole|XPHB}\", \"{@item R",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

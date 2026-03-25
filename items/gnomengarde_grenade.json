@@ -2,10 +2,10 @@
   "name": "Gnomengarde Grenade",
   "type": "item",
   "source": "DC",
-  "rarity": "varies",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This small metallic object is comprised of rune-covered parts made from different metals, linked together with a variety of gears, bands, bits, and bobs. The metals are all different colors, making the grenade shine with a rainbow of color when held up in the light.\nAs a bonus action, a creature can turn a special key to arm the grenade. Once armed, the grenade explodes in a matter of seconds. As an action, the wielder can hurl the grenade up to 120 feet. At the end of their turn, the grenade ex",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

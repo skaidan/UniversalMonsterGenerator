@@ -2,10 +2,10 @@
   "name": "Robe of Stars",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.\nSix stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a {@action Magic|XPHB} action to remove one of the stars and expend it to cast the level 5 version of {@spell Magic Missile|XPHB}. Daily at dusk, {@dice 1d6} removed stars reappear on the robe.\nWhile you wear the robe, you can take a {@action Magic|X",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

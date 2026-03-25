@@ -2,10 +2,10 @@
   "name": "Cauldron of Rebirth",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This Tiny pot bears relief scenes of heroes on its cast-iron sides.\nYou can use the cauldron as a {@variantrule Spellcasting Focus|XPHB} for your spells, and it functions as a suitable component for the {@spell Scrying|XPHB} spell.\n{\"type\": \"entries\", \"name\": \"Brew Potion\", \"entries\": [\"When you finish a {@variantrule Long Rest|XPHB}, you can use the cauldron to create a {@item Potion of Greater Healing|XDMG|Potion of Healing (greater)}, which takes 1 minute. The potion lasts for 24 hours, then ",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Circlet of Blasting",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing this circlet, you can cast {@spell Scorching Ray|XPHB} with it ({@hit 5} to hit). The circlet can't cast this spell again until the next dawn.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

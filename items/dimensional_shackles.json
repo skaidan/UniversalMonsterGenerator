@@ -2,10 +2,10 @@
   "name": "Dimensional Shackles",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "You can take a {@action Utilize|XPHB} action to place these shackles on a creature that has the {@condition Incapacitated|XPHB} condition. The shackles adjust to fit a creature of Small to Large size. The shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.\nYou and any creature you designate when you use the",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

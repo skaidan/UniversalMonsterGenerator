@@ -2,10 +2,10 @@
   "name": "Mirror of Life Trapping",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
-  "weight": 50,
-  "description": "When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, {@variantrule Immunity|XPHB} to Poison and Psychic damage, and {@variantrule Vulnerability|XPHB} to Bludgeoning damage. It shatters and is destroyed when reduced to 0 {@variantrule Hit Points|XPHB}.\nIf the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a {@action Magic|XPHB} action and use a comma",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

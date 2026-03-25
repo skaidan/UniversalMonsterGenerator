@@ -2,10 +2,10 @@
   "name": "Potion of Comprehension",
   "type": "item",
   "source": "XDMG",
-  "rarity": "common",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "When you drink this potion, you gain the effect of the {@spell Comprehend Languages|XPHB} spell for 1 hour.\nThis potion's liquid is a clear concoction with bits of salt and soot swirling in it.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

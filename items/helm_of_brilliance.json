@@ -2,10 +2,10 @@
   "name": "Helm of Brilliance",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This helm is set with {@dice 1d10} diamonds, {@dice 2d10} rubies, {@dice 3d10} fire opals, and {@dice 4d10} opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.\nYou gain the following benefits while wearing the helm.\n{\"type\": \"entries\", \"name\": \"Diamond Light\", \"entries\": [\"As long as it has at least one diamond, the helm emits a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. When at least one Undead is with",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

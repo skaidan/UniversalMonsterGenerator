@@ -2,10 +2,10 @@
   "name": "Potion of Vitality",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "When you drink this potion, it removes any {@condition Exhaustion|XPHB} levels you have and ends the {@condition Poisoned|XPHB} condition on you. For the next 24 hours, you regain the maximum number of {@variantrule Hit Points|XPHB} for any {@variantrule Hit Point Dice|XPHB|Hit Point Die} you spend.\nThis potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

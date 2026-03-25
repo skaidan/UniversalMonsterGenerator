@@ -2,10 +2,10 @@
   "name": "Goggles of Night",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing these dark lenses, you have {@sense Darkvision|XPHB} out to 60 feet. If you already have {@sense Darkvision|XPHB}, wearing the goggles increases its range by 60 feet.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

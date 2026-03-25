@@ -2,12 +2,10 @@
   "name": "Staff of Frost",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "You have {@variantrule Resistance|XPHB} to Cold damage while you hold this staff.\n{\"type\": \"entries\", \"name\": \"Spells\", \"entries\": [\"The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.\", {\"type\": \"table\", \"colStyles\": [\"col-10\", \"col-2 text-center\"], \"colLabels\": [\"Spell\", \"Charge Cost\"], \"rows\": [[\"{@spell Cone of Cold|XPHB}\", \"5\"], [\"{@",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Potion of Fire Breath",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "After drinking this potion, you can take a {@variantrule Bonus Action|XPHB} to exhale fire at a target within 30 feet of yourself. The target makes a {@dc 13} Dexterity saving throw, taking {@damage 4d6} Fire damage on a failed save or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed.\nThis potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

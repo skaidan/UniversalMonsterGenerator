@@ -2,12 +2,10 @@
   "name": "Javelin of Lightning",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 2,
-  "description": "Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.\n{\"type\": \"entries\", \"name\": \"Lightning Bolt\", \"entries\": [\"When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide {@variantrule Line [Area of Effect]|XPHB|Line} between you and the target. The target and each other creature",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
-  "properties": [
-    "T|XPHB"
-  ]
+  "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Truth Serum",
   "type": "item",
   "source": "XDMG",
-  "rarity": "none",
-  "value": 15000,
+  "rarity": "",
+  "value": "",
   "weight": "",
-  "description": "A creature subjected to Truth Serum must succeed on a {@dc 11} Constitution saving throw or have the {@condition Poisoned|XPHB} condition for 1 hour. The {@condition Poisoned|XPHB} creature can't knowingly communicate a lie.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

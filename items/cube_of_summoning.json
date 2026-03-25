@@ -2,10 +2,10 @@
   "name": "Cube of Summoning",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This Tiny cube looks like a jack-in-the-box. When you wind its crank as a {@action Magic|XPHB} action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can't otherwise be opened.\nRoll on the {@item Cube of Summoning|XDMG} table to determine which spell the cube casts to summon the creature. The spell is cast at level 5 (save {@dc 17}, +9 attack bonus) and doesn't require {@status Concentration|XPHB}, but you other",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

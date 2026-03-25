@@ -2,10 +2,10 @@
   "name": "Rod of Resurrection",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
-  "weight": 2,
-  "description": "The rod has 5 charges. While you hold it, you can cast one of the following spells from it: {@spell Heal|XPHB} (expends 1 charge) or {@spell Resurrection|XPHB} (expends 5 charges).\nThe rod regains 1 expended charge daily at dawn. If you expend the last charge, roll {@dice 1d20}. On a 1, the rod disappears in a harmless burst of radiance.",
-  "requires_attunement": true,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

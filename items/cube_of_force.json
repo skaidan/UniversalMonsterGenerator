@@ -2,10 +2,10 @@
   "name": "Cube of Force",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save {@dc 17}), as shown in the Cube of Force Faces table.\nThe cube starts with 10 charges, and it regains {@dice 1d6} expended charges daily at dawn.\n{\"type\": \"table\", \"caption\": \"Cube of Force Faces\", \"colStyles\": [\"col-10\", \"col-2 text-center\"], \"colLabels\": [\"Spell\", \"Charge Cost\"], \"rows\": [[",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

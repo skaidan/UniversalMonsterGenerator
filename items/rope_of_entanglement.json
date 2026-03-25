@@ -2,10 +2,10 @@
   "name": "Rope of Entanglement",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This rope is 30 feet long. While holding one end of the rope, you can take a {@action Magic|XPHB} action to command the other end to dart forward and entangle one creature you can see within 20 feet of yourself. The target must succeed on a {@dc 15} Dexterity saving throw or have the {@condition Restrained|XPHB} condition. You can release the target by letting go of your end of the rope (causing the rope to coil up in the target's space) or by using a {@variantrule Bonus Action|XPHB} to repeat t",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

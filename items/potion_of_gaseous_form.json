@@ -2,10 +2,10 @@
   "name": "Potion of Gaseous Form",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "When you drink this potion, you gain the effect of the {@spell Gaseous Form|XPHB} spell for 1 hour (no {@status Concentration|XPHB} required) or until you end the effect as a {@variantrule Bonus Action|XPHB}.\nThis potion's container seems to hold fog that moves and pours like water.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

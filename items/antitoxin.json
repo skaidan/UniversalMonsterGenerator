@@ -2,10 +2,10 @@
   "name": "Antitoxin",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 5000,
+  "rarity": "",
+  "value": "",
   "weight": "",
-  "description": "As a {@variantrule Bonus Action|XPHB}, you can drink a vial of Antitoxin to gain {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Poisoned|XPHB} condition for 1 hour.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

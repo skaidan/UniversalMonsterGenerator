@@ -2,10 +2,10 @@
   "name": "Orb of Dragonkind",
   "type": "item",
   "source": "XDMG",
-  "rarity": "artifact",
+  "rarity": "",
   "value": "",
-  "weight": 3,
-  "description": "Long ago, in the Dragonlance setting, elves and humans waged a terrible war against chromatic dragons. When the world seemed doomed, the wizards of the Towers of High Sorcery came together and forged five Orbs of Dragonkind to help defeat the dragons. One orb was taken to each of the five towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.\nAs the Towers of High Sorcery fell i",
-  "requires_attunement": true,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

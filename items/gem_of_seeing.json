@@ -2,10 +2,10 @@
   "name": "Gem of Seeing",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This gem has 3 charges. As a {@action Magic|XPHB} action, you can expend 1 charge. For the next 10 minutes, you have {@sense Truesight|XPHB} out to 120 feet when you peer through the gem.\nThe gem regains {@dice 1d3} expended charges daily at dawn.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

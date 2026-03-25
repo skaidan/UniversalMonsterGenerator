@@ -2,12 +2,10 @@
   "name": "Sword of Answering",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
-  "weight": 3,
-  "description": "You gain a +3 bonus to attack rolls and damage rolls made with this sword. In addition, while you hold the sword, you can take a {@variantrule Reaction|XPHB} to make one melee attack with it against any creature in your reach that deals damage to you. You have {@variantrule Advantage|XPHB} on the attack roll, and any damage dealt with this special attack ignores any {@variantrule Immunity|XPHB} or {@variantrule Resistance|XPHB} the target has to that damage.",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

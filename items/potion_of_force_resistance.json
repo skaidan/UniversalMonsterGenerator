@@ -2,10 +2,10 @@
   "name": "Potion of Force Resistance",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "{#itemEntry Potion of Resistance|XDMG}",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

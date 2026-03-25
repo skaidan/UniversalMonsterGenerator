@@ -2,10 +2,10 @@
   "name": "Rod of Security",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
-  "weight": 2,
-  "description": "While holding this rod, you can take a {@action Magic|XPHB} action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a demiplane. You choose the form the demiplane takes. It could be a tranquil garden, a cheery tavern, an immense palace, a tropical island, a fantastic carnival, or whatever else you can imagine. Regardless of its nature, the demiplane contains enough water and food to sustain its visitors, and the demiplane's environment ca",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

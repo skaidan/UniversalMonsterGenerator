@@ -2,10 +2,10 @@
   "name": "Mace of Terror",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "This magic weapon has 3 charges and regains {@dice 1d3} expended charges daily at dawn. While holding the weapon, you can take a {@action Magic|XPHB} action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a {@dc 15} Wisdom saving throw or have the {@condition Frightened|XPHB} condition for 1 minute. While {@condition Frightened|XPHB} in this way, a creature must spend its turns trying to move as far away from you as it c",
-  "requires_attunement": true,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

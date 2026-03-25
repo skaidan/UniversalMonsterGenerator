@@ -2,10 +2,10 @@
   "name": "Helm of Comprehending Languages",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing this helm, you can cast {@spell Comprehend Languages|XPHB} from it.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

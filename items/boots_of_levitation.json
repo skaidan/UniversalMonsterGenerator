@@ -2,10 +2,10 @@
   "name": "Boots of Levitation",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While you wear these boots, you can cast {@spell Levitate|XPHB} on yourself.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

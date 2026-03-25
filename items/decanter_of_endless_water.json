@@ -2,10 +2,10 @@
   "name": "Decanter of Endless Water",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 2,
-  "description": "This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.\nYou can take a {@action Magic|XPHB} action to remove the stopper and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Splash\", \"entries\": [\"The dec",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

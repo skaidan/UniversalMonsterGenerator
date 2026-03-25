@@ -2,10 +2,10 @@
   "name": "Bracers of Archery",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing these bracers, you have proficiency with the {@item Longbow|XPHB} and {@item Shortbow|XPHB}, and you gain a +2 bonus to damage rolls made with such weapons.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Talisman of Ultimate Evil",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
-  "weight": 1,
-  "description": "This item symbolizes unrepentant evil. A creature that isn't a Fiend or an Undead that touches the talisman takes {@damage 8d6} Necrotic damage and takes the damage again each time it ends its turn holding or carrying the talisman.\n{\"type\": \"entries\", \"name\": \"Holy Symbol\", \"entries\": [\"You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack rolls while you wear or hold it.\"]}\n{\"type\": \"entries\", \"name\": \"Ultimate End\", \"entries\": [\"The talisman has 6 charges. While wearin",
-  "requires_attunement": true,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

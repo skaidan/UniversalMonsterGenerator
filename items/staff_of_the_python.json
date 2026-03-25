@@ -2,12 +2,10 @@
   "name": "Staff of the Python",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 4,
-  "description": "As a {@action Magic|XPHB} action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a {@creature Giant Constrictor Snake|XMM} in that space. The snake is under your control and shares your {@variantrule Initiative|XPHB} count, taking its turn immediately after yours.\nOn your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you don't have the {@condition Incapacitated|XPHB} condition.",
-  "requires_attunement": true,
-  "properties": [
-    "V|XPHB"
-  ]
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
 }

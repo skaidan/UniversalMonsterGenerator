@@ -2,10 +2,10 @@
   "name": "Iron Flask",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While holding this brass-stoppered iron flask, you can take a {@action Magic|XPHB} action to target a creature that you can see within 60 feet of yourself. If the flask is empty and the target is native to a plane of existence other than the one you're on, the target must succeed on a {@dc 17} Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has {@variantrule Advantage|XPHB} on the save. Once trapped, a creature remains in the flask until rel",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

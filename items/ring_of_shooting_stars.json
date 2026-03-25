@@ -2,10 +2,10 @@
   "name": "Ring of Shooting Stars",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "You can cast {@spell Dancing Lights|XPHB} or {@spell Light|XPHB} from the ring.\nThe ring has 6 charges and regains {@dice 1d6} expended charges daily at dawn. You can expend its charges to use the properties below.\n{\"type\": \"entries\", \"name\": \"Faerie Fire\", \"entries\": [\"You can expend 1 charge to cast {@spell Faerie Fire|XPHB} from the ring.\"]}\n{\"type\": \"entries\", \"name\": \"Lightning Spheres\", \"entries\": [\"You can expend 2 charges as a {@action Magic|XPHB} action to create up to four 3-foot-diame",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

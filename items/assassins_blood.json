@@ -2,10 +2,10 @@
   "name": "Assassin's Blood",
   "type": "item",
   "source": "XDMG",
-  "rarity": "none",
-  "value": 15000,
+  "rarity": "",
+  "value": "",
   "weight": "",
-  "description": "A creature subjected to Assassin's Blood makes a {@dc 10} Constitution saving throw. On a failed save, the creature takes 6 ({@damage 1d12}) Poison damage and has the {@condition Poisoned|XPHB} condition for 24 hours. On a successful save, the creature takes half as much damage only.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

@@ -2,10 +2,10 @@
   "name": "Bag of Beans",
   "type": "item",
   "source": "XDMG",
-  "rarity": "rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "This heavy cloth bag contains {@dice 3d4} dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a nonmagical item when it no longer contains any beans.\nIf you dump one or more beans out of the bag, they explode in a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on them. All the dumped beans are destroyed in the explosion, and each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, including you, makes ",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

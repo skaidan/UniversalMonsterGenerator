@@ -2,10 +2,10 @@
   "name": "Potion of Growth",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
-  "weight": 0.5,
-  "description": "When you drink this potion, you gain the \"enlarge\" effect of the {@spell Enlarge/Reduce|XPHB} spell for 10 minutes (no {@status Concentration|XPHB} required).\nThe red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

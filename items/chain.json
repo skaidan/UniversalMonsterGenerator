@@ -2,10 +2,10 @@
   "name": "Chain",
   "type": "item",
   "source": "XPHB",
-  "rarity": "none",
-  "value": 500,
-  "weight": 10,
-  "description": "As a {@action Utilize|XPHB} action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition if you succeed on a {@dc 13} Strength ({@skill Athletics|XPHB}) check. If the creature's legs are bound, the creature has the {@condition Restrained|XPHB} condition until it escapes. Escaping the Chain requires the creature to make a successful {@dc 18} Dexterity ({@skill",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

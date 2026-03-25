@@ -2,10 +2,10 @@
   "name": "Hag Eye",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast {@spell Darkvision|XPHB} (targeting yourself only) or {@spell See Invisibility|XPHB}. The Hag Eye regains all expended charges daily at dawn.\n{\"type\": \"entries\", \"name\": \"Coven Sensor\", \"entries\": [\"The Hag Eye is usually entrusted to a hag's minion for safekeeping and transport. As a {@action Magic|XPHB} action, a hag who belongs to the coven that created the Hag Eye can see what the Hag Eye sees if the",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

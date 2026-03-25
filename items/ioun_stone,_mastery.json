@@ -2,10 +2,10 @@
   "name": "Ioun Stone, Mastery",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "{#itemEntry Ioun Stone|XDMG}\nYour {@variantrule Proficiency|XPHB|Proficiency Bonus} increases by 1 while this pale green prism orbits your head.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

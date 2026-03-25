@@ -2,10 +2,10 @@
   "name": "Ioun Stone, Fortitude",
   "type": "item",
   "source": "XDMG",
-  "rarity": "very rare",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "{#itemEntry Ioun Stone|XDMG}\nYour Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

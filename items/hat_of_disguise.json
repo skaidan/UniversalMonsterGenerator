@@ -2,10 +2,10 @@
   "name": "Hat of Disguise",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing this hat, you can cast the {@spell Disguise Self|XPHB} spell. The spell ends if the hat is removed.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

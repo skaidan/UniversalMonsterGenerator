@@ -2,10 +2,10 @@
   "name": "Ring of Elemental Command (Earth)",
   "type": "item",
   "source": "XDMG",
-  "rarity": "legendary",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "The Ring of Elemental Command (earth) is linked to the Elemental Plane of Earth. Every Ring of Elemental Command has the following two properties:\n{\"type\": \"list\", \"items\": [{\"type\": \"item\", \"name\": \"Elemental Bane\", \"entries\": [\"While wearing the ring, you have {@variantrule Advantage|XPHB} on attack rolls against Elementals and they have {@variantrule Disadvantage|XPHB} on attack rolls against you.\"]}, {\"type\": \"item\", \"name\": \"Elemental Compulsion\", \"entries\": [\"While wearing the ring, you ca",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

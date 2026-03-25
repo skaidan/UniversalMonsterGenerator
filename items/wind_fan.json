@@ -2,10 +2,10 @@
   "name": "Wind Fan",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While holding this fan, you can cast {@spell Gust of Wind|XPHB} (save {@dc 13}) from it. Each subsequent time the fan is used before the next dawn, it has a cumulative {@chance 20} chance of not working; if the fan fails to work, it tears into useless, nonmagical tatters.",
+  "description": "",
   "requires_attunement": false,
   "properties": []
 }

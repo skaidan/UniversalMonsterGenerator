@@ -2,10 +2,10 @@
   "name": "Pipes of the Sewers",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While these pipes are on your person, ordinary {@creature rat|XMM|rats} and {@creature giant rat|XMM|giant rats} are {@variantrule Indifferent [Attitude]|XPHB|Indifferent} toward you and won't attack you unless you threaten or harm them.\nThe pipes have 3 charges and regain {@dice 1d3} expended charges daily at dawn. If you play the pipes as a {@action Magic|XPHB} action, you can take a {@variantrule Bonus Action|XPHB} to expend 1 to 3 charges, calling forth one {@creature Swarm of Rats|XMM} with",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }

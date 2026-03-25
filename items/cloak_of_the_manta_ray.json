@@ -2,10 +2,10 @@
   "name": "Cloak of the Manta Ray",
   "type": "item",
   "source": "XDMG",
-  "rarity": "uncommon",
+  "rarity": "",
   "value": "",
   "weight": "",
-  "description": "While wearing this cloak, you can breathe underwater, and you have a {@variantrule Swim Speed|XPHB} of 60 feet.",
-  "requires_attunement": true,
+  "description": "",
+  "requires_attunement": false,
   "properties": []
 }
