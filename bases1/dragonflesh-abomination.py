@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class DragonfleshAbomination(GlobalCreatureBaseClass):
     """
-    DragonfleshAbomination creature
-    Size: Huge, Type: Monstrosity, typically Neutral Evil
+    Huge Monstrosity creature - DragonfleshAbomination
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 66,
-        "min_level": 7,
-        "level": 7,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 15,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "Monstrosity, typically Neutral Evil",
-        "hit_points_up": [6, 6, 6],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 66, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 14, 'CON': 17, 'INT': 5, 'WIS': 12, 'CHAR': 6, 'armor_class': 15, 'alignment': 'typically Neutral Evil Armor Class  15 (natural armor) Hit Points  66 (7d12 + 21) Speed  30 ft. fly 40 ft. STR 18 (+4) DEX 14 (+2) CON 17 (+3) INT 5 (-3) WIS 12 (+1) CHA 6 (-2) Saving Throws  Str +7', 'legendary': False, 'size': 'Huge', 'type': 'Monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

@@ -7,45 +7,25 @@ from creature_base import GlobalCreatureBaseClass
 
 class Hydra(GlobalCreatureBaseClass):
     """
-    Hydra creature
-    Size: Huge, Type: monstrosity, unaligned
+    Huge monstrosity creature - Hydra
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 172,
-        "min_level": 9,
-        "level": 9,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 15,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "monstrosity, unaligned",
-        "hit_points_up": [17, 17, 17],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 172, 'min_level': 1, 'level': 1, 'STR': 20, 'DEX': 12, 'CON': 20, 'INT': 2, 'WIS': 10, 'CHAR': 7, 'armor_class': 15, 'alignment': 'unaligned Armor Class  15 (natural armor) Hit Points  172 (15d12 + 75) Speed  30 ft.', 'legendary': False, 'size': 'Huge', 'type': 'monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['hold_breath', 'multiattack', 'bite']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['hold_breath'])
 
     def hold_breath(self) -> str:
-        """Hold Breath: The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more..."""
-        return "The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, f"
-    def hold_breath(self) -> str:
-        """Hold Breath: The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more..."""
-        return "The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, f"
+        """The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, f"""
+        return 'The hydra can hold its breath for 1 hour.Multiple Heads. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, f'
+
+    def multiattack_attack(self) -> str:
+        """The hydra makes as many bite attacks as it has heads."""
+        return 'The hydra makes as many bite attacks as it has heads.'
+
+    def bite_attack(self) -> str:
+        """Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage."""
+        return 'Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.'
 

@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class CrokekToeck(GlobalCreatureBaseClass):
     """
-    CrokekToeck creature
-    Size: Gargantuan, Type: fiend (Demon), chaotic evil
+    Gargantuan fiend (Demon) creature - CrokekToeck
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 297,
-        "min_level": 15,
-        "level": 15,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 15,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "fiend (Demon), chaotic evil",
-        "hit_points_up": [29, 29, 29],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 297, 'min_level': 1, 'level': 1, 'STR': 28, 'DEX': 10, 'CON': 24, 'INT': 6, 'WIS': 10, 'CHAR': 13, 'armor_class': 15, 'alignment': 'chaotic evil Armor Class  15 (natural armor) Hit Points  297 (17d20 + 119) Speed  60 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

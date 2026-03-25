@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class AncientDeepDragon(GlobalCreatureBaseClass):
     """
-    AncientDeepDragon creature
-    Size: Gargantuan, Type: Dragon, typically Neutral Evil
+    Gargantuan Dragon creature - AncientDeepDragon
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 201,
-        "min_level": 19,
-        "level": 19,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 20,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "Dragon, typically Neutral Evil",
-        "hit_points_up": [20, 20, 20],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 201, 'min_level': 1, 'level': 1, 'STR': 23, 'DEX': 16, 'CON': 20, 'INT': 19, 'WIS': 18, 'CHAR': 21, 'armor_class': 20, 'alignment': 'typically Neutral Evil Armor Class  20 (natural armor) Hit Points  201 (13d20 + 65) Speed  40 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'Dragon', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

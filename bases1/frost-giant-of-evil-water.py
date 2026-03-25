@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class FrostGiantOfEvilWater(GlobalCreatureBaseClass):
     """
-    FrostGiantOfEvilWater creature
-    Size: Huge, Type: Giant, typically Neutral Evil
+    Huge Giant creature - FrostGiantOfEvilWater
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 172,
-        "min_level": 12,
-        "level": 12,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 16,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "Giant, typically Neutral Evil",
-        "hit_points_up": [17, 17, 17],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 172, 'min_level': 1, 'level': 1, 'STR': 23, 'DEX': 16, 'CON': 21, 'INT': 9, 'WIS': 14, 'CHAR': 12, 'armor_class': 16, 'alignment': 'typically Neutral Evil Armor Class  16 (scale mail) Hit Points  172 (15d12 + 75) Speed  40 ft.', 'legendary': False, 'size': 'Huge', 'type': 'Giant', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

@@ -7,43 +7,29 @@ from creature_base import GlobalCreatureBaseClass
 
 class AstralDreadnought(GlobalCreatureBaseClass):
     """
-    AstralDreadnought creature
-    Size: Huge, Type: or smaller creature that the dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be teleported to an unoccupied space on the floor of the Demiplanar Donjon. At the end of the target's next turn, it reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+    Gargantuan Monstrosity (Titan) creature - AstralDreadnought
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 297,
-        "min_level": 22,
-        "level": 22,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 20,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "or smaller creature that the dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be teleported to an unoccupied space on the floor of the Demiplanar Donjon. At the end of the target's next turn, it reappears in the space it left or in the nearest unoccupied space if that space is occupied.",
-        "hit_points_up": [29, 29, 29],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 297, 'min_level': 1, 'level': 1, 'STR': 28, 'DEX': 7, 'CON': 25, 'INT': 5, 'WIS': 14, 'CHAR': 18, 'armor_class': 20, 'alignment': 'unaligned Armor Class  20 (natural armor) Hit Points  297 (17d20 + 119) Speed  15 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'Monstrosity (Titan)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['antimagic_cone', 'multiattack', 'bite', 'claw']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        self.abilities.extend(['antimagic_cone'])
 
     def antimagic_cone(self) -> str:
-        """Antimagic Cone: The dreadnought's eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot c..."""
+        """The dreadnought's eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, it decides which way the cone faces. The cone doesn't functi"""
         return "The dreadnought's eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, it decides which way the cone faces. The cone doesn't functi"
+
+    def multiattack_attack(self) -> str:
+        """The dreadnought makes one Bite attack and two Claw attacks."""
+        return 'The dreadnought makes one Bite attack and two Claw attacks.'
+
+    def bite_attack(self) -> str:
+        """Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36 (5d10 + 9) force damage. If the target is a Huge or smaller creature and this damage reduces it to 0 hit points or it is incapacitated, the dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the Demiplanar Donjon."""
+        return 'Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36 (5d10 + 9) force damage. If the target is a Huge or smaller creature and this damage reduces it to 0 hit points or it is incapacitated, the dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the Demiplanar Donjon.'
+
+    def claw_attack(self) -> str:
+        """Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19 (3d6 + 9) force damage."""
+        return 'Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19 (3d6 + 9) force damage.'
 

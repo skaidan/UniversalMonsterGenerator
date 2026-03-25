@@ -7,45 +7,33 @@ from creature_base import GlobalCreatureBaseClass
 
 class GraySlaad(GlobalCreatureBaseClass):
     """
-    GraySlaad creature
-    Size: Small, Type: or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+    Medium aberration (Shapechanger) creature - GraySlaad
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 127,
-        "min_level": 10,
-        "level": 10,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 18,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Small",
-        "type": "or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
-        "hit_points_up": [12, 12, 12],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 127, 'min_level': 1, 'level': 1, 'STR': 17, 'DEX': 17, 'CON': 16, 'INT': 13, 'WIS': 8, 'CHAR': 14, 'armor_class': 18, 'alignment': 'chaotic neutral Armor Class  18 (natural armor) Hit Points  127 (17d8 +51) Speed  30 ft. STR 17 (+3) DEX 17 (+3) CON 16 (+3) INT 13 (+1) WIS 8 (-1) CHA 14 (+2) Skills  Arcana +5', 'legendary': False, 'size': 'Medium', 'type': 'aberration (Shapechanger)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['shapechanger', 'multiattack', 'bite_(slaad_form_only)', 'claws_(slaad_form_only)', 'greatsword']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['shapechanger'])
 
     def shapechanger(self) -> str:
-        """Shapechanger: The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true for..."""
-        return "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or ca"
-    def shapechanger(self) -> str:
-        """Shapechanger: The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true for..."""
-        return "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or ca"
+        """The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or ca"""
+        return 'The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or ca'
+
+    def multiattack_attack(self) -> str:
+        """The slaad makes three attacks: one with its bite and two with its claws or greatsword."""
+        return 'The slaad makes three attacks: one with its bite and two with its claws or greatsword.'
+
+    def bite_(slaad_form_only)_attack(self) -> str:
+        """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."""
+        return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
+
+    def claws_(slaad_form_only)_attack(self) -> str:
+        """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage."""
+        return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.'
+
+    def greatsword_attack(self) -> str:
+        """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."""
+        return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.'
 

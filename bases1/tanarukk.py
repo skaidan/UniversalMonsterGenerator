@@ -7,43 +7,29 @@ from creature_base import GlobalCreatureBaseClass
 
 class Tanarukk(GlobalCreatureBaseClass):
     """
-    Tanarukk creature
-    Size: Medium, Type: Fiend (Demon), typically Chaotic Evil
+    Medium Fiend (Demon) creature - Tanarukk
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 95,
-        "min_level": 6,
-        "level": 6,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 14,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "Fiend (Demon), typically Chaotic Evil",
-        "hit_points_up": [9, 9, 9],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 95, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 13, 'CON': 20, 'INT': 9, 'WIS': 9, 'CHAR': 9, 'armor_class': 14, 'alignment': 'typically Chaotic Evil Armor Class  14 (natural armor) Hit Points  95 (10d8 + 50) Speed  30 ft. STR 18 (+4) DEX 13 (+1) CON 20 (+5) INT 9 (-1) WIS 9 (-1) CHA 9 (-1) Skills  Intimidation +2', 'legendary': False, 'size': 'Medium', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['magic_resistance', 'multiattack', 'bite', 'greatsword']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        self.abilities.extend(['magic_resistance'])
 
     def magic_resistance(self) -> str:
-        """Magic Resistance: The tanarukk has advantage on saving throws against spells and other magical effects.ActionsMultiatt..."""
-        return "The tanarukk has advantage on saving throws against spells and other magical effects.ActionsMultiattack. The tanarukk makes one Bite attack and one Greatsword attack.Bite. Melee Weapon Attack: +7 to h"
+        """The tanarukk has advantage on saving throws against spells and other magical effects."""
+        return 'The tanarukk has advantage on saving throws against spells and other magical effects.'
+
+    def multiattack_attack(self) -> str:
+        """The tanarukk makes one Bite attack and one Greatsword attack."""
+        return 'The tanarukk makes one Bite attack and one Greatsword attack.'
+
+    def bite_attack(self) -> str:
+        """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."""
+        return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.'
+
+    def greatsword_attack(self) -> str:
+        """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."""
+        return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.'
 

@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class SpermWhale(GlobalCreatureBaseClass):
     """
-    SpermWhale creature
-    Size: Gargantuan, Type: beast, unaligned
+    Gargantuan beast creature - SpermWhale
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 189,
-        "min_level": 9,
-        "level": 9,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 13,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "beast, unaligned",
-        "hit_points_up": [18, 18, 18],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 189, 'min_level': 1, 'level': 1, 'STR': 26, 'DEX': 8, 'CON': 17, 'INT': 3, 'WIS': 12, 'CHAR': 5, 'armor_class': 13, 'alignment': 'unaligned Armor Class  13 (natural armor) Hit Points  189 (14d20 + 42) Speed  0 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'beast', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

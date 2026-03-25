@@ -7,43 +7,21 @@ from creature_base import GlobalCreatureBaseClass
 
 class MinorEarthElemental(GlobalCreatureBaseClass):
     """
-    MinorEarthElemental creature
-    Size: Small, Type: elemental, neutral
+    Small elemental creature - MinorEarthElemental
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 60,
-        "min_level": 2,
-        "level": 2,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 15,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Small",
-        "type": "elemental, neutral",
-        "hit_points_up": [6, 6, 6],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 60, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 6, 'CON': 16, 'INT': 3, 'WIS': 10, 'CHAR': 5, 'armor_class': 15, 'alignment': 'neutral Armor Class  15 (natural qrmor) Hit Points  60 (8d8 + 24) Speed  10 ft.', 'legendary': False, 'size': 'Small', 'type': 'elemental', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['downhill_roller', 'slam']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        self.abilities.extend(['downhill_roller'])
 
     def downhill_roller(self) -> str:
-        """Downhill Roller: The elemental's walking speed increases to 30 while moving downhill. If it moves at least 15 feet st..."""
+        """The elemental's walking speed increases to 30 while moving downhill. If it moves at least 15 feet straight towards a target and then hits it with a slam attack on the same turn, the target takes an ex"""
         return "The elemental's walking speed increases to 30 while moving downhill. If it moves at least 15 feet straight towards a target and then hits it with a slam attack on the same turn, the target takes an ex"
+
+    def slam_attack(self) -> str:
+        """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage."""
+        return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.'
 

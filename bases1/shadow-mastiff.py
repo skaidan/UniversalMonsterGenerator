@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class ShadowMastiff(GlobalCreatureBaseClass):
     """
-    ShadowMastiff creature
-    Size: Medium, Type: Monstrosity, typically Neutral Evil
+    Medium Monstrosity creature - ShadowMastiff
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 33,
-        "min_level": 3,
-        "level": 3,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 12,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "Monstrosity, typically Neutral Evil",
-        "hit_points_up": [3, 3, 3],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 33, 'min_level': 1, 'level': 1, 'STR': 16, 'DEX': 14, 'CON': 13, 'INT': 5, 'WIS': 12, 'CHAR': 5, 'armor_class': 12, 'alignment': 'typically Neutral Evil Armor Class  12 Hit Points  33 (6d8 + 6) Speed  40 ft. STR 16 (+3) DEX 14 (+2) CON 13 (+1) INT 5 (-3) WIS 12 (+1) CHA 5 (-3) Skills  Perception +5', 'legendary': False, 'size': 'Medium', 'type': 'Monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

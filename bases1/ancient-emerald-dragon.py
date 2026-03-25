@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class AncientEmeraldDragon(GlobalCreatureBaseClass):
     """
-    AncientEmeraldDragon creature
-    Size: Gargantuan, Type: dragon (Gem), typically Lawful Neutral
+    Gargantuan dragon (Gem) creature - AncientEmeraldDragon
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 332,
-        "min_level": 22,
-        "level": 22,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 20,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "dragon (Gem), typically Lawful Neutral",
-        "hit_points_up": [33, 33, 33],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 332, 'min_level': 1, 'level': 1, 'STR': 25, 'DEX': 12, 'CON': 25, 'INT': 20, 'WIS': 18, 'CHAR': 20, 'armor_class': 20, 'alignment': 'typically Lawful Neutral Armor Class  20 (natural armor) Hit Points  332 (19d20 + 133) Speed  40 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'dragon (Gem)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

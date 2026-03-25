@@ -7,51 +7,21 @@ from creature_base import GlobalCreatureBaseClass
 
 class Crab(GlobalCreatureBaseClass):
     """
-    Crab creature
-    Size: Tiny, Type: beast, unaligned
+    Tiny beast creature - Crab
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 2,
-        "min_level": 1,
-        "level": 1,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 11,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Tiny",
-        "type": "beast, unaligned",
-        "hit_points_up": [1, 1, 1],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 2, 'min_level': 1, 'level': 1, 'STR': 2, 'DEX': 11, 'CON': 10, 'INT': 1, 'WIS': 8, 'CHAR': 2, 'armor_class': 11, 'alignment': 'unaligned Armor Class  11 (natural armor) Hit Points  2 (1d4) Speed  20 ft.', 'legendary': False, 'size': 'Tiny', 'type': 'beast', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['amphibious', 'claw']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['amphibious'])
 
     def amphibious(self) -> str:
-        """Amphibious: The crab can breathe air and water.ActionsClaw. Melee Weapon Attack: +0 to hit, reach 5 ft., one tar..."""
-        return "The crab can breathe air and water.ActionsClaw. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.Monster Manual (SRD)
-			
-				
-			    	DnD 5e Monsters › Crab"
-    def amphibious(self) -> str:
-        """Amphibious: The crab can breathe air and water.ActionsClaw. Melee Weapon Attack: +0 to hit, reach 5 ft., one tar..."""
-        return "The crab can breathe air and water.ActionsClaw. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.Monster Manual (SRD)
-			
-				
-			    	DnD 5e Monsters › Crab"
+        """The crab can breathe air and water."""
+        return 'The crab can breathe air and water.'
+
+    def claw_attack(self) -> str:
+        """Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage."""
+        return 'Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.'
 

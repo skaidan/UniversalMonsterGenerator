@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class ConstructSpirit(GlobalCreatureBaseClass):
     """
-    ConstructSpirit creature
-    Size: Medium, Type: construct, -
+    Medium construct creature - ConstructSpirit
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 40,
-        "min_level": 1,
-        "level": 1,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 13,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "construct, -",
-        "hit_points_up": [4, 4, 4],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 10, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 10, 'CON': 18, 'INT': 14, 'WIS': 11, 'CHAR': 5, 'armor_class': 13, 'alignment': '- Armor Class  13 + the level of the spell (natural armor) Hit Points  40 + 15 for each spell level above 4th Speed  30 ft. STR 18 (+4) DEX 10 (+0) CON 18 (+4) INT 14 (+2) WIS 11 (+0) CHA 5 (-3) Damage Resistances  poison Condition Immunities  charmed', 'legendary': False, 'size': 'Medium', 'type': 'construct', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

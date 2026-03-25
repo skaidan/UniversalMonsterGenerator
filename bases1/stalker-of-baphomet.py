@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class StalkerOfBaphomet(GlobalCreatureBaseClass):
     """
-    StalkerOfBaphomet creature
-    Size: Huge, Type: Fiend (Demon), typically Chaotic Evil
+    Huge Fiend (Demon) creature - StalkerOfBaphomet
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 200,
-        "min_level": 13,
-        "level": 13,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 17,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "Fiend (Demon), typically Chaotic Evil",
-        "hit_points_up": [20, 20, 20],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 200, 'min_level': 1, 'level': 1, 'STR': 25, 'DEX': 17, 'CON': 22, 'INT': 13, 'WIS': 16, 'CHAR': 12, 'armor_class': 17, 'alignment': 'typically Chaotic Evil Armor Class  17 (natural armor) Hit Points  200 (16d12 + 96) Speed  40 ft. STR 25 (+7) DEX 17 (+3) CON 22 (+6) INT 13 (+1) WIS 16 (+3) CHA 12 (+1) Saving Throws  Dex +7', 'legendary': False, 'size': 'Huge', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

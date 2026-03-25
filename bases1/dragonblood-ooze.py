@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class DragonbloodOoze(GlobalCreatureBaseClass):
     """
-    DragonbloodOoze creature
-    Size: Large, Type: Ooze, unaligned
+    Large Ooze creature - DragonbloodOoze
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 68,
-        "min_level": 6,
-        "level": 6,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 14,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Large",
-        "type": "Ooze, unaligned",
-        "hit_points_up": [6, 6, 6],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 68, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 6, 'CON': 17, 'INT': 2, 'WIS': 12, 'CHAR': 10, 'armor_class': 14, 'alignment': 'unaligned Armor Class  14 (natural armor) Hit Points  68 (8d10 + 24) Speed  20 ft.', 'legendary': False, 'size': 'Large', 'type': 'Ooze', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

@@ -7,45 +7,29 @@ from creature_base import GlobalCreatureBaseClass
 
 class BugbearChief(GlobalCreatureBaseClass):
     """
-    BugbearChief creature
-    Size: Medium, Type: humanoid (Goblinoid), chaotic evil
+    Medium humanoid (Goblinoid) creature - BugbearChief
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 65,
-        "min_level": 4,
-        "level": 4,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 17,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "humanoid (Goblinoid), chaotic evil",
-        "hit_points_up": [6, 6, 6],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 65, 'min_level': 1, 'level': 1, 'STR': 17, 'DEX': 14, 'CON': 14, 'INT': 11, 'WIS': 12, 'CHAR': 11, 'armor_class': 17, 'alignment': 'chaotic evil Armor Class  17 (chain shirt', 'legendary': False, 'size': 'Medium', 'type': 'humanoid (Goblinoid)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['brute', 'multiattack', 'morningstar', 'javelin']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['brute'])
 
     def brute(self) -> str:
-        """Brute: A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the atta..."""
-        return "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).Heart of Hruggek. The bugbear has advantage on saving throws against being charmed, frightened, "
-    def brute(self) -> str:
-        """Brute: A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the atta..."""
-        return "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).Heart of Hruggek. The bugbear has advantage on saving throws against being charmed, frightened, "
+        """A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).Heart of Hruggek. The bugbear has advantage on saving throws against being charmed, frightened, """
+        return 'A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).Heart of Hruggek. The bugbear has advantage on saving throws against being charmed, frightened, '
+
+    def multiattack_attack(self) -> str:
+        """The bugbear makes two melee attacks."""
+        return 'The bugbear makes two melee attacks.'
+
+    def morningstar_attack(self) -> str:
+        """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage."""
+        return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.'
+
+    def javelin_attack(self) -> str:
+        """Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage in melee or 6 (1d6 + 3) piercing damage at range."""
+        return 'Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage in melee or 6 (1d6 + 3) piercing damage at range.'
 

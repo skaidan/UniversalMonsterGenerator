@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class BozakDraconian(GlobalCreatureBaseClass):
     """
-    BozakDraconian creature
-    Size: Medium, Type: Monstrosity (Sorcerer), typically Lawful Evil
+    Medium Monstrosity (Sorcerer) creature - BozakDraconian
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 40,
-        "min_level": 3,
-        "level": 3,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 15,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "Monstrosity (Sorcerer), typically Lawful Evil",
-        "hit_points_up": [4, 4, 4],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 40, 'min_level': 1, 'level': 1, 'STR': 14, 'DEX': 10, 'CON': 11, 'INT': 11, 'WIS': 10, 'CHAR': 14, 'armor_class': 15, 'alignment': 'typically Lawful Evil Armor Class  15 (natural armor) Hit Points  40 (9d8) Speed  30 ft. STR 14 (+2) DEX 10 (+0) CON 11 (+0) INT 11 (+0) WIS 10 (+0) CHA 14 (+2) Saving Throws  Int +2', 'legendary': False, 'size': 'Medium', 'type': 'Monstrosity (Sorcerer)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

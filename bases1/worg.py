@@ -7,45 +7,21 @@ from creature_base import GlobalCreatureBaseClass
 
 class Worg(GlobalCreatureBaseClass):
     """
-    Worg creature
-    Size: Large, Type: monstrosity, neutral evil
+    Large monstrosity creature - Worg
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 26,
-        "min_level": 2,
-        "level": 2,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 13,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Large",
-        "type": "monstrosity, neutral evil",
-        "hit_points_up": [2, 2, 2],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 26, 'min_level': 1, 'level': 1, 'STR': 16, 'DEX': 13, 'CON': 13, 'INT': 7, 'WIS': 11, 'CHAR': 8, 'armor_class': 13, 'alignment': 'neutral evil Armor Class  13 (natural armor) Hit Points  26 (4d10 + 4) Speed  50 ft. STR 16 (+3) DEX 13 (+1) CON 13 (+1) INT 7 (-2) WIS 11 (+0) CHA 8 (-1) Skills  Perception +4 Senses  darkvision 60 ft.', 'legendary': False, 'size': 'Large', 'type': 'monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['keen_hearing_and_smell', 'bite']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['keen_hearing_and_smell'])
 
     def keen_hearing_and_smell(self) -> str:
-        """Keen Hearing and Smell: The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.ActionsBite. Mele..."""
-        return "The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.ActionsBite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the targe"
-    def keen_hearing_and_smell(self) -> str:
-        """Keen Hearing and Smell: The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.ActionsBite. Mele..."""
-        return "The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.ActionsBite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the targe"
+        """The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell."""
+        return 'The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.'
+
+    def bite_attack(self) -> str:
+        """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."""
+        return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.'
 

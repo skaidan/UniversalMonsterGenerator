@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class DraconianFootSoldier(GlobalCreatureBaseClass):
     """
-    DraconianFootSoldier creature
-    Size: Medium, Type: monstrosity, any alignment
+    Medium monstrosity creature - DraconianFootSoldier
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 22,
-        "min_level": 2,
-        "level": 2,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 14,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "monstrosity, any alignment",
-        "hit_points_up": [2, 2, 2],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 22, 'min_level': 1, 'level': 1, 'STR': 13, 'DEX': 11, 'CON': 13, 'INT': 8, 'WIS': 8, 'CHAR': 10, 'armor_class': 14, 'alignment': 'any alignment Armor Class  14 (natural armor) Hit Points  22 (4d8 + 4) Speed  30 ft. STR 13 (+1) DEX 11 (+0) CON 13 (+1) INT 8 (-1) WIS 8 (-1) CHA 10 (+0) Senses  darkvision 60 ft.', 'legendary': False, 'size': 'Medium', 'type': 'monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

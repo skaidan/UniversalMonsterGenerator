@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class AdultAmethystDragon(GlobalCreatureBaseClass):
     """
-    AdultAmethystDragon creature
-    Size: Huge, Type: dragon (Gem), typically Neutral
+    Huge dragon (Gem) creature - AdultAmethystDragon
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 229,
-        "min_level": 17,
-        "level": 17,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 19,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Huge",
-        "type": "dragon (Gem), typically Neutral",
-        "hit_points_up": [22, 22, 22],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 229, 'min_level': 1, 'level': 1, 'STR': 25, 'DEX': 14, 'CON': 25, 'INT': 20, 'WIS': 17, 'CHAR': 21, 'armor_class': 19, 'alignment': 'typically Neutral Armor Class  19 (natural armor) Hit Points  229 (17d12 + 119) Speed  40 ft.', 'legendary': False, 'size': 'Huge', 'type': 'dragon (Gem)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

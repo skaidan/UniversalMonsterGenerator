@@ -7,45 +7,21 @@ from creature_base import GlobalCreatureBaseClass
 
 class BlackPudding(GlobalCreatureBaseClass):
     """
-    BlackPudding creature
-    Size: Medium, Type: or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+    Large ooze creature - BlackPudding
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 85,
-        "min_level": 5,
-        "level": 5,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 7,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.",
-        "hit_points_up": [8, 8, 8],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 85, 'min_level': 1, 'level': 1, 'STR': 16, 'DEX': 5, 'CON': 16, 'INT': 1, 'WIS': 6, 'CHAR': 1, 'armor_class': 7, 'alignment': 'unaligned Armor Class  7 Hit Points  85 (10d10 + 30) Speed  20 ft.', 'legendary': False, 'size': 'Large', 'type': 'ooze', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['amorphous', 'pseudopod']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['amorphous'])
 
     def amorphous(self) -> str:
-        """Amorphous: The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A cr..."""
-        return "The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d"
-    def amorphous(self) -> str:
-        """Amorphous: The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A cr..."""
-        return "The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d"
+        """The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d"""
+        return 'The pudding can move through a space as narrow as 1 inch wide without squeezing.Corrosive Form. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d'
+
+    def pseudopod_attack(self) -> str:
+        """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."""
+        return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.'
 

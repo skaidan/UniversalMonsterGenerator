@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class MetallicGreatwyrm(GlobalCreatureBaseClass):
     """
-    MetallicGreatwyrm creature
-    Size: Gargantuan, Type: Dragon (Metallic), typically Lawful Good
+    Gargantuan Dragon (Metallic) creature - MetallicGreatwyrm
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 565,
-        "min_level": 29,
-        "level": 29,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 22,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "Dragon (Metallic), typically Lawful Good",
-        "hit_points_up": [56, 56, 56],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 565, 'min_level': 1, 'level': 1, 'STR': 30, 'DEX': 16, 'CON': 29, 'INT': 21, 'WIS': 22, 'CHAR': 30, 'armor_class': 22, 'alignment': 'typically Lawful Good Armor Class  22 (natural armor) Hit Points  565 (29d20 + 261) Speed  60 ft.', 'legendary': False, 'size': 'Gargantuan', 'type': 'Dragon (Metallic)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

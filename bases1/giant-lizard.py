@@ -7,45 +7,17 @@ from creature_base import GlobalCreatureBaseClass
 
 class GiantLizard(GlobalCreatureBaseClass):
     """
-    GiantLizard creature
-    Size: Large, Type: beast, unaligned
+    Large beast creature - GiantLizard
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 19,
-        "min_level": 2,
-        "level": 2,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 12,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Large",
-        "type": "beast, unaligned",
-        "hit_points_up": [1, 1, 1],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 19, 'min_level': 1, 'level': 1, 'STR': 15, 'DEX': 12, 'CON': 13, 'INT': 2, 'WIS': 10, 'CHAR': 5, 'armor_class': 12, 'alignment': 'unaligned Armor Class  12 (natural armor) Hit Points  19 (3d10 + 3) Speed  30 ft.', 'legendary': False, 'size': 'Large', 'type': 'beast', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['bite']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['bite'])
 
-    def bite(self) -> str:
-        """Bite: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.Giant liza..."""
-        return "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.Giant lizards are fearsome predators often used as mounts or draft animals by reptilian humanoids and resident"
-    def bite(self) -> str:
-        """Bite: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.Giant liza..."""
-        return "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.Giant lizards are fearsome predators often used as mounts or draft animals by reptilian humanoids and resident"
+    def bite_attack(self) -> str:
+        """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."""
+        return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.'
 

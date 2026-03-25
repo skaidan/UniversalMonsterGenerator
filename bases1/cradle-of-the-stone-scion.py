@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class CradleOfTheStoneScion(GlobalCreatureBaseClass):
     """
-    CradleOfTheStoneScion creature
-    Size: Gargantuan, Type: Elemental, typically Neutral
+    Gargantuan Elemental creature - CradleOfTheStoneScion
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 455,
-        "min_level": 24,
-        "level": 24,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 20,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Gargantuan",
-        "type": "Elemental, typically Neutral",
-        "hit_points_up": [45, 45, 45],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 455, 'min_level': 1, 'level': 1, 'STR': 26, 'DEX': 15, 'CON': 24, 'INT': 11, 'WIS': 18, 'CHAR': 10, 'armor_class': 20, 'alignment': 'typically Neutral Armor Class  20 (natural armor) Hit Points  455 (26d20 + 182) Speed  40 ft. STR 26 (+8) DEX 15 (+2) CON 24 (+7) INT 11 (+0) WIS 18 (+4) CHA 10 (+0) Saving Throws  Wis +11', 'legendary': False, 'size': 'Gargantuan', 'type': 'Elemental', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 

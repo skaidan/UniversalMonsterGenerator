@@ -7,45 +7,29 @@ from creature_base import GlobalCreatureBaseClass
 
 class Orog(GlobalCreatureBaseClass):
     """
-    Orog creature
-    Size: Medium, Type: humanoid (Orc), chaotic evil
+    Medium humanoid (Orc) creature - Orog
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 42,
-        "min_level": 3,
-        "level": 3,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 18,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Medium",
-        "type": "humanoid (Orc), chaotic evil",
-        "hit_points_up": [4, 4, 4],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 42, 'min_level': 1, 'level': 1, 'STR': 18, 'DEX': 12, 'CON': 18, 'INT': 12, 'WIS': 11, 'CHAR': 12, 'armor_class': 18, 'alignment': 'chaotic evil Armor Class  18 (plate) Hit Points  42 (5d8 + 20) Speed  30 ft. STR 18 (+4) DEX 12 (+1) CON 18 (+4) INT 12 (+1) WIS 11 (+0) CHA 12 (+1) Skills  Intimidation +5', 'legendary': False, 'size': 'Medium', 'type': 'humanoid (Orc)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['aggressive', 'multiattack', 'greataxe', 'javelin']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.abilities.extend(['aggressive'])
 
     def aggressive(self) -> str:
-        """Aggressive: As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.Actio..."""
-        return "As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.ActionsMultiattack. The orog makes two greataxe attacks.Greataxe. Melee Weapon Attack: +6 to hit, reach 5"
-    def aggressive(self) -> str:
-        """Aggressive: As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.Actio..."""
-        return "As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.ActionsMultiattack. The orog makes two greataxe attacks.Greataxe. Melee Weapon Attack: +6 to hit, reach 5"
+        """As a bonus action, the orog can move up to its speed toward a hostile creature that it can see."""
+        return 'As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.'
+
+    def multiattack_attack(self) -> str:
+        """The orog makes two greataxe attacks."""
+        return 'The orog makes two greataxe attacks.'
+
+    def greataxe_attack(self) -> str:
+        """Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage."""
+        return 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.'
+
+    def javelin_attack(self) -> str:
+        """Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."""
+        return 'Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.'
 

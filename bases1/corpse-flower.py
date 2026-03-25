@@ -7,39 +7,13 @@ from creature_base import GlobalCreatureBaseClass
 
 class CorpseFlower(GlobalCreatureBaseClass):
     """
-    CorpseFlower creature
-    Size: Large, Type: Plant, typically Chaotic Evil
+    Large Plant creature - CorpseFlower
     Source: AiDeDd Monster Database (D&D 5e SRD)
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {
-        "hit_points": 127,
-        "min_level": 9,
-        "level": 9,
-        "STR": 10,
-        "DEX": 10,
-        "CON": 10,
-        "INT": 10,
-        "WIS": 10,
-        "CHAR": 10,
-        "armor_class": 12,
-        "alignment": "Unaligned",
-        "legendary": False,
-        "size": "Large",
-        "type": "Plant, typically Chaotic Evil",
-        "hit_points_up": [12, 12, 12],
-        "STR_up": [1, 0, 0],
-        "DEX_up": [1, 0, 0],
-        "CON_up": [0, 1, 0],
-        "INT_up": [0, 1, 0],
-        "WIS_up": [0, 0, 1],
-        "CHAR_up": [0, 0, 1],
-        "abilities": [],
-    }
+    DEFAULT_STATS = {'hit_points': 127, 'min_level': 1, 'level': 1, 'STR': 14, 'DEX': 14, 'CON': 16, 'INT': 7, 'WIS': 15, 'CHAR': 3, 'armor_class': 12, 'alignment': 'typically Chaotic Evil Armor Class  12 Hit Points  127 (15d10 + 45) Speed  20 ft.', 'legendary': False, 'size': 'Large', 'type': 'Plant', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': []}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        # Add creature-specific abilities
-        # No special abilities
 
