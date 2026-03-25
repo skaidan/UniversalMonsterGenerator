@@ -124,6 +124,9 @@ UniversalMonsterGenerator/
    - Sistema de modificadores
    - Clases épicas/legendarias con stats multiplicados
 
+4. **Niveles** (Sprint 4):
+   - implementar niveles cuando hacvemos el scraping
+
 ---
 
 ¡El sistema está pronto para escalar! 🚀
