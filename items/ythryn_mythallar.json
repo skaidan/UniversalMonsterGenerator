@@ -1,0 +1,11 @@
+{
+  "name": "Ythryn Mythallar",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "A mythallar looks like an enormous crystal ball held in an ornate cradle. The globe sheds bright light in a 300-foot radius and dim light for an additional 300 feet. The globe draws magic from the Weave that can be harnessed for various purposes. For example, Netherese mages used mythallars to keep their cities aloft and empower their magic items. The bigger the mythallar, the more magic it can hold. The largest mythallars are 150 feet in diameter.\nThe Ythryn mythallar is a relatively small devi",
+  "requires_attunement": true,
+  "properties": []
+}

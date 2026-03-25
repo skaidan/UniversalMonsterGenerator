@@ -1,0 +1,11 @@
+{
+  "name": "Charlatan's Die",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "Whenever you roll this six-sided die, you can control which number it rolls.",
+  "requires_attunement": true,
+  "properties": []
+}

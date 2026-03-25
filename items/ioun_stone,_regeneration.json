@@ -1,0 +1,11 @@
+{
+  "name": "Ioun Stone, Regeneration",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Ioun Stone|XDMG}\nYou regain 15 {@variantrule Hit Points|XPHB} at the end of each hour this pearly white spindle orbits your head if you have at least 1 {@variantrule Hit Points|XPHB|Hit Point}.",
+  "requires_attunement": true,
+  "properties": []
+}

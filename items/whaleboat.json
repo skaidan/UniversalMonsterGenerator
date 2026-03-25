@@ -1,0 +1,11 @@
+{
+  "name": "Whaleboat",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "none",
+  "value": 50000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

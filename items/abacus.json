@@ -1,0 +1,11 @@
+{
+  "name": "Abacus",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 2,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Deck of Many Things",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.\nBefore you draw a card, you must declare how many cards you intend to draw and then draw them randomly. Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck",
+  "requires_attunement": false,
+  "properties": []
+}

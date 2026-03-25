@@ -1,0 +1,11 @@
+{
+  "name": "Orb of Damara",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "A wizard named Damara created this orb while devising a way to become a dragon. Aided by a mysterious magician (actually an aspect of Tiamat in disguise), Damara eventually created an Artifact that would enable him to achieve his dream. Yet the potential power of his creation terrified Damara so much that he dared not use the orb. Instead, the wizard entombed himself with the Artifact to seal it away.\nThe Orb of Damara is about 6 inches in diameter and is made of a glassy, iridescent material th",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chip of Creation",
+  "type": "item",
+  "source": "AitFR-AVT",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "This solid, hand-sized flake of rock is a minor piece of the {@item Stone of Creation|AitFR-AVT} and contains a portion of its power.\n{\"type\": \"entries\", \"name\": \"Linked Room\", \"entries\": [\"Each chip of creation is inextricably linked to its own demiplanar room, as per the {@spell demiplane} spell. This room exists as long as both this chip and the Stone of Creation do. A door to the room only exists when created using a {@spell demiplane} spell, whether a chip of creation is used in the casting",
+  "requires_attunement": true,
+  "properties": []
+}

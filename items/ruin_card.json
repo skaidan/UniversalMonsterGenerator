@@ -1,0 +1,11 @@
+{
+  "name": "Ruin Card",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you can brandish this card and use it to cast the {@spell Disintegrate} spell (save {@dc 17}). Once this property is used, it can't be used again until the next dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

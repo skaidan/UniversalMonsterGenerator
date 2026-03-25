@@ -1,0 +1,11 @@
+{
+  "name": "Crystal Ball of Telepathy",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 3,
+  "description": "While touching this crystal orb, you can cast {@spell Scrying|XPHB} (save {@dc 17}) with it. In addition, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also cast {@spell Suggestion|XPHB} (save {@dc 17}) through the sensor on one of those creatures. You don't need to concentrate on this {@spell Suggestion|XPHB} to maintain it during its duration, but it ends if {@spell Scrying|XPHB} ends. You can't cast {@spell Suggestion|XPHB} in this",
+  "requires_attunement": true,
+  "properties": []
+}

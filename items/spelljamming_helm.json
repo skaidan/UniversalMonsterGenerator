@@ -1,0 +1,11 @@
+{
+  "name": "Spelljamming Helm",
+  "type": "item",
+  "source": "AAG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "The function of this ornate chair is to propel and maneuver a ship on which it has been installed through space and air. It can also propel and maneuver a ship on water or underwater, provided the ship is built for such travel. The ship in question must weigh 1 ton or more.\nThe sensation of being attuned to a spelljamming helm is akin to the pins-and-needles effect one experiences after one's arm or leg falls asleep, but not as painful.\nWhile attuned to a spelljamming helm and sitting in it, you",
+  "requires_attunement": true,
+  "properties": []
+}

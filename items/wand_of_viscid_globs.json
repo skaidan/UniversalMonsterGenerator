@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Viscid Globs",
+  "type": "item",
+  "source": "OotA",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "Crafted by the {@creature drow}, this slim black wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a small glob of viscous material to launch from the tip at one creature within 60 feet of you. Make a ranged attack roll against the target, with a bonus equal to your spellcasting modifier (or your Intelligence modifier, if you don't have a spellcasting modifier) plus your proficiency bonus. On a hit, the glob expands and dries on the target, which is ",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Helm of Telepathy",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this helm, you have telepathy with a range of 30 feet, and you can cast {@spell Detect Thoughts|XPHB} or {@spell Suggestion|XPHB} (save {@dc 13}) from the helm. Once either spell is cast from the helm, that spell can't be cast from it again until the next dawn.",
+  "requires_attunement": true,
+  "properties": []
+}

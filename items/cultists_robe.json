@@ -1,0 +1,11 @@
+{
+  "name": "Cultist's Robe",
+  "type": "item",
+  "source": "HotB",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this occult outfit, you have {@variantrule Advantage|XPHB} on any ability check you make to impersonate a cultist in the Cult of Chaos.",
+  "requires_attunement": false,
+  "properties": []
+}

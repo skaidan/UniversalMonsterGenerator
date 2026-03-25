@@ -1,0 +1,11 @@
+{
+  "name": "Pirate's Cutlass",
+  "type": "item",
+  "source": "XMtS",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "This {@item +1 shortsword} is a terrifying weapon with a serrated edge. It grants its wielder advantage on Charisma ({@skill Intimidation}) checks when brandished.",
+  "requires_attunement": false,
+  "properties": []
+}

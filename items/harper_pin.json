@@ -1,0 +1,11 @@
+{
+  "name": "Harper Pin",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "When you attune to this pin, choose a Harper persona (see the {@book Forgotten Realms: Heroes of Faerûn|FRHoF|6|Harper Personas} for examples), including an alignment and a creature type. While wearing this pin, you register as that persona when targeted by magic to determine your creature type, alignment, or location.\nThe type of pin determines its rarity and effects.\n{\"type\": \"entries\", \"name\": \"Silver Harper Pin\", \"entries\": [\"When you attune to this pin, you can devise a general line of thou",
+  "requires_attunement": true,
+  "properties": []
+}

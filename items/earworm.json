@@ -1,0 +1,11 @@
+{
+  "name": "Earworm",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "To attune to this symbiont, you must hold it against the skin behind your ear for the entire attunement period, whereupon it burrows into your head and bonds to your skull. While the earworm is inside you, you can speak, read, and write Deep Speech.\n{\"type\": \"entries\", \"name\": \"Spells\", \"entries\": [\"The earworm has 4 charges. You can cast the following spells from it, expending the necessary number of charges (spell save {@dc 15}): {@spell detect thoughts} (2 charges) or {@spell dissonant whispe",
+  "requires_attunement": true,
+  "properties": []
+}

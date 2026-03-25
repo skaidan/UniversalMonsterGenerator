@@ -1,0 +1,11 @@
+{
+  "name": "Gavel of the Venn Rune",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This wooden gavel is small by giant reckoning but nearly the size of a warhammer in human hands. The venn (friend) rune is inscribed in mithral in the base of the haft. Among giants, this item is used as part of rituals to resolve disputes. The gavel has the following properties.\n{\"name\": \"Arbiters Shield\", \"type\": \"entries\", \"entries\": [\"At the start of every combat, attack rolls against you have disadvantage before the start of your first turn, provided that the gavel is on your person.\"]}\n{\"n",
+  "requires_attunement": true,
+  "properties": []
+}

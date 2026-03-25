@@ -1,0 +1,11 @@
+{
+  "name": "Pyxis of Pandemonium",
+  "type": "item",
+  "source": "MOT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the {@spell bless} spell until the creature finishes a short or long rest. The creature can't gain these benefits again until it finishes a long rest.\nIf the vessel is opened, roll on the Pyxis of Pandemonium table to determine what happens. Any spells cast by the vessel have a spell save DC of 17. One minute after the vessel is opened, it disappears. It reap",
+  "requires_attunement": false,
+  "properties": []
+}

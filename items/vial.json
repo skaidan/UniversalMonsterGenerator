@@ -1,0 +1,11 @@
+{
+  "name": "Vial",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": "",
+  "description": "A Vial holds up to 4 ounces.",
+  "requires_attunement": false,
+  "properties": []
+}

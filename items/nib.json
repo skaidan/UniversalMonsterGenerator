@@ -1,0 +1,11 @@
+{
+  "name": "Nib",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "none",
+  "value": 1,
+  "weight": "",
+  "description": "Copper coin about the size of a thumbnail (1 nib = 1 common copper coin)",
+  "requires_attunement": false,
+  "properties": []
+}

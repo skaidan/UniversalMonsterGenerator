@@ -1,0 +1,11 @@
+{
+  "name": "Harkon's Bite",
+  "type": "item",
+  "source": "VRGR",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "A dire wolf tooth dangles from this simple cord necklace. While you wear it, the necklace grants you a +1 bonus to ability checks and saving throws.\n{\"type\": \"entries\", \"name\": \"Curse\", \"entries\": [\"Attuning to Harkon's Bite curses you until either Harkon Lukas removes the necklace from you or you are targeted by a {@spell remove curse} spell or similar magic. As long as you remain cursed, you cannot remove the necklace.\", \"Upon donning or removing the necklace, whether you are attuned to it or ",
+  "requires_attunement": true,
+  "properties": []
+}

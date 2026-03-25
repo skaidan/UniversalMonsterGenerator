@@ -1,0 +1,11 @@
+{
+  "name": "Helm of Teleportation",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This helm has 3 charges. While wearing it, you can expend 1 charge to cast {@spell Teleport|XPHB} from it. The helm regains {@dice 1d3} expended charges daily at dawn.",
+  "requires_attunement": true,
+  "properties": []
+}

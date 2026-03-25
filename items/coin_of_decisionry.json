@@ -1,0 +1,11 @@
+{
+  "name": "Coin of Decisionry",
+  "type": "item",
+  "source": "AI",
+  "rarity": "varies",
+  "value": "",
+  "weight": "",
+  "description": "Starting at rank 2, your coin of decisionry becomes a common magic item. When you flip the coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears on the \"tails\" face. Roll a {@dice d4} on the following table to determine the message.\n{\"type\": \"table\", \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"colLabels\": [\"d4\", \"Decision\"], \"rows\": [[\"1\", \"Lucrative\"], [\"2\", \"Brand Appeal\"], [\"3\", \"Indeterminate\"], [\"4\", \"Ruinous\"]]}\nThe coin has absolutely no divina",
+  "requires_attunement": false,
+  "properties": []
+}

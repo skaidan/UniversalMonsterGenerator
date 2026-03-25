@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Climbing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "common",
+  "value": "",
+  "weight": 0.5,
+  "description": "When you drink this potion, you gain a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB} for 1 hour. During this time, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) checks to climb.\nThis potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.",
+  "requires_attunement": false,
+  "properties": []
+}

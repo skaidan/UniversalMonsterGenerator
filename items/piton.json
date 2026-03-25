@@ -1,0 +1,11 @@
+{
+  "name": "Piton",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 5,
+  "weight": 0.25,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

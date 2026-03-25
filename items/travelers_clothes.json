@@ -1,0 +1,11 @@
+{
+  "name": "Traveler's Clothes",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 4,
+  "description": "Traveler's Clothes are resilient garments designed for travel in various environments.",
+  "requires_attunement": false,
+  "properties": []
+}

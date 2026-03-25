@@ -1,0 +1,11 @@
+{
+  "name": "Fire Opal",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 100000,
+  "weight": "",
+  "description": "A fiery red gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

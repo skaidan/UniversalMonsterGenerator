@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Jumping",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can cast {@spell Jump|XPHB} from it, but can target only yourself when you do so.",
+  "requires_attunement": true,
+  "properties": []
+}

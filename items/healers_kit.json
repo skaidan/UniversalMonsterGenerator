@@ -1,0 +1,11 @@
+{
+  "name": "Healer's Kit",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": 3,
+  "description": "A Healer's Kit has ten uses. As a {@action Utilize|XPHB} action, you can expend one of its uses to stabilize an {@condition Unconscious|XPHB} creature that has 0 {@variantrule Hit Points|XPHB} without needing to make a Wisdom ({@skill Medicine|XPHB}) check.",
+  "requires_attunement": false,
+  "properties": []
+}

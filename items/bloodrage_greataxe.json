@@ -1,0 +1,14 @@
+{
+  "name": "Bloodrage Greataxe",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 7,
+  "description": "You gain a +2 bonus to attack and damage rolls made with this magic greataxe while you have half your hit points or fewer.",
+  "requires_attunement": false,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

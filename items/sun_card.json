@@ -1,0 +1,11 @@
+{
+  "name": "Sun Card",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you can brandish this card and use it to cast the {@spell Sunbeam} spell (save {@dc 17}), projecting the light from the card's face. Once this property is used, it can't be used again until the next dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

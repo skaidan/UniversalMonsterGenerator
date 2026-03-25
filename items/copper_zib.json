@@ -1,0 +1,11 @@
+{
+  "name": "Copper Zib",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "none",
+  "value": 1,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Paralysis",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This wand has 7 charges. While holding it, you can take a {@action Magic|XPHB} action to expend 1 charge to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of yourself. The target must succeed on a {@dc 15} Constitution saving throw or have the {@condition Paralyzed|XPHB} condition for 1 minute. At the end of each of the target's turns, it repeats the save, ending the effect on itself on a success.\n{\"type\": \"entries\", \"name\": \"Regaining Charges\", \"entrie",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fishing Tackle",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 4,
+  "description": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.",
+  "requires_attunement": false,
+  "properties": []
+}

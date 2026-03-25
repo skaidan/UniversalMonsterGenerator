@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Fate",
+  "type": "item",
+  "source": "CM",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "This transparent crystal staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.\n{\"type\": \"entries\", \"name\": \"Altered Outcome\", \"entries\": [\"The staff has 6 charges. As a bonus action, you can expend 1 of the staff's charges to give yourself or one other creature that you can see a {@dice d4}. The recipient can roll this {@dice d4} and add the number rolled to one ability check, attack roll, damage roll, or saving throw it makes before the sta",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

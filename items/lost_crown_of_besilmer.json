@@ -1,0 +1,11 @@
+{
+  "name": "Lost Crown of Besilmer",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This dwarven battle-helm consists of a sturdy open-faced steel helmet, decorated with a golden circlet above the brow from which seven small gold spikes project upward. You gain the following benefits while wearing the crown:\n{\"type\": \"list\", \"items\": [\"You have resistance to psychic damage.\", \"You have advantage on saving throws against effects that would charm you.\", \"You can use a bonus action to inspire one creature you can see that is within 60 feet of you and that can see or hear you. Once",
+  "requires_attunement": true,
+  "properties": []
+}

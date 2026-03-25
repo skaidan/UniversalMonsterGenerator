@@ -1,0 +1,11 @@
+{
+  "name": "Tankard",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 2,
+  "weight": 1,
+  "description": "A tankard holds 1 pint of liquid.",
+  "requires_attunement": false,
+  "properties": []
+}

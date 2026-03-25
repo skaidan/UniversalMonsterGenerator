@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Water Breathing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "You can breathe underwater for 24 hours after drinking this potion.\nThis potion's cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.",
+  "requires_attunement": false,
+  "properties": []
+}

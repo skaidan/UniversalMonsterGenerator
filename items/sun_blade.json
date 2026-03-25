@@ -1,0 +1,14 @@
+{
+  "name": "Sun Blade",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "This item appears to be a sword hilt.\n{\"type\": \"entries\", \"name\": \"Blade of Radiance\", \"entries\": [\"While grasping the hilt, you can take a {@variantrule Bonus Action|XPHB} to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with {@itemProperty F|XPHB|Finesse}. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade.\", \"You gain a +2 bonus to attack rolls and",
+  "requires_attunement": true,
+  "properties": [
+    "F|XPHB",
+    "V|XPHB"
+  ]
+}

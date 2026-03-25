@@ -1,0 +1,11 @@
+{
+  "name": "Nightspider",
+  "type": "item",
+  "source": "AAG",
+  "rarity": "none",
+  "value": 5000000,
+  "weight": "",
+  "description": "Neogi terrorize Wildspace in ships of their own construction, which others call nightspiders. These vessels often wait in ambush for other ships. Once a target ship is identified, the neogi try to steal its spelljamming helm and capture its crew.\nA nightspider's crew usually consists of nineteen neogi and up to a half-dozen umber hulks, which the neogi use as shock troops.\nNightspiders are designed for space travel alone and can't float on water or land safely on the ground (the weight of the sh",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dwarven Thrower",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 5,
+  "description": "You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has {@itemProperty T|XPHB|Thrown} with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra {@damage 1d8} Force damage, or an extra {@damage 2d8} Force damage if the target is a Giant. Immediately after hitting or missing, the weapon flies back to your hand.",
+  "requires_attunement": true,
+  "properties": [
+    "T|XPHB",
+    "V|XPHB"
+  ]
+}

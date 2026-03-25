@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Telekinesis",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can cast {@spell Telekinesis|XPHB} from it.",
+  "requires_attunement": true,
+  "properties": []
+}

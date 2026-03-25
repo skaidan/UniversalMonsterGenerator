@@ -1,0 +1,11 @@
+{
+  "name": "Guardian Emblem",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This emblem is the symbol of a deity or a spiritual tradition. As an action, you can attach the emblem to a suit of armor or a shield or remove it.\nThe emblem has 3 charges. When you or a creature you can see within 30 feet of you suffers a critical hit while you're wearing the armor or wielding the shield that bears the emblem, you can use your reaction to expend 1 charge to turn the critical hit into a normal hit instead.\nThe emblem regains all expended charges daily at dawn.",
+  "requires_attunement": true,
+  "properties": []
+}

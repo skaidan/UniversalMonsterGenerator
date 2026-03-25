@@ -1,0 +1,11 @@
+{
+  "name": "Manacles",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 6,
+  "description": "As a {@action Utilize|XPHB} action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition if you succeed on a {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. While bound, a creature has {@variantrule Disadvantage|XPHB} on attack rolls, and the creature is {@condition Restrained|XPHB} if the Manacles are attached to a chain or hook th",
+  "requires_attunement": false,
+  "properties": []
+}

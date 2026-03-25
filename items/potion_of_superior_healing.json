@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Superior Healing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "You regain {@dice 8d4 + 8} {@variantrule Hit Points|XPHB} when you drink this potion. The potion's red liquid glimmers when agitated.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ox",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 1500,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Feed (per day)",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 5,
+  "weight": 10,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

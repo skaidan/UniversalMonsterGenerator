@@ -1,0 +1,11 @@
+{
+  "name": "Blod Stone",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This diamond contains the blood of a creature—blood that appears in the form of the blod (blood) rune. While the item is on your person, you can use your action to divine the location of the creature nearest to you that is related to the blood in the item and that isn't undead. You sense the distance and direction of the creature relative to your location. The creature is either the one whose blood is in the item or a blood relative.\nThis item is made from a large diamond worth at least 5,000 gp",
+  "requires_attunement": true,
+  "properties": []
+}

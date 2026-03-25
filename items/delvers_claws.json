@@ -1,0 +1,11 @@
+{
+  "name": "Delver's Claws",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "The back of this weatherworn leather glove is adorned with three large metal hooks shaped like a mole's claws. Stitched into the glove's palm is the mountain rune.\nThe glove is considered a simple melee weapon with the finesse and light properties, and it deals {@damage 1d4} slashing damage on a hit. While attuned to the glove, you gain a burrowing speed equal to your walking speed and {@sense blindsight} to 15 feet.\n{\"type\": \"entries\", \"name\": \"Invoking the Rune\", \"entries\": [\"As an action, you",
+  "requires_attunement": true,
+  "properties": []
+}

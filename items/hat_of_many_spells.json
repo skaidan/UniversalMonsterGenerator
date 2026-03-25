@@ -1,0 +1,11 @@
+{
+  "name": "Hat of Many Spells",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This pointed hat has the following properties.\n{\"type\": \"entries\", \"name\": \"Spellcasting Focus\", \"entries\": [\"While holding the hat, you can use it as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and \\\"pull\\\" the spell out of it.\"]}\n{\"type\": \"entries\", \"name\": \"Unknown Spell\", \"entries\": [\"While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be",
+  "requires_attunement": true,
+  "properties": []
+}

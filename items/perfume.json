@@ -1,0 +1,11 @@
+{
+  "name": "Perfume",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": "",
+  "description": "Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have {@variantrule Advantage|XPHB} on Charisma ({@skill Persuasion|XPHB}) checks made to influence an Indifferent Humanoid within 5 feet of yourself.",
+  "requires_attunement": false,
+  "properties": []
+}

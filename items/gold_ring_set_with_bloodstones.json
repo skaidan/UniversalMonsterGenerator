@@ -1,0 +1,11 @@
+{
+  "name": "Gold ring set with bloodstones",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 25000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

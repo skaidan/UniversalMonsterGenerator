@@ -1,0 +1,11 @@
+{
+  "name": "Helm of Perfect Potential",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "This copper-hued helm contains a shard of the Elemental Chaos embedded in its forehead, surrounded by a motif of a rising sun. Legend says Annam fashioned this helm for his daughter Diancastra to hold the fragment of chaos she used to prove her worth to her father.\n{\"type\": \"entries\", \"name\": \"Random Properties\", \"entries\": [\"The helm has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:\", {\"type\": \"list\", \"items\": [\"2 {@table Artifact",
+  "requires_attunement": true,
+  "properties": []
+}

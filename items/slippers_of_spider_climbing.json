@@ -1,0 +1,11 @@
+{
+  "name": "Slippers of Spider Climbing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB}. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pyroconverger",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "A Pyroconverger is an Izzet-made flamethrower. It carries a risk of malfunction each time you use it.\nAs an action, you can cause the Pyroconverger to project fire in a 10-foot cone. Each creature in that area must make a {@dc 13} Dexterity saving throw, taking {@damage 4d6} fire damage on a failed save, or half as much damage on a successful one.\nEach time you use the Pyroconverger, roll a {@dice d10} and add the number of times you have used it since your last long rest. If the total is 11 or ",
+  "requires_attunement": true,
+  "properties": []
+}

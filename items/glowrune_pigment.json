@@ -1,0 +1,11 @@
+{
+  "name": "Glowrune Pigment",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This set of {@dice 1d4 + 2} small paint pots contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint.\nOne paint pot contains enough pigment to paint one rune. A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:\n{\"type\": \"entries\", \"name\": \"Journey Rune\", \"entries\": [\"{@quickref difficult terrain||3} doesn't cost the painted creature e",
+  "requires_attunement": false,
+  "properties": []
+}

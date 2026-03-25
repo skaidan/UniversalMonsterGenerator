@@ -1,0 +1,11 @@
+{
+  "name": "Perfume (vial)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

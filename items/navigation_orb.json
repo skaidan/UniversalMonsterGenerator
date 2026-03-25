@@ -1,0 +1,11 @@
+{
+  "name": "Navigation Orb",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "A navigation orb is a hollow, 7-foot-diameter sphere of thin, polished mithral with a large skye (cloud) rune embossed on its outer surface. The orb levitates 10 feet above the ground and is keyed to a particular cloud castle, allowing you to control that castle's altitude and movement while the orb is inside the castle. If the orb is destroyed or removed from its castle, the castle's altitude and location remain fixed until the orb is returned or replaced.\nAs an action, you can cause one of the",
+  "requires_attunement": true,
+  "properties": []
+}

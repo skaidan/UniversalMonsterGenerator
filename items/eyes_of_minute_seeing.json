@@ -1,0 +1,11 @@
+{
+  "name": "Eyes of Minute Seeing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you {@sense Darkvision|XPHB} within that range and {@variantrule Advantage|XPHB} on Intelligence ({@skill Investigation|XPHB}) checks made to examine something within that range.",
+  "requires_attunement": false,
+  "properties": []
+}

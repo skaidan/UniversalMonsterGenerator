@@ -1,0 +1,11 @@
+{
+  "name": "Bread (loaf)",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

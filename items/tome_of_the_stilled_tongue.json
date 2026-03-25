@@ -1,0 +1,11 @@
+{
+  "name": "Tome of the Stilled Tongue",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 5,
+  "description": "This book has a desiccated tongue pinned to its front cover. Five of these tomes exist, and it's unknown which one is the original. The tongue on the first Tome of the Stilled Tongue belonged to a treacherous former servant of the lich {@book Vecna|XDMG|8|Vecna}. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank.\nWhile attuned to this item, you ",
+  "requires_attunement": true,
+  "properties": []
+}

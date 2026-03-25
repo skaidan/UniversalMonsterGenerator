@@ -1,0 +1,11 @@
+{
+  "name": "Skyship",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "none",
+  "value": 10000000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hither-Thither Staff",
+  "type": "item",
+  "source": "HAT-LMI",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 4,
+  "description": "This walking stick has a brilliant gemstone fitted at the top. This staff has 4 charges and regains {@dice 1d4} expended charges daily at dawn.\nAs an action, you can expend 1 charge from the staff to create two linked teleportation portals, each one appearing on a flat surface of your choice that you can see within 1,500 feet of yourself. Alternatively, you can expend 1 charge as an action to relocate one or both portals, subject to the same limitation. The surface on which a portal appears must",
+  "requires_attunement": false,
+  "properties": [
+    "V"
+  ]
+}

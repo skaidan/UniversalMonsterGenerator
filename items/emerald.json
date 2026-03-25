@@ -1,0 +1,11 @@
+{
+  "name": "Emerald",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 100000,
+  "weight": "",
+  "description": "A deep bright green gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

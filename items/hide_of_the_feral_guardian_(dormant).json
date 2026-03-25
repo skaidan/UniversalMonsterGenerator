@@ -1,0 +1,13 @@
+{
+  "name": "Hide of the Feral Guardian (Dormant)",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 13,
+  "description": "It is believed that this polished and beautifully detailed leather armor was a gift from Melora, bestowed on a long-forgotten archdruid and champion of the natural world before the terrors of the Calamity.\n{\"type\": \"entries\", \"name\": \"Dormant\", \"entries\": [\"While wearing the armor in its dormant state, you gain the following benefits:\", {\"type\": \"list\", \"items\": [\"The armor grants you a +1 bonus to AC.\", \"While you are transformed by an effect that replaces any of your game statistics with those",
+  "requires_attunement": true,
+  "properties": [
+    "Vst|EGW"
+  ]
+}

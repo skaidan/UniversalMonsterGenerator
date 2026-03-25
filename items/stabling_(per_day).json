@@ -1,0 +1,11 @@
+{
+  "name": "Stabling (per day)",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 5,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

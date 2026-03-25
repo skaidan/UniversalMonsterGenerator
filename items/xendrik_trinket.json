@@ -1,0 +1,11 @@
+{
+  "name": "Xen'drik Trinket",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{\"caption\": \"Trinkets from Xen'drik\", \"colLabels\": [\"d8\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A punched ticket for a voyage from Sharn to Stormreach\"], [\"2\", \"A scorpion's barb engraved with a single Elvish letter\"], [\"3\", \"A copper coin so big you could use it as a dinner plate\"], [\"4\", \"An image of an elf warrior engraved on a giant's tooth\"], [\"5\", \"A single page from a giant wizard's spellbook, bearing an incomplete spell\"], [\"6\", \"A scrap of parchment, ",
+  "requires_attunement": false,
+  "properties": []
+}

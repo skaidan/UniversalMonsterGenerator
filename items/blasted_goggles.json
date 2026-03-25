@@ -1,0 +1,11 @@
+{
+  "name": "Blasted Goggles",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "These tinker's goggles have 3 charges. As an action, you can expend 1 charge to shoot a beam of fiery light from the goggles at a creature you can see within 120 feet of yourself. The target must succeed on a {@dc 15} Dexterity saving throw or take {@damage 3d6} fire damage. The goggles regain {@dice 1d3} expended charges daily at dawn.\n{\"type\": \"entries\", \"name\": \"Cursed\", \"entries\": [\"The goggles are cursed, and becoming attuned to them extends the curse to you. You can't remove the goggles or",
+  "requires_attunement": true,
+  "properties": []
+}

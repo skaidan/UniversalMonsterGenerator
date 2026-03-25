@@ -1,0 +1,11 @@
+{
+  "name": "Camel",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

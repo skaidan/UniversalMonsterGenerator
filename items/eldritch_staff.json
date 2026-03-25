@@ -1,0 +1,13 @@
+{
+  "name": "Eldritch Staff",
+  "type": "item",
+  "source": "WBtW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.\nThe staff has 10 charges and regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On a 1, the staff is destroyed in an otherwise harmless burst of eldritch energy.\n{\"type\": \"entries\", \"name\": \"Eldritch Attack\", \"entries\": [\"When you hit with a melee attack using the staff, you can expend up to 3 of its charges. For each charge you",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

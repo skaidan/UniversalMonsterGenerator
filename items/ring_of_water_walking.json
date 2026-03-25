@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Water Walking",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you cast {@spell Water Walk|XPHB} from it, targeting only yourself.",
+  "requires_attunement": false,
+  "properties": []
+}

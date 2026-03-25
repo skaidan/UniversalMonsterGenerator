@@ -1,0 +1,11 @@
+{
+  "name": "Brooch of Shielding",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this brooch, you have {@variantrule Resistance|XPHB} to Force damage, and you have {@variantrule Immunity|XPHB} to damage from the {@spell Magic Missile|XPHB} spell.",
+  "requires_attunement": true,
+  "properties": []
+}

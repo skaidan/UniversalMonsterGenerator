@@ -1,0 +1,13 @@
+{
+  "name": "Moonblade",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 3,
+  "description": "Of all the magic items created by the elves, one of the most prized and jealously guarded is a moon blade. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.\nA moonblade passes down from parent to child. The sword chooses its bearer and remains bonded to th",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

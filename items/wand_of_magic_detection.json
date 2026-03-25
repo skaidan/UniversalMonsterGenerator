@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Magic Detection",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 1,
+  "description": "This wand has 3 charges. While holding it, you can expend 1 charge to cast {@spell Detect Magic|XPHB} from it. The wand regains {@dice 1d3} expended charges daily at dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

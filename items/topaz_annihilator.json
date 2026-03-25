@@ -1,0 +1,13 @@
+{
+  "name": "Topaz Annihilator",
+  "type": "item",
+  "source": "FTD",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This magic ranged weapon resembles a {@item musket|DMG}, but in lieu of any ammunition, it holds a glowing yellow scale from a topaz dragon in its heart.\nThe weapon has a normal range of 100 feet and a long range of 300 feet, and it has the two-handed property. It deals {@damage 2d6} necrotic damage on a hit. If this damage reduces a creature or object to 0 hit points, the target is reduced to dust. A creature reduced to dust can be restored to life only by a {@spell true resurrection} or {@spel",
+  "requires_attunement": true,
+  "properties": [
+    "2H"
+  ]
+}

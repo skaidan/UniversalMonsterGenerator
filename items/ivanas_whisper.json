@@ -1,0 +1,11 @@
+{
+  "name": "Ivana's Whisper",
+  "type": "item",
+  "source": "VRGR",
+  "rarity": "unknown",
+  "value": "",
+  "weight": "",
+  "description": "This poison bears a distinct scent and chemical message from Ivana Boritsi. A creature subjected to this poison must succeed on a {@dc 18} Constitution saving throw or experience the effects of a {@spell dream} spell created by Ivana the next time they sleep. This poison is nonmagical, and Ivana doesn't directly communicate with those affected during the dream. Rather, she creates the illusion of speaking with her intended target by alchemically crafting her message, predicting her target's reac",
+  "requires_attunement": false,
+  "properties": []
+}

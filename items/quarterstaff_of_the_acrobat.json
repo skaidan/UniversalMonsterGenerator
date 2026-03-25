@@ -1,0 +1,14 @@
+{
+  "name": "Quarterstaff of the Acrobat",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.\nWhile holding this weapon, you can cause it to emit green {@variantrule Dim Light|XPHB} out to 10 feet, either as a {@variantrule Bonus Action|XPHB} or after you roll {@variantrule Initiative|XPHB}, or you can extinguish the light as a {@variantrule Bonus Action|XPHB}.\nWhile holding this weapon, you can take a {@variantrule Bonus Action|XPHB} to alter its form, turning it into a 6-inch rod (for ease of storage) or ",
+  "requires_attunement": true,
+  "properties": [
+    "T|XPHB",
+    "V|XPHB"
+  ]
+}

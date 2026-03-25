@@ -1,0 +1,11 @@
+{
+  "name": "Abracadabrus",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 25,
+  "description": "An abracadabrus is an ornate, gemstone-studded wooden chest that weighs 25 pounds while empty. Its interior compartment is a cube measuring 1½ feet on a side.\nThe chest has 20 charges. A creature can use an action to touch the closed lid of the chest and expend 1 of the chest's charges while naming one or more nonmagical objects (including raw materials, foodstuffs, and liquids) worth a total of 1 gp or less. The named objects magically appear in the chest, provided they can all fit inside it an",
+  "requires_attunement": false,
+  "properties": []
+}

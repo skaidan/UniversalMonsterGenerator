@@ -1,0 +1,13 @@
+{
+  "name": "Tearulai",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 3,
+  "description": "The longsword, Tearulai, is a sentient, neutral good {@item sword of sharpness} with an emerald-colored blade and precious gemstones embedded in its hilt and pommel. The sword's magical properties are suppressed until it is removed from Valdemar's skull.\nEvil creatures can't attune to Tearulai; any evil creature that tries to do so takes 20 psychic damage. The weapon's emerald blade can't be damaged or dulled, and the sword can't be teleported anywhere without its wielder while the two are attun",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

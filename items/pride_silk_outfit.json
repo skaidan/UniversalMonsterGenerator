@@ -1,0 +1,11 @@
+{
+  "name": "Pride Silk Outfit",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "none",
+  "value": 50000,
+  "weight": 4,
+  "description": "An outfit made of pride silk weighs 4 pounds and costs 500 gp. If you aren't wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.",
+  "requires_attunement": false,
+  "properties": []
+}

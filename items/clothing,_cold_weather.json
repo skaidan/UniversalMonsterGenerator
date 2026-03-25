@@ -1,0 +1,11 @@
+{
+  "name": "Clothing, cold weather",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "none",
+  "value": 1000,
+  "weight": 5,
+  "description": "This outfit consists of a heavy fur coat or cloak over layers of wool clothing, as well as a fur-lined hat or hood, goggles, and fur-lined leather boots and gloves.\nAs long as cold weather clothing remains dry, its wearer automatically succeeds on saving throws against the effects of {@hazard extreme cold}.",
+  "requires_attunement": false,
+  "properties": []
+}

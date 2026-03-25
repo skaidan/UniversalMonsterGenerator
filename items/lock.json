@@ -1,0 +1,11 @@
+{
+  "name": "Lock",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1000,
+  "weight": 1,
+  "description": "A Lock comes with a key. Without the key, a creature can use {@item Thieves' Tools|XPHB} to pick this Lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check.",
+  "requires_attunement": false,
+  "properties": []
+}

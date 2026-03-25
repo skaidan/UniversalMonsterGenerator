@@ -1,0 +1,11 @@
+{
+  "name": "Bag of Tricks, Tan",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This bag made from tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.\nYou can take a {@action Magic|XPHB} action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling on the table below. See the {@book Monster Manual|XMM} for the creature's stat block. The creature vanishes at the next dawn or when it is reduced to 0 {@variantrule Hit Points|XPHB}.\nThe ",
+  "requires_attunement": false,
+  "properties": []
+}

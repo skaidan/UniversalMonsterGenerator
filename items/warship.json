@@ -1,0 +1,11 @@
+{
+  "name": "Warship",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2500000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

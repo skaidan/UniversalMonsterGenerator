@@ -1,0 +1,11 @@
+{
+  "name": "Speaking Stones",
+  "type": "item",
+  "source": "WttHC",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "Speaking Stones come in pairs, with each stone carved to match the other.\nWhile you touch one stone, you can take a {@action Magic|XPHB} action to send a short message of 25 words or fewer to the bearer of the other stone. That creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The stones enable creatures to understand the meaning of your message.\nYou can send the message across any distance. If no creature bears the",
+  "requires_attunement": false,
+  "properties": []
+}

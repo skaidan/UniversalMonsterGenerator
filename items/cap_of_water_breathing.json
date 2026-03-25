@@ -1,0 +1,11 @@
+{
+  "name": "Cap of Water Breathing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this cap underwater, you can take a {@action Magic|XPHB} action to create a bubble of air around your head. This bubble allows you to breathe normally underwater. This bubble stays with you until the cap is removed or you are no longer underwater.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Parchment",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": "",
+  "description": "One sheet of Parchment can hold about 250 handwritten words.",
+  "requires_attunement": false,
+  "properties": []
+}

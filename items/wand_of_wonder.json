@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Wonder",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This wand has 7 charges. While holding it, you can take a {@action Magic|XPHB} action to expend 1 charge while choosing a point within 120 feet of yourself. That location becomes the point of origin of a spell or other magical effect determined by rolling on the Wand of Wonder Effects table. Spells cast from the wand have a save DC of 15. If a spell's maximum range is normally less than 120 feet, it becomes 120 feet when cast from the wand. If an effect has multiple possible subjects, the DM det",
+  "requires_attunement": true,
+  "properties": []
+}

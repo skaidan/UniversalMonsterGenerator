@@ -1,0 +1,14 @@
+{
+  "name": "Canian Fork",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "You have a +3 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one additional attack with it as a bonus action on each of your turns.\n{\"type\": \"entries\", \"name\": \"Curse\", \"entries\": [\"You're unwilling to part with this weapon while attuned to it. You're also vulnerable to radiant damage and each time you receive magical healing, you must make a {@dc 15} Constitution saving throw.\", \"On a failed save, the healing has no effect. Only the {@spell Remove Curse}",
+  "requires_attunement": true,
+  "properties": [
+    "T",
+    "V"
+  ]
+}

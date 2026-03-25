@@ -1,0 +1,11 @@
+{
+  "name": "Hat of Wizardry",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This antiquated, cone—shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:\n{\"type\": \"list\", \"items\": [\"You can use the hat as a spellcasting focus for your wizard spells.\", \"You can try to cast a cantrip that you don't know. The cantrip must be on the wizard spell list, and you must make a {@dc 10} Intelligence ({@skill Arcana}) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action u",
+  "requires_attunement": true,
+  "properties": []
+}

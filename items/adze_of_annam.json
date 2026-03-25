@@ -1,0 +1,14 @@
+{
+  "name": "Adze of Annam",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 7,
+  "description": "This massive adze is said to have been wielded by All-Father Annam, not as a weapon but as the tool he used to shape the various worlds of the Material Plane eons ago.\n{\"type\": \"entries\", \"name\": \"Random Properties\", \"entries\": [\"The adze has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:\", {\"type\": \"list\", \"items\": [\"2 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} properties\", \"1 {@table Artifact Pr",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dancing Monkey Fruit",
+  "type": "item",
+  "source": "ToA",
+  "rarity": "unknown (magic)",
+  "value": 500,
+  "weight": "",
+  "description": "This rare magical fruit produces enough juice to fill a vial. Any humanoid that eats a dancing monkey fruit or drinks its juice must succeed on a {@dc 14} Constitution saving throw or begin a comic dance that lasts for 1 minute. Humanoids that can't be {@condition poisoned} are immune to this magical effect.\nThe dancer must use all its movement to dance without leaving its space and has disadvantage on attack rolls and Dexterity saving throws, and other creatures have advantage on attack rolls a",
+  "requires_attunement": false,
+  "properties": []
+}

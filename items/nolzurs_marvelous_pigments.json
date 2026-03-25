@@ -1,0 +1,11 @@
+{
+  "name": "Nolzur's Marvelous Pigments",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This fine wooden box contains {@dice 1d4} pots of pigment and a brush (weighing 1 pound in total). Using the brush and expending 1 pot of pigment, you can paint any number of three-dimensional objects and terrain features (such as walls, doors, trees, flowers, weapons, webs, and pits), provided these elements are all confined to a 20-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. The effort takes 10 minutes (regardless of the number of elements you create), during which time you must remai",
+  "requires_attunement": false,
+  "properties": []
+}

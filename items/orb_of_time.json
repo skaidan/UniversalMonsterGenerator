@@ -1,0 +1,11 @@
+{
+  "name": "Orb of Time",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": 3,
+  "description": "While holding this orb, you can use an action to determine whether it is morning, afternoon, evening, or nighttime outside. This property functions only on the Material Plane.",
+  "requires_attunement": false,
+  "properties": []
+}

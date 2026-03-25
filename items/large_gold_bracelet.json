@@ -1,0 +1,11 @@
+{
+  "name": "Large gold bracelet",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "none",
+  "value": 25000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

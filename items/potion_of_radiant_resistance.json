@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Radiant Resistance",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "{#itemEntry Potion of Resistance|XDMG}",
+  "requires_attunement": false,
+  "properties": []
+}

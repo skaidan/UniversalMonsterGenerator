@@ -1,0 +1,11 @@
+{
+  "name": "Sack",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1,
+  "weight": 0.5,
+  "description": "A Sack holds up to 30 pounds within 1 cubic foot.",
+  "requires_attunement": false,
+  "properties": []
+}

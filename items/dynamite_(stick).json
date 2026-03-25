@@ -1,0 +1,11 @@
+{
+  "name": "Dynamite (stick)",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "none",
+  "value": "",
+  "weight": 1,
+  "description": "As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a {@dc 12} Dexterity saving throw, taking {@damage 3d6} bludgeoning damage on a failed save, or half as much damage on a successful one.\nA character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by {@damage 1d6} (to a maximum of {@damage 10d6}) and the burst radius by 5 feet (to a",
+  "requires_attunement": false,
+  "properties": []
+}

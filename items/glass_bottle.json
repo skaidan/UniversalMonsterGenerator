@@ -1,0 +1,11 @@
+{
+  "name": "Glass Bottle",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 2,
+  "description": "A Glass Bottle holds up to 1½ pints.",
+  "requires_attunement": false,
+  "properties": []
+}

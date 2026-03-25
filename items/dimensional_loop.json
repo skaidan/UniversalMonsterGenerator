@@ -1,0 +1,11 @@
+{
+  "name": "Dimensional Loop",
+  "type": "item",
+  "source": "AI",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "While attuned to this device, you have a +1 bonus to Strength saving throws, and you have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, its range increases by 30 feet.\n{\"type\": \"entries\", \"name\": \"Dimensional Cloak\", \"entries\": [\"As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity ({@skill Stealth}) checks made to hide, and imposing disadvantage on attack rolls against you. Once you",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wyrmreaver Gauntlets",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "Originally crafted for ground-bound giant brawlers to fight against dragons and other enormous predators of the sky, these studded gauntlets are engraved with the dragon rune.\nWhile you are wearing these gauntlets, your unarmed strike deals an additional {@damage 1d6} force damage on a hit. Additionally, whenever you finish a long rest, choose one of the following damage types: acid, cold, fire, lightning, or poison. You have resistance to the chosen damage type until you finish another long res",
+  "requires_attunement": true,
+  "properties": []
+}

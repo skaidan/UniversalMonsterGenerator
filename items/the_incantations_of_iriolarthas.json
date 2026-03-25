@@ -1,0 +1,11 @@
+{
+  "name": "The Incantations of Iriolarthas",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "unknown",
+  "value": "",
+  "weight": 3,
+  "description": "The Incantations of Iriolarthas is a weighty spellbook. Its black leather covers have dead, toothy worms glued to them, sheathed in glossy varnish. Set into this morbid display on the front cover is a gold rune that resembles a stylized eye with a pupil shaped like a candle flame—the sigil of Iriolarthas, a Netherese lich.\nThe book contains sixty pages of brittle yellow vellum. Written on these pages are the following wizard spells:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [\"1st l",
+  "requires_attunement": false,
+  "properties": []
+}

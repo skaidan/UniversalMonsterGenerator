@@ -1,0 +1,14 @@
+{
+  "name": "Silken Spite (Dormant)",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 2,
+  "description": "The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth.\n{\"type\": \"entries\", \"name\": \"Sentience\", \"entries\": [\"Silken Spite is a sentient chaotic evil weapon with an Intelligence of 13, a Wisdom of 15, and a Charisma of 15. It has hearing and {@sense darkvision} out to a range of 120 feet.\", \"The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal, ",
+  "requires_attunement": true,
+  "properties": [
+    "F",
+    "Vst|EGW"
+  ]
+}

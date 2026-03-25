@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Fire",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "You have {@variantrule Resistance|XPHB} to Fire damage while you hold this staff.\n{\"type\": \"entries\", \"name\": \"Spells\", \"entries\": [\"The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.\", {\"type\": \"table\", \"colStyles\": [\"col-10\", \"col-2 text-center\"], \"colLabels\": [\"Spell\", \"Charge Cost\"], \"rows\": [[\"{@spell Burning Hands|XPHB}\", \"1\"], [\"{",
+  "requires_attunement": true,
+  "properties": [
+    "V|XPHB"
+  ]
+}

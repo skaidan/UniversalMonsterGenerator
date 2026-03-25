@@ -1,0 +1,11 @@
+{
+  "name": "Shield of Far Sight",
+  "type": "item",
+  "source": "VGM",
+  "rarity": "rare",
+  "value": "",
+  "weight": 6,
+  "description": "A {@creature mind flayer} skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eyes is implanted, whereupon the {@creature mind flayer} can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the {@creature mind flayer} can see through the shiel",
+  "requires_attunement": false,
+  "properties": []
+}

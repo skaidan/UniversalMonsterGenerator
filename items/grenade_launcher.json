@@ -1,0 +1,11 @@
+{
+  "name": "Grenade Launcher",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": "",
+  "weight": 7,
+  "description": "{#itemEntry Grenade|XDMG}",
+  "requires_attunement": false,
+  "properties": []
+}

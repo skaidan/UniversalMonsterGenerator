@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Djinni Summoning",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can take a {@action Magic|XPHB} action to summon a particular {@creature Djinni|XMM} from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain {@status Concentration|XPHB}, to a maximum of 1 hour, or until it drops to 0 {@variantrule Hit Points|XPHB}.\nWhile summoned, the djinni is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you and your allies, and it obeys your comman",
+  "requires_attunement": true,
+  "properties": []
+}

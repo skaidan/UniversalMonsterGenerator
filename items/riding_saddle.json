@@ -1,0 +1,11 @@
+{
+  "name": "Riding Saddle",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1000,
+  "weight": 25,
+  "description": "A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle.",
+  "requires_attunement": false,
+  "properties": []
+}

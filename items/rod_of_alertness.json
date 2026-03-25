@@ -1,0 +1,11 @@
+{
+  "name": "Rod of Alertness",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 2,
+  "description": "This rod has the following properties.\n{\"type\": \"entries\", \"name\": \"Alertness\", \"entries\": [\"While holding the rod, you have {@variantrule Advantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks and on {@variantrule Initiative|XPHB} rolls. Spells. While holding the rod, you can cast the following spells from it:\", {\"type\": \"list\", \"items\": [\"{@spell Detect Evil and Good|XPHB}\", \"{@spell Detect Magic|XPHB}\", \"{@spell Detect Poison and Disease|XPHB}\", \"{@spell See Invisibility|XPHB}\"]}]}\n{\"typ",
+  "requires_attunement": true,
+  "properties": []
+}

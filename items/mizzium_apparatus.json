@@ -1,0 +1,11 @@
+{
+  "name": "Mizzium Apparatus",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 8,
+  "description": "Innovation is a dangerous pursuit, at least the way the mages of the Izzet League engage in it. As protection against the risk of an experiment going awry, they have developed a device to help channel and control their magic. This apparatus is a collection of leather straps, flexible tubing, glass cylinders, and plates, bracers, and fittings made from a magic-infused metal alloy called mizzium, all assembled into a harness. The item weighs 8 pounds.\nWhile you are wearing the mizzium apparatus, y",
+  "requires_attunement": true,
+  "properties": []
+}

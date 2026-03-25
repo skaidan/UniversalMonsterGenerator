@@ -1,0 +1,11 @@
+{
+  "name": "Arcane Cannon",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This Large cannon is imbued with magic. It requires no ammunition and doesn't need to be loaded. It takes one action to aim the cannon and one action to fire it. After the cannon has fired, it must recharge for 5 minutes before it can be fired again.\nThe creature firing the cannon chooses the effect from the following options:\n{\"type\": \"entries\", \"name\": \"Acid Jet\", \"entries\": [\"The cannon discharges acid in a line 300 feet long and 5 feet wide. Each creature in that line must make a {@dc 15} De",
+  "requires_attunement": false,
+  "properties": []
+}

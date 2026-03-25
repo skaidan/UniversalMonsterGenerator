@@ -1,0 +1,11 @@
+{
+  "name": "Warrior's Passkey",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This silver skeleton key is warm to the touch. While holding the key in its key form, you can use an action to cast the {@spell Knock} spell from the key.\n{\"type\": \"entries\", \"name\": \"Transforming the Key\", \"entries\": [\"While holding the key, you can use a bonus action to transform it into a magic longsword. You are considered proficient with the sword, and you have a +1 bonus to attack and damage rolls made with it. On a hit, the sword deals {@damage 1d10} force damage. The item remains in its ",
+  "requires_attunement": true,
+  "properties": []
+}

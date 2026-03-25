@@ -1,0 +1,11 @@
+{
+  "name": "Snowshoes",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "none",
+  "value": 200,
+  "weight": 4,
+  "description": "Snowshoes reduce the likelihood of their wearer getting stuck in the deep snow.",
+  "requires_attunement": false,
+  "properties": []
+}

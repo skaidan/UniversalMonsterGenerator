@@ -1,0 +1,11 @@
+{
+  "name": "Stonky's ring",
+  "type": "item",
+  "source": "CM",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can cast the {@spell telekinesis} spell at will, but you can target only objects that aren't being worn or carried.\nAny character who attunes to the ring gains control of Stonky's creations, though the {@creature skitterwidget|cm|skitterwidgets} ignore commands spoken more than 30 feet away from them.",
+  "requires_attunement": true,
+  "properties": []
+}

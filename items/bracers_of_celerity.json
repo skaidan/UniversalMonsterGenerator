@@ -1,0 +1,11 @@
+{
+  "name": "Bracers of Celerity",
+  "type": "item",
+  "source": "PaBTSO",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This pair of lightweight bronze bracers is lined with soft, purple velvet and engraved with swirling designs.\nWhile you're wearing these bracers, all your speeds increase by 10 feet, and you have advantage on saving throws you make to avoid or end the paralyzed or restrained condition on yourself.",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Khyber Trinket",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{\"caption\": \"Trinkets from Khyber\", \"colLabels\": [\"d10\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A pressed flower with vivid green petals; when you smell it, you hear eerie music\"], [\"2\", \"A tiny ball of putty; if you set it down, it begins to slowly crawl around\"], [\"3\", \"A perpetually warm disk of dark iron\"], [\"4\", \"A small journal with leathery pages; any words you write in it slowly disappear\"], [\"5\", \"A four-sided die carved with strange markings\"], [\"6\", ",
+  "requires_attunement": false,
+  "properties": []
+}

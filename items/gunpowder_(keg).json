@@ -1,0 +1,11 @@
+{
+  "name": "Gunpowder (keg)",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 25000,
+  "weight": 20,
+  "description": "Setting fire to a keg full of Gunpowder causes it to explode. When a keg explodes, each creature in a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on the keg makes a {@dc 12} Dexterity saving throw, taking 24 ({@damage 7d6}) Fire damage on a failed save or half as much damage on a successful one.",
+  "requires_attunement": false,
+  "properties": []
+}

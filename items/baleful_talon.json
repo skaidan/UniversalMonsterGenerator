@@ -1,0 +1,15 @@
+{
+  "name": "Baleful Talon",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 1,
+  "description": "You gain a +1 bonus to attack and damage rolls made with this hooked, obsidian dagger.\nWhen you hit a creature with this magic weapon and roll a 19 or 20 on the attack roll, the creature must make a {@dc 15} Constitution saving throw as the dagger flares with sickly light. The creature takes {@damage 6d6} necrotic damage on a failed save, or half as much on a successful one. If this damage reduces the creature to 0 hit points, the creature disintegrates into dust.",
+  "requires_attunement": false,
+  "properties": [
+    "F",
+    "L",
+    "T"
+  ]
+}

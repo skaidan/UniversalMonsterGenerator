@@ -1,0 +1,11 @@
+{
+  "name": "Professor Skant",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "",
+  "value": "",
+  "weight": "",
+  "description": "The {@item professor orb|WDMM} owned by Vellynne Harpell and stolen by Nass Lantomir calls itself Professor Skant. It is lawful good, and it has a Wisdom of 11 and a Charisma of 9 {@note (as a professor orb, it has an Intelligence of 18)}. It speaks and reads Common, Draconic, Elvish, and Loross (the dead language of the Empire of Netheril). Professor Skant is a chatterbox and assumes all humanoids are dunderheads. When elaborating on its areas of expertise, it adopts an unintentionally patroniz",
+  "requires_attunement": false,
+  "properties": []
+}

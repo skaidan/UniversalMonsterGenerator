@@ -1,0 +1,11 @@
+{
+  "name": "Quartz",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "A white, smoky gray, or yellow gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

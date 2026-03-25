@@ -1,0 +1,11 @@
+{
+  "name": "Shield of the Uven Rune",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 6,
+  "description": "This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a {@dc 20} Intelligence ({@skill History}) check recognizes it as an uven (\"enemy\" in Giant) rune that confers great power.\nWhile holding the shield, you benefit from the following properties.\n{\"type\": \"entries\", \"name\": \"Winter's Friend\", \"entries\": [\"You are immune to cold damage.\"]}\n{\"type\": \"entries\", \"name\": \"Deadly Rebuke\", \"ent",
+  "requires_attunement": true,
+  "properties": []
+}

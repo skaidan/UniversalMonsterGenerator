@@ -1,0 +1,14 @@
+{
+  "name": "Blackrazor",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 6,
+  "description": "Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.\nYou gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take {@damage 1d10} Necrotic damage, and the target regains {@dice 1d10} {@variantrule Hit Points|XPHB}. If this Necrotic damage reduces you to 0 {@variantrule Hit Points|XPHB}, Blackrazor devours your so",
+  "requires_attunement": true,
+  "properties": [
+    "H|XPHB",
+    "2H|XPHB"
+  ]
+}

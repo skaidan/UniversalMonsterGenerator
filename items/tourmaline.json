@@ -1,0 +1,11 @@
+{
+  "name": "Tourmaline",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A pale green, blue, brown, or red gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

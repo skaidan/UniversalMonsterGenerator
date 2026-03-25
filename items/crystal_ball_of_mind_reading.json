@@ -1,0 +1,11 @@
+{
+  "name": "Crystal Ball of Mind Reading",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 3,
+  "description": "While touching this crystal orb, you can cast {@spell Scrying|XPHB} (save {@dc 17}) with it. In addition, you can cast {@spell Detect Thoughts|XPHB} (save {@dc 17}) targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this {@spell Detect Thoughts|XPHB} spell to maintain it during its duration, but it ends if the {@spell Scrying|XPHB} spell ends.",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Amethyst",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A deep purple gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

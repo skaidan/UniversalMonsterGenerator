@@ -1,0 +1,14 @@
+{
+  "name": "Snicker-Snack",
+  "type": "item",
+  "source": "WBtW",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 6,
+  "description": "You gain a +3 bonus to attack and damage rolls made with this magic vorpal sword. In addition, the weapon ignores resistance to slashing damage. When you use this weapon to attack a creature that has at least one head and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, it doesn't have or need a head, it has legendary actions, or the DM decide",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

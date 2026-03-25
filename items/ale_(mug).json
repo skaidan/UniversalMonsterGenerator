@@ -1,0 +1,11 @@
+{
+  "name": "Ale (mug)",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 4,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

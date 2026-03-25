@@ -1,0 +1,11 @@
+{
+  "name": "Devil Mask",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": 2500,
+  "weight": "",
+  "description": "While you are wearing a Devil Mask, other creatures have {@variantrule Disadvantage|XPHB} on Intelligence ({@skill Investigation|XPHB}) and Wisdom ({@skill Insight|XPHB}) checks made to discern your true identity or intentions.",
+  "requires_attunement": false,
+  "properties": []
+}

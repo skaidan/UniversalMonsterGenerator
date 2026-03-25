@@ -1,0 +1,11 @@
+{
+  "name": "Wheel of Stars",
+  "type": "item",
+  "source": "AI",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "While attuned to this device, you have a +1 bonus to Wisdom saving throws, and you can use an action to cast the {@spell dancing lights}, {@spell guidance}, or {@spell message} cantrips.\n{\"type\": \"entries\", \"name\": \"Portent of the Stars\", \"entries\": [\"As a reaction when a creature you can see within 60 feet of you makes an attack roll, saving throw, or ability check, you make that creature roll a {@dice d10} and add or subtract the number rolled (your choice) from the roll. Once you use this fea",
+  "requires_attunement": true,
+  "properties": []
+}

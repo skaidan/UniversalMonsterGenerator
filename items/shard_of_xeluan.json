@@ -1,0 +1,11 @@
+{
+  "name": "Shard of Xeluan",
+  "type": "item",
+  "source": "KftGV",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This 1-foot-long shard of obsidian has veins of silver and gold beneath its cold surface.\n{\"type\": \"entries\", \"name\": \"Empowered Magic\", \"entries\": [\"While holding the shard, you can use it as a spellcasting focus, and it gives you a +1 bonus to your spell attack rolls.\"]}\n{\"type\": \"entries\", \"name\": \"Enhanced Strength\", \"entries\": [\"Your Strength score increases by 4 while the shard is on your person. The shard can't raise your Strength score above 22.\"]}\n{\"type\": \"entries\", \"name\": \"Curse\", \"e",
+  "requires_attunement": true,
+  "properties": []
+}

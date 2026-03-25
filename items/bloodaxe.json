@@ -1,0 +1,14 @@
+{
+  "name": "Bloodaxe",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 7,
+  "description": "You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra {@damage 1d6} necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.\nThis axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina.",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

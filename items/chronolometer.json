@@ -1,0 +1,11 @@
+{
+  "name": "Chronolometer",
+  "type": "item",
+  "source": "AI",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "While attuned to this device, you have a +1 bonus to Intelligence saving throws. The first time you attune to the chronolometer, you choose one language you don't know. You subsequently know that language while attuned to the device.\n{\"type\": \"entries\", \"name\": \"Time Bandit\", \"entries\": [\"At the start of your turn, roll a {@dice d6} (no action required). On a 1\\u20133, you slow down time, gaining an additional action on your turn and doubling your speed until the end of the turn. On a 4\\u20136, ",
+  "requires_attunement": true,
+  "properties": []
+}

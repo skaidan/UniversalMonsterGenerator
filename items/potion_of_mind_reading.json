@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Mind Reading",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "When you drink this potion, you gain the effect of the {@spell Detect Thoughts|XPHB} spell (save {@dc 13}) for 10 minutes (no {@status Concentration|XPHB} required).\nThis potion's dense, purple liquid has an ovoid cloud of pink floating in it.",
+  "requires_attunement": false,
+  "properties": []
+}

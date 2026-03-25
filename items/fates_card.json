@@ -1,0 +1,11 @@
+{
+  "name": "Fates Card",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "As a bonus action, you can brandish this card at one willing creature you can see within 30 feet of yourself, granting the creature a brief glimpse of the future. Until the start of your next turn, the creature has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration. Once this property is used, it can't be used again until the next dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

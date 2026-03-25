@@ -1,0 +1,11 @@
+{
+  "name": "Bedroll",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 7,
+  "description": "A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against {@hazard extreme cold|XDMG} (see the {@book Dungeon Master's Guide|XDMG}).",
+  "requires_attunement": false,
+  "properties": []
+}

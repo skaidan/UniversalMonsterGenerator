@@ -1,0 +1,11 @@
+{
+  "name": "Orb of Skoraeus",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 8,
+  "description": "Said to be infused with the wisdom and power of the god Skoraeus, this polished stone orb is veined with iridescent crystal that seems to glow from within. The orb is 8 inches in diameter and weighs 8 pounds, making it a palm-sized trinket for a stone giant but a more unwieldy item for a Medium creature to use.\nWhile holding this orb, you can use it as a spellcasting focus for your spells. You also gain the following benefits:\n{\"type\": \"entries\", \"name\": \"Abundant Components\", \"entries\": [\"The o",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Red Dragon Mask",
+  "type": "item",
+  "source": "RoTOS",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This mask of glossy crimson has swept-back horns and spiked cheek ridges. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.\n{\"type\": \"entries\", \"name\": \"Damage Absorption\", \"entries\": [\"You have resistance against fire damage. If you already have resistance to fire damage from another source, you instead have immunity to fire damage. If you already have immunity to fire damage from another source, whenever ",
+  "requires_attunement": true,
+  "properties": []
+}

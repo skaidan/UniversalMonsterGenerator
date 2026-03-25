@@ -1,0 +1,11 @@
+{
+  "name": "Weird Tank",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "A weird tank is a ten-gallon tank of blown glass and sculpted bronze with a backpack-like carrying harness fashioned from tough leather. A {@creature water weird} is contained within the tank. While wearing the tank, you can use an action to open it, allowing the {@creature water weird} to emerge. The {@creature water weird} acts immediately after you in the initiative order, and it is bound to the tank.\nYou can command the {@creature water weird} telepathically (no action required) while you we",
+  "requires_attunement": true,
+  "properties": []
+}

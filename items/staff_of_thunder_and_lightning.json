@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Thunder and Lightning",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it can't be used again until the next dawn.\n{\"type\": \"entries\", \"name\": \"Lightning\", \"entries\": [\"When you hit with a melee attack using the staff, you can cause the target to take an extra {@damage 2d6} Lightning damage (no action required).\"]}\n{\"type\": \"entries\", \"name\": \"Thunder\", \"entries",
+  "requires_attunement": true,
+  "properties": [
+    "V|XPHB"
+  ]
+}

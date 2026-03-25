@@ -1,0 +1,11 @@
+{
+  "name": "Rhodochrosite",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 1000,
+  "weight": "",
+  "description": "A light pink gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

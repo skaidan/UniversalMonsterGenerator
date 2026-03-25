@@ -1,0 +1,11 @@
+{
+  "name": "Finder's Goggles",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "The lenses of these garish goggles are carved from Siberys dragonshards. While wearing these lenses, you gain the following benefits:\n{\"type\": \"list\", \"items\": [\"When you make a Wisdom ({@skill Insight}) check, you can roll a {@dice d4} and add the number rolled to the check.\", \"As an action, you can use the goggles to examine an object to identify the aura of the last creature that touched it. Make a Wisdom ({@skill Insight}) check against a DC of 13 + the number of days since the last contact ",
+  "requires_attunement": true,
+  "properties": []
+}

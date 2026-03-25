@@ -1,0 +1,11 @@
+{
+  "name": "Bloodstone",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "A dark gray with red flecks gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

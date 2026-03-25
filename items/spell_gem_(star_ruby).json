@@ -1,0 +1,11 @@
+{
+  "name": "Spell Gem (Star ruby)",
+  "type": "item",
+  "source": "OotA",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "A star ruby spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.\nIf the spell is of a higher level than you can normally cast, you must make an ability check using your spellca",
+  "requires_attunement": true,
+  "properties": []
+}

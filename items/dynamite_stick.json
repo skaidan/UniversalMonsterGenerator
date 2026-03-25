@@ -1,0 +1,11 @@
+{
+  "name": "Dynamite Stick",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": "",
+  "weight": 1,
+  "description": "An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point makes a {@dc 12} Dexterity saving throw, taking {@damage 3d6} Force damage on a failed save or half as much damage on a successful one.\nIt takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by {",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pearl of Power",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While this pearl is on your person, you can take a {@action Magic|XPHB} action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.",
+  "requires_attunement": true,
+  "properties": []
+}

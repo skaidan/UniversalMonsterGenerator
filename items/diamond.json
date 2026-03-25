@@ -1,0 +1,11 @@
+{
+  "name": "Diamond",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 500000,
+  "weight": "",
+  "description": "A blue white, canary, pink, brown, or blue gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

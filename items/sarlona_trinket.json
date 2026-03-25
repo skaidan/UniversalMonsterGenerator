@@ -1,0 +1,11 @@
+{
+  "name": "Sarlona Trinket",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{\"caption\": \"Trinkets from Sarlona\", \"colLabels\": [\"d8\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A polished crystal sphere; when you clutch it in your fist, a telepathic voice recites a story in your mind\"], [\"2\", \"A teardrop pendant made from polished shell; when you hold it, you see the image of a young Riedran man\"], [\"3\", \"A six-sided crystal die; when you roll it, you feel a surge of emotion for six seconds\"], [\"4\", \"A sealed vial filled with faintly lumine",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Supreme Healing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "You regain {@dice 10d4 + 20} {@variantrule Hit Points|XPHB} when you drink this potion. The potion's red liquid glimmers when agitated.",
+  "requires_attunement": false,
+  "properties": []
+}

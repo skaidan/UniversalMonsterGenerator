@@ -1,0 +1,11 @@
+{
+  "name": "Mask of Changed Appearance",
+  "type": "item",
+  "source": "NF",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This jeweled mask has 3 charges. As a {@action Magic|XPHB} action, you can expend 1 charge and change your face's appearance. You can't make yourself look like a different person, but you can smooth or deepen your wrinkles, whiten your teeth, hide or accentuate bags under your eyes, or perform other minor cosmetic changes. While your appearance is changed, the mask has the {@condition Invisible|XPHB} condition. Your changed appearance lasts 1 hour.\n{\"type\": \"entries\", \"name\": \"Regaining Charges\"",
+  "requires_attunement": false,
+  "properties": []
+}

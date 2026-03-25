@@ -1,0 +1,11 @@
+{
+  "name": "Mythallar Cloak",
+  "type": "item",
+  "source": "NF",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This electric-blue cloak is studded with sewn-in crystals that are shards of a decommissioned mythallar. The cloak has 10 charges and regains {@dice 1d10} expended charges daily at dawn.\nWhile wearing the cloak, you can take a {@variantrule Bonus Action|XPHB} and expend 1 charge to activate the cloak's magic. The magic lasts for 1 minute or until you end it early (no action required).\nWhile the cloak's magic is active, you gain a {@variantrule Fly Speed|XPHB} of 30 feet and can hover. Additional",
+  "requires_attunement": true,
+  "properties": []
+}

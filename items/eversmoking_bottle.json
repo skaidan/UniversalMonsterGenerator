@@ -1,0 +1,11 @@
+{
+  "name": "Eversmoking Bottle",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "As a {@action Magic|XPHB} action, you can open or close this bottle.\nOpening the bottle causes thick smoke to billow out, forming a cloud that fills a 60-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the bottle. The area within the smoke is {@variantrule Heavily Obscured|XPHB}.\nEach minute the bottle remains open, the size of the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} increases by 10 feet until it reaches its maximum size of 120 feet.\nClosing th",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Horizon Puzzle Cube",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "A Horizon puzzle cube is an 8-inch magical cube made of gold, iron, crystal, and copper, and it is worth 5,000 gp to a sage or collector. A functioning puzzle cube can be solved with 30 minutes of work and a successful {@dc 25} Intelligence ({@skill Investigation}) check. When the cube is solved, a 30-foot-diameter portal appears before the creature who solved the cube, leading to the northeastern platform of Horizon's Edge. The portal is two-way and remains open for 10 minutes or until a creatu",
+  "requires_attunement": false,
+  "properties": []
+}

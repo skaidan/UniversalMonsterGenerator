@@ -1,0 +1,11 @@
+{
+  "name": "Thieves' Tools",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2500,
+  "weight": 1,
+  "description": "{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"name\": \"Ability:\", \"type\": \"item\", \"entries\": [\"Dexterity\"]}, {\"name\": \"Utilize:\", \"type\": \"item\", \"entries\": [\"Pick a lock ({@dc 15}), or disarm a trap ({@dc 15})\"]}]}",
+  "requires_attunement": false,
+  "properties": []
+}

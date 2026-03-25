@@ -1,0 +1,11 @@
+{
+  "name": "Platinum 100-Zino Coin",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

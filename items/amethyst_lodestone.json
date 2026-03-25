@@ -1,0 +1,11 @@
+{
+  "name": "Amethyst Lodestone",
+  "type": "item",
+  "source": "FTD",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This fist-sized chunk of amethyst is infused with an amethyst dragon's ability to bend gravitational forces. While you are carrying the lodestone, you have advantage on Strength saving throws.\nThe lodestone has 6 charges for the following properties, which you can use while you are holding the stone. The stone regains {@dice 1d6} expended charges daily at dawn.\n{\"type\": \"entries\", \"name\": \"Flight\", \"entries\": [\"As a bonus action, you can expend 1 charge to gain the power of flight for 10 minutes",
+  "requires_attunement": true,
+  "properties": []
+}

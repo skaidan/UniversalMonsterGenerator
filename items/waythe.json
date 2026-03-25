@@ -1,0 +1,14 @@
+{
+  "name": "Waythe",
+  "type": "item",
+  "source": "TftYP",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 6,
+  "description": "Waythe is a unique greatsword most recently in the possession of a high-ranking {@creature cloud giant} ambassador.\nYou gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra {@damage 2d6} slashing damage, and it must succeed on a {@dc 15} Strength saving throw or fall {@condition prone}.\nThe sword also functions as a {@item wand of enemy detection}. It regains all of its expended charges at dawn and isn",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

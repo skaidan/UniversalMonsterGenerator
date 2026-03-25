@@ -1,0 +1,11 @@
+{
+  "name": "Shield of the Cavalier",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 6,
+  "description": "While holding this Shield, you have a +2 bonus to {@variantrule Armor Class|XPHB}. This bonus is in addition to the Shield's normal bonus to AC.\nThe Shield has the following additional properties that you can use while holding it.\n{\"type\": \"entries\", \"name\": \"Forceful Bash\", \"entries\": [\"When you take the {@action Attack|XPHB} action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your {@variantrule Proficiency|XPHB|Proficiency Bonus} and ",
+  "requires_attunement": true,
+  "properties": []
+}

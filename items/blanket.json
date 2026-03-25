@@ -1,0 +1,11 @@
+{
+  "name": "Blanket",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 50,
+  "weight": 3,
+  "description": "While wrapped in a blanket, you have {@variantrule Advantage|XPHB} on saving throws against {@hazard extreme cold|XDMG} (see the {@book Dungeon Master's Guide|XDMG}).",
+  "requires_attunement": false,
+  "properties": []
+}

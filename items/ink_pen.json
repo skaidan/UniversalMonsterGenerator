@@ -1,0 +1,11 @@
+{
+  "name": "Ink Pen",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2,
+  "weight": "",
+  "description": "Using {@item Ink|XPHB}, an Ink Pen is used to write or draw.",
+  "requires_attunement": false,
+  "properties": []
+}

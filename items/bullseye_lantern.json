@@ -1,0 +1,11 @@
+{
+  "name": "Bullseye Lantern",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1000,
+  "weight": 2,
+  "description": "A Bullseye Lantern burns Oil as fuel to cast {@variantrule Bright Light|XPHB} in a 60-foot Cone and {@variantrule Dim Light|XPHB} for an additional 60 feet.",
+  "requires_attunement": false,
+  "properties": []
+}

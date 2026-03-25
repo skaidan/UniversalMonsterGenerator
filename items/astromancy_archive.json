@@ -1,0 +1,11 @@
+{
+  "name": "Astromancy Archive",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: {@spell augury}, {@spell divination}, {@spell find the path}, {@spell foresight}, {@spell locate creature}, and {@spell locate object}. It functions as a spellbook for you, with spells encoded on the rings.\nWhile you are holding the arc",
+  "requires_attunement": true,
+  "properties": []
+}

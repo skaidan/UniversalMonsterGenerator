@@ -1,0 +1,11 @@
+{
+  "name": "Constantori's Portrait",
+  "type": "item",
+  "source": "KftGV",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 15,
+  "description": "This painting by famed artist Dkesii Kwan depicts Constantori, a beautiful courtier, who was paid a staggering sum to be Dkesii's model. Whether Constantori's actual appearance matches the painting remains a subject of debate. The portrait is one of several paintings commissioned by the late Daiyani Grysthorn, a crime lord who frequently gave magical paintings as gifts to her most esteemed associates.\n{\"type\": \"entries\", \"name\": \"Sentience\", \"entries\": [\"Constantori's Portrait is a sentient, law",
+  "requires_attunement": true,
+  "properties": []
+}

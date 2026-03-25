@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Ruling",
+  "type": "item",
+  "source": "QftIS",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "An ornate carving of a serpent adorned with a coursing river spirals down the length of this red-and-gold staff. While you're holding it, you can use an action to produce one of the following effects. Once the staff has produced an effect, it can't produce that effect again until the next dawn.\n{\"type\": \"entries\", \"name\": \"Orb of Lightning\", \"entries\": [\"You create a Small orb of lightning in an unoccupied space you can see within 60 feet of yourself. You concentrate on this orb as if {@status c",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

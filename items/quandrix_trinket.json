@@ -1,0 +1,11 @@
+{
+  "name": "Quandrix Trinket",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you may roll once on the Quandrix Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.\n{\"caption\": \"Quandrix Trinkets\", \"colLabels\": [\"d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A small succulent in a dodecahedral clay pot\"], [\"2\", \"A blue knit hat that looks a bit like a bottle folding in on itself\"], [\"3\", \"A model hypercube carved from green crysta",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Infernal Puzzle Box",
+  "type": "item",
+  "source": "BGDIA",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 3,
+  "description": "An infernal puzzle box is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. Infernal puzzle boxes are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty infernal puzzle box weighs 3 pounds regardless of the materials used to fashion it.\nWh",
+  "requires_attunement": false,
+  "properties": []
+}

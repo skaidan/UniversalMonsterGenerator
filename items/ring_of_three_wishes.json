@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Three Wishes",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can expend 1 of its 3 charges to cast {@spell Wish|XPHB} from it. The ring becomes nonmagical when you use the last charge.",
+  "requires_attunement": false,
+  "properties": []
+}

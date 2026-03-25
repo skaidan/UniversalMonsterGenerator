@@ -1,0 +1,11 @@
+{
+  "name": "Soothsalts",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "none",
+  "value": 15000,
+  "weight": "",
+  "description": "Soothsalts are derived from a naturally occurring crystalline substance discovered throughout the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous veins like those in the mouth of the Miskath Pit and found within smaller geode formations near sites ravaged by the Calamity. Soothsalts are consumed orally in lozenge-sized doses, and frequent users can be identified by the telltale crimson stain around their mouths. A creature subjected to a dose of soothsalts gains ",
+  "requires_attunement": false,
+  "properties": []
+}

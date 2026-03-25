@@ -1,0 +1,11 @@
+{
+  "name": "Zabou",
+  "type": "item",
+  "source": "ToA",
+  "rarity": "none",
+  "value": 1000,
+  "weight": "",
+  "description": "Zabou mushrooms feed on offal and the rotting wood of dead trees. If handled carefully, a zabou can be picked or uprooted without causing it to release its spores. If crushed or struck, a zabou releases its spores in a 10-foot-radius sphere. A zabou can also be hurled up to 30 feet away or dropped like a grenade, releasing its cloud of spores on impact. Any creature in that area must succeed on a {@dc 10} Constitution saving throw or be {@condition poisoned} for 1 minute. The {@condition poisone",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Warhorse",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 40000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

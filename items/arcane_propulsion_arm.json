@@ -1,0 +1,13 @@
+{
+  "name": "Arcane Propulsion Arm",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.\nWhile attached, the prosthetic provides these benefits:\n{\"type\": \"list\", \"items\": [\"The prosthetic is a fully capable part of your body.\", \"You can take an action to remove the prosthetic, and it removes itself if your attunement to it ends. It can't be",
+  "requires_attunement": true,
+  "properties": [
+    "T"
+  ]
+}

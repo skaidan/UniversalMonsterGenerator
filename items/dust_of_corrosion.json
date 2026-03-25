@@ -1,0 +1,11 @@
+{
+  "name": "Dust of Corrosion",
+  "type": "item",
+  "source": "WBtW",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you can throw this dust into the air, filling a 10-foot cube that extends out from you. Surfaces and objects made of nonmagical ferrous metal in the area instantly corrode and turn to dust, becoming useless and unsalvageable. Any creature in the area that is made wholly or partly out of ferrous metal must make a {@dc 13} Constitution saving throw, taking {@damage 4d8} necrotic damage on a failed save, or half as much damage on a successful one.\nFound in a small packet, this dust is",
+  "requires_attunement": false,
+  "properties": []
+}

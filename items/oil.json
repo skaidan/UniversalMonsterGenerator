@@ -1,0 +1,11 @@
+{
+  "name": "Oil",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": 1,
+  "description": "You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.\n{\"name\": \"Dousing a Creature or an Object\", \"type\": \"entries\", \"entries\": [\"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or be covered in oi",
+  "requires_attunement": false,
+  "properties": []
+}

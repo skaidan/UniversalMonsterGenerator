@@ -1,0 +1,11 @@
+{
+  "name": "Wyvern Poison",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 120000,
+  "weight": "",
+  "description": "A creature subjected to Wyvern Poison makes a {@dc 14} Constitution saving throw, taking 24 ({@damage 7d6}) Poison damage on a failed save or half as much damage on a successful one.",
+  "requires_attunement": false,
+  "properties": []
+}

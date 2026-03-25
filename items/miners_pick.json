@@ -1,0 +1,11 @@
+{
+  "name": "Miner's Pick",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 10,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

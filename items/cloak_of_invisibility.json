@@ -1,0 +1,11 @@
+{
+  "name": "Cloak of Invisibility",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This cloak has 3 charges and regains {@dice 1d3} expended charges daily at dawn. While wearing the cloak, you can take a {@action Magic|XPHB} action to pull its hood over your head and expend 1 charge to give yourself the {@condition Invisible|XPHB} condition for 1 hour. The effect ends early if you pull the hood down (no action required) or cease wearing the hood.",
+  "requires_attunement": true,
+  "properties": []
+}

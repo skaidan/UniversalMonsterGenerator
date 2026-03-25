@@ -1,0 +1,11 @@
+{
+  "name": "Robe",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 4,
+  "description": "A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.",
+  "requires_attunement": false,
+  "properties": []
+}

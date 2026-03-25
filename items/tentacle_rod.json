@@ -1,0 +1,11 @@
+{
+  "name": "Tentacle Rod",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 2,
+  "description": "This rod ends in three rubbery tentacles. While holding the rod, you can take a {@action Magic|XPHB} action to direct the tentacles to stretch outward, each one attacking a creature you can see within 15 feet of yourself. For each tentacle, make a melee attack roll with a +9 bonus. A tentacle deals {@damage 1d6} Psychic damage on a hit. If you hit the same target with all three tentacles, the target must succeed on a {@dc 15} Dexterity saving throw or have the {@condition Restrained|XPHB} condit",
+  "requires_attunement": true,
+  "properties": []
+}

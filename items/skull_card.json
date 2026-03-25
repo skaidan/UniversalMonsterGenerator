@@ -1,0 +1,11 @@
+{
+  "name": "Skull Card",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you can brandish this card and use it to cast {@spell Spirit of Death|BMT} (see {@book chapter 7|BMT|6|Spirit of Death}) as a 6th-level spell (spell attack bonus {@hit 9}, save {@dc 17}). Once this property is used, it can't be used again until the next dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

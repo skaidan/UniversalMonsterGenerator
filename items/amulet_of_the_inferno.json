@@ -1,0 +1,11 @@
+{
+  "name": "Amulet of the Inferno",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "When Fierna was born, petitioners and devils from all over came to celebrate her birth. Many brought gifts and treasures, including a powerful infernal warlock. Recognizing the strength and inner fire of Fierna, the warlock gifted her with the Amulet of the Inferno, and it has been around her neck ever since.\nThe Amulet of the Inferno is a magic necklace that grants a +3 bonus to spell save DC and spell attack bonus.\n{\"type\": \"entries\", \"name\": \"Random Properties\", \"entries\": [\"The Amulet of the",
+  "requires_attunement": true,
+  "properties": []
+}

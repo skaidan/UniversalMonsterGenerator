@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Swimming",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "You have a {@variantrule Swim Speed|XPHB} of 40 feet while wearing this ring.",
+  "requires_attunement": false,
+  "properties": []
+}

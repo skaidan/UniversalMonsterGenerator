@@ -1,0 +1,11 @@
+{
+  "name": "Quaal's Feather Token, Whip",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This object looks like a feather.\nYou can take a {@action Magic|XPHB} action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a {@variantrule Bonus Action|XPHB} to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes {@damage 1d6 + 5} Force damage.\nAs a {@variantrule Bonus Action|XPHB}, you can direct the whip to fly up to 20 feet and re",
+  "requires_attunement": false,
+  "properties": []
+}

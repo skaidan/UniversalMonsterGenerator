@@ -1,0 +1,11 @@
+{
+  "name": "Crown of Whirling Comets",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This delicate silver tiara is decorated with stellar iconography. While you wear the crown, the gems on the tiara's points detach and closely orbit your head.\nThe crown has 6 charges for the following properties, which you can use while wearing the crown:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Star Flight\", \"entries\": [\"As a bonus action, you can spend 1 charge to gain the power of flight for 10 minutes. For the duration, you gain a flying speed equal ",
+  "requires_attunement": true,
+  "properties": []
+}

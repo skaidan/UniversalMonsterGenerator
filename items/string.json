@@ -1,0 +1,11 @@
+{
+  "name": "String",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": "",
+  "description": "String is 10 feet long. You can tie a knot in it as a {@action Utilize|XPHB} action.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Harbor Moon",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "Platinum crescent inset with electrum, about three inches long with a hole large enough for a {@item nib|wdh} to fit in (1 harbor moon = 5,000 {@item nib|wdh|nibs})",
+  "requires_attunement": false,
+  "properties": []
+}

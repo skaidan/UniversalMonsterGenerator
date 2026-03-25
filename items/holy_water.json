@@ -1,0 +1,11 @@
+{
+  "name": "Holy Water",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2500,
+  "weight": 1,
+  "description": "When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or take {@damage 2d8} Radiant damage if it is a Fiend or an Undead.",
+  "requires_attunement": false,
+  "properties": []
+}

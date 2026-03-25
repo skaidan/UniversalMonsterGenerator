@@ -1,0 +1,11 @@
+{
+  "name": "Whisper Jar",
+  "type": "item",
+  "source": "AI",
+  "rarity": "varies",
+  "value": "",
+  "weight": "",
+  "description": "Also at rank 1, you are the beneficiary of a whisper jar—a common magic item resembling an ether-filled jar with a long tap hose. The jar is used to record others' stories and your own observations, like a verbal notebook with unlimited space. The whisper jar records as fast as a creature can speak into it, and whispers back words at the same pace they were recorded. Activating the playback of a particular recording is an action.\n{\"type\": \"table\", \"caption\": \"Things Recorded in Your Whisper Jar\"",
+  "requires_attunement": true,
+  "properties": []
+}

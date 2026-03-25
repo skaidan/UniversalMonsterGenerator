@@ -1,0 +1,11 @@
+{
+  "name": "Vial of Stardust",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "unknown",
+  "value": "",
+  "weight": "",
+  "description": "Any creature that sprinkles the contents of a Vial of Stardust over itself gains the ability to cast the {@spell dream} spell once as an action (spell save {@dc 15}), requiring no components.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Opal of the Ild Rune",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This triangular fire opal measures about three inches on each side and is half an inch thick. The ild (fire) rune shimmers within its core, causing it to be slightly warm to the touch. The opal has the following properties, which work only while it's on your person.\n{\"name\": \"Ignite\", \"type\": \"entries\", \"entries\": [\"As an action, you can ignite an object within 10 feet of you. The object must be flammable, and the fire starts in a circle no larger than 1 foot in diameter.\"]}\n{\"name\": \"Fires Frie",
+  "requires_attunement": true,
+  "properties": []
+}

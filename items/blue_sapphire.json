@@ -1,0 +1,11 @@
+{
+  "name": "Blue Sapphire",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 100000,
+  "weight": "",
+  "description": "A medium blue gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

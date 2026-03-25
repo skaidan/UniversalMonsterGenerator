@@ -1,0 +1,11 @@
+{
+  "name": "Cape of the Mountebank",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This cape smells faintly of brimstone. While wearing it, you can use it to cast {@spell Dimension Door|XPHB} as a {@action Magic|XPHB} action. This property can't be used again until the next dawn.\nWhen you teleport with that spell, you leave behind a cloud of smoke. The space you left is {@variantrule Lightly Obscured|XPHB} by that smoke until the end of your next turn.",
+  "requires_attunement": false,
+  "properties": []
+}

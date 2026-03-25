@@ -1,0 +1,11 @@
+{
+  "name": "Yellow Death",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "none",
+  "value": 15000,
+  "weight": "",
+  "description": "A creature subjected to Yellow Death makes a {@dc 13} Constitution saving throw. On a failed save, the creature takes 14 ({@dice 4d6}) Poison damage and has the {@condition Poisoned|XPHB} condition for 1 minute. On a successful save, the creature takes half as much damage only.",
+  "requires_attunement": false,
+  "properties": []
+}

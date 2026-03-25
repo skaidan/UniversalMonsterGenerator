@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Animal Friendship",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "When you drink this potion, you can cast the level 3 version of the {@spell Animal Friendship|XPHB} spell (save {@dc 13}).\nAgitating this potion's muddy liquid brings little bits into view: a fish scale, a hummingbird feather, a cat claw, or a squirrel hair.",
+  "requires_attunement": false,
+  "properties": []
+}

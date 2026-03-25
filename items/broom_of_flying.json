@@ -1,0 +1,11 @@
+{
+  "name": "Broom of Flying",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This wooden broom functions like a mundane broom until you stand astride it and take a {@action Magic|XPHB} action to make it hover beneath you, at which time it can be ridden in the air. It has a {@variantrule Fly Speed|XPHB} of 50 feet. It can carry up to 400 pounds, but its {@variantrule Fly Speed|XPHB} becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you're no longer riding it.\nAs a {@action Magic|XPHB} action, you can send the broom to travel al",
+  "requires_attunement": true,
+  "properties": []
+}

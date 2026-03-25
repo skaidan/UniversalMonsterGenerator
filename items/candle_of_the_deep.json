@@ -1,0 +1,11 @@
+{
+  "name": "Candle of the Deep",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.",
+  "requires_attunement": false,
+  "properties": []
+}

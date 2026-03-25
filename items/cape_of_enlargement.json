@@ -1,0 +1,11 @@
+{
+  "name": "Cape of Enlargement",
+  "type": "item",
+  "source": "PaBTSO",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "Ancient runes are stitched in silver thread along the hem of this grayish-purple cape.\nThe cape has 3 charges. As a bonus action while wearing the cape, you can expend 1 of its charges to enlarge yourself, granting yourself the following benefits:\n{\"type\": \"list\", \"items\": [\"Your size increases by one category\\u2014from Medium to Large, for example. If there isn't enough room for your size to increase by one category, you instead become the maximum possible size in the space available.\", \"You ha",
+  "requires_attunement": true,
+  "properties": []
+}

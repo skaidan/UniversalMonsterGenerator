@@ -1,0 +1,11 @@
+{
+  "name": "Reincarnation Dust",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the {@spell reincarnate} spell had been cast on the remains.",
+  "requires_attunement": false,
+  "properties": []
+}

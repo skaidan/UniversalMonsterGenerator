@@ -1,0 +1,13 @@
+{
+  "name": "Staff of the Magi",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 4,
+  "description": "This staff has 50 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.\n{\"type\": \"entries\", \"name\": \"Spell Absorption\", \"entries\": [\"While holding the staff , you have {@variantrule Advantage|XPHB} on saving throws against spells. In addition, you can take a {@variantrule Reaction|XPHB} when another creature casts a spell that targets only you. If you do, the staff abs",
+  "requires_attunement": true,
+  "properties": [
+    "V|XPHB"
+  ]
+}

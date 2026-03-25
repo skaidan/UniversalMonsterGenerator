@@ -1,0 +1,14 @@
+{
+  "name": "Silver Sword",
+  "type": "item",
+  "source": "MTF",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": 6,
+  "description": "You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the {@spell astral projection} spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

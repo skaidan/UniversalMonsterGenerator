@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Psionic Fortitude",
+  "type": "item",
+  "source": "PaBTSO",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "When you drink this potion, you have advantage for 1 hour on saving throws you make to avoid or end the charmed or stunned condition on yourself.\nThis black potion swirls with shimmering flecks of pink and purple.",
+  "requires_attunement": false,
+  "properties": []
+}

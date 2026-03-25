@@ -1,0 +1,11 @@
+{
+  "name": "Obviator's Lenses",
+  "type": "item",
+  "source": "AI",
+  "rarity": "varies",
+  "value": "",
+  "weight": "",
+  "description": "Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as {@item eyes of minute seeing} or {@item eyes of the eagle}. Once you make this choice, it cannot be changed until the next dawn.\n{\"type\": \"entries\", \"name\": \"Enhanced Lenses\", \"entries\": [\"At rank 4, your obviator's lenses gain additional p",
+  "requires_attunement": false,
+  "properties": []
+}

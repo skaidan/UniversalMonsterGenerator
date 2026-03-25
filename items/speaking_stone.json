@@ -1,0 +1,11 @@
+{
+  "name": "Speaking Stone",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "The key to long-distance, virtually instantaneous communication across Khorvaire is House Sivis's network of message stations. Each station contains at least one speaking stone, which is carved from a Siberys dragonshard and inscribed with arcane symbols that uniquely identify it. If you're a gnome with the Mark of Scribing, you can touch the stone and use an action to cast the {@spell sending} spell from it. The target is any other speaking stone whose location or unique sequence of symbols you",
+  "requires_attunement": false,
+  "properties": []
+}

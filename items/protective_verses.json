@@ -1,0 +1,11 @@
+{
+  "name": "Protective Verses",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock ({@dc 20} to open). As an action, you can touch the book's cover and cause it to lock as if you cast {@spell arcane lock} on it. When found, the book contains the following spells: {@spell arcane lock}, {@spell dispel magic}, {@spell globe of invulnerability}, {@spell glyph of warding}, {@spell Mordenkainen's private sanctum}, {@spell protection from evil and good||protection from evil}, and {@spell symbol}",
+  "requires_attunement": true,
+  "properties": []
+}

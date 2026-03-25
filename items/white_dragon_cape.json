@@ -1,0 +1,11 @@
+{
+  "name": "White Dragon Cape",
+  "type": "item",
+  "source": "TftYP",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "You have resistance to cold damage while wearing this cape.",
+  "requires_attunement": false,
+  "properties": []
+}

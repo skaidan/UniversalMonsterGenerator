@@ -1,0 +1,11 @@
+{
+  "name": "Pair of engraved bone dice",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 2500,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

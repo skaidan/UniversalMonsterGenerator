@@ -1,0 +1,11 @@
+{
+  "name": "+3 Wand of the War Mage",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 1,
+  "description": "While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore {@variantrule Cover|XPHB|Half Cover} when making a spell attack roll.",
+  "requires_attunement": true,
+  "properties": []
+}

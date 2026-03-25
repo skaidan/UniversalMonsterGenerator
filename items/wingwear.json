@@ -1,0 +1,11 @@
+{
+  "name": "Wingwear",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This snug uniform has symbols of air stitched into it and leathery flaps that stretch along the arms, waist, and legs to create wings for gliding. A suit of wingwear has 3 charges. While you wear the suit, you can use a bonus action and expend 1 charge to gain a flying speed of 30 feet until you land. At the end of each of your turns, your altitude drops by 5 feet. Your altitude drops instantly to 0 feet at the end of your turn if you didn't fly at least 30 feet horizontally on that turn. When y",
+  "requires_attunement": true,
+  "properties": []
+}

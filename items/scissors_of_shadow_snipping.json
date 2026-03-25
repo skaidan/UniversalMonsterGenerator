@@ -1,0 +1,11 @@
+{
+  "name": "Scissors of Shadow Snipping",
+  "type": "item",
+  "source": "WBtW",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you make a few snips with these iron shears and cause the shadow of a Humanoid creature you can see within 5 feet of you to detach from its source. If the creature is unwilling to give up its shadow, it can make a {@dc 15} Charisma saving throw, retaining its shadow on a success. Whether or not the shadow is snipped, this property of the scissors can't be used again until the next dawn.\nThe detached shadow is rooted to the spot where it was snipped until you use a bonus action to c",
+  "requires_attunement": true,
+  "properties": []
+}

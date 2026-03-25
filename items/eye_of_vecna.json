@@ -1,0 +1,11 @@
+{
+  "name": "Eye of Vecna",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "{@book Vecna|XDMG|8|Vecna} was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.\nA treacherous lieutenant named Kas brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.\nThe Eye of Vecna and the {@item Hand of Vecna|XDMG} are separate Artifacts that",
+  "requires_attunement": true,
+  "properties": []
+}

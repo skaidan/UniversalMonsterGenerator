@@ -1,0 +1,11 @@
+{
+  "name": "Steel Mirror",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": 0.5,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

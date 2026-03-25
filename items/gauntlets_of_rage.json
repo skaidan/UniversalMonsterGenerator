@@ -1,0 +1,11 @@
+{
+  "name": "Gauntlets of Rage",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "You gain the power of never-ending fury. After you make a melee weapon attack, you automatically enter a special fury for 1 minute. While furious, you can't cast spells, can't verbally communicate, and are immune to the {@condition charmed} and {@condition frightened} conditions. Each time you deal damage, you regain {@dice 2d8} hit points and may immediately remove a condition you currently suffer from or end this fury. Additionally, while in this fury, you may spend a spell slot before you mak",
+  "requires_attunement": true,
+  "properties": []
+}

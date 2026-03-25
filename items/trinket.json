@@ -1,0 +1,11 @@
+{
+  "name": "Trinket",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.\n{\"type\": \"table\", \"caption\": \"Trinkets\", \"colLabels\": [\"{@dice 1d100}\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"01\", \"A mummified goblin hand\"], [\"02\", \"A crystal that faintly glows in moonlight\"], [\"03\", \"A gold coin minted in an un",
+  "requires_attunement": false,
+  "properties": []
+}

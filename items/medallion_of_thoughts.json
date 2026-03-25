@@ -1,0 +1,11 @@
+{
+  "name": "Medallion of Thoughts",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 1,
+  "description": "The medallion has 5 charges. While wearing it, you can expend 1 charge to cast {@spell Detect Thoughts|XPHB} (save {@dc 13}) from it. The medallion regains {@dice 1d4} expended charges daily at dawn.",
+  "requires_attunement": true,
+  "properties": []
+}

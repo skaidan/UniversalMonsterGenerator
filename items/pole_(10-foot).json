@@ -1,0 +1,11 @@
+{
+  "name": "Pole (10-foot)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 5,
+  "weight": 7,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

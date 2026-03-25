@@ -1,0 +1,11 @@
+{
+  "name": "Deck of Illusions",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This box contains a set of cards. A full deck has 34 cards: 32 depicting specific creatures and two with a mirrored surface. A deck found as treasure is usually missing {@dice 1d20 - 1} cards.\nThe magic of the deck functions only if its cards are drawn at random. You can take a {@action Magic|XPHB} action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of yourself. An illusion of a creature, determined by rolling on the Deck of Illusions table, forms o",
+  "requires_attunement": false,
+  "properties": []
+}

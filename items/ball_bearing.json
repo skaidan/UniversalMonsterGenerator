@@ -1,0 +1,11 @@
+{
+  "name": "Ball Bearing",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 0.1,
+  "weight": 0.002,
+  "description": "Most commonly found inside a {@item Ball Bearings (Bag of 1,000)|phb|bag of ball bearings}.",
+  "requires_attunement": false,
+  "properties": []
+}

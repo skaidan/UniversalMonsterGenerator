@@ -1,0 +1,11 @@
+{
+  "name": "Stonemaker War Pick",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 2,
+  "description": "You gain a +1 bonus to attack and damage rolls made with this magic war pick. It has the following special properties:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Meld into Stone\", \"entries\": [\"You can cast the {@spell Meld into Stone} spell from this war pick. Once this property is used, it can't be used again until the next dawn.\"]}, {\"type\": \"item\", \"name\": \"Petrification\", \"entries\": [\"The war pick has {@dice 1d6 + 1} charges. If you score a critical hi",
+  "requires_attunement": true,
+  "properties": []
+}

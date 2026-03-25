@@ -1,0 +1,11 @@
+{
+  "name": "Elemental Essence Shard (Water)",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.\nWhen you use a Metamagic option on a spell while you are holding or wearing the shard, you can use the following property:\n{\"type\": \"entries\", \"name\": \"Property\", \"entries\": [\"You create a wave of water th",
+  "requires_attunement": true,
+  "properties": []
+}

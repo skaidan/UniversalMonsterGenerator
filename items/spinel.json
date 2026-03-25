@@ -1,0 +1,11 @@
+{
+  "name": "Spinel",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A red, red brown, or deep green gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

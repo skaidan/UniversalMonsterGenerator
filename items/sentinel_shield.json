@@ -1,0 +1,11 @@
+{
+  "name": "Sentinel Shield",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 6,
+  "description": "While holding this Shield, you have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls and Wisdom ({@skill Perception|XPHB}) checks. The Shield is emblazoned with a symbol of an eye.",
+  "requires_attunement": false,
+  "properties": []
+}

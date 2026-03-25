@@ -1,0 +1,11 @@
+{
+  "name": "Leather Golem Armor",
+  "type": "item",
+  "source": "LLK",
+  "rarity": "rare",
+  "value": "",
+  "weight": 10,
+  "description": "Strange rituals have repurposed the body of a flesh golem into this partially sentient suit of leather armor. While wearing this armor, you gain a +1 bonus to AC and to saving throws against spells and other magical effects. In addition, you gain the following properties:\n{\"type\": \"list\", \"items\": [{\"type\": \"entries\", \"name\": \"Immutable Form\", \"entries\": [\"You are immune to any spell or effect that would alter your form.\"]}, {\"type\": \"entries\", \"name\": \"Lightning Absorption\", \"entries\": [\"You ga",
+  "requires_attunement": true,
+  "properties": []
+}

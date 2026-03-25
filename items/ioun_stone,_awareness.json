@@ -1,0 +1,11 @@
+{
+  "name": "Ioun Stone, Awareness",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Ioun Stone|XDMG}\nWhile this dark-blue rhomboid orbits your head, you have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls and Wisdom ({@skill Perception|XPHB}) checks.",
+  "requires_attunement": true,
+  "properties": []
+}

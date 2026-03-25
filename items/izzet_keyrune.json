@@ -1,0 +1,11 @@
+{
+  "name": "Izzet Keyrune",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "Formed of carved and polished red and blue stone, the keyrune includes bits of cable and wire. One end resembles a humanlike head, suggesting the jagged elemental form of the {@creature galvanice weird|GGR} that it can become for a duration of 3 hours. In this form, it will serve you as a bodyguard, lift and carry things for you, act as a test subject for your experiments, or aid you in any other way that its capabilities allow.\nWhen you use an action to speak the item's command word and place t",
+  "requires_attunement": true,
+  "properties": []
+}

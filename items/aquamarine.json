@@ -1,0 +1,11 @@
+{
+  "name": "Aquamarine",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 50000,
+  "weight": "",
+  "description": "A pale blue green gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

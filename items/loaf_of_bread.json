@@ -1,0 +1,11 @@
+{
+  "name": "Loaf of Bread",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 2,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

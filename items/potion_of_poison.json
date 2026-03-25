@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Poison",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "This concoction looks, smells, and tastes like a {@item Potion of Healing|XDMG} or another beneficial potion. However, it is actually poison masked by illusion magic. {@spell Identify|XPHB} reveals its true nature.\nIf you drink this potion, you take {@damage 4d6} Poison damage and must succeed on a {@dc 13} Constitution saving throw or have the {@condition Poisoned|XPHB} condition for 1 hour.",
+  "requires_attunement": false,
+  "properties": []
+}

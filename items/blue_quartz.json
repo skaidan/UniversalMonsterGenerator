@@ -1,0 +1,11 @@
+{
+  "name": "Blue Quartz",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 1000,
+  "weight": "",
+  "description": "A pale blue gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

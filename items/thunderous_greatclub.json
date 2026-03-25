@@ -1,0 +1,13 @@
+{
+  "name": "Thunderous Greatclub",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 10,
+  "description": "While you are attuned to this magic weapon, your Strength is 20 unless your Strength is already equal to or greater than that score. The weapon deals an extra {@damage 1d8} Thunder damage to any creature it hits and an extra {@damage 3d8} Thunder damage to objects it hits that aren't being worn or carried.\nThe weapon has the following additional properties.\n{\"type\": \"entries\", \"name\": \"Clap of Thunder\", \"entries\": [\"As a {@action Magic|XPHB} action, you can strike the weapon against a hard surfa",
+  "requires_attunement": true,
+  "properties": [
+    "2H|XPHB"
+  ]
+}

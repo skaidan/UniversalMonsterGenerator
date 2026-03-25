@@ -1,0 +1,11 @@
+{
+  "name": "Thunderbuss",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 3,
+  "description": "This magic ranged weapon is a flared pistol with the storm rune engraved along the barrel. You gain a +1 bonus to attack and damage rolls made with it. It requires no ammunition, its damage is thunder instead of piercing, and it doesn't have the loading property.\n{\"type\": \"entries\", \"name\": \"Invoking the Rune\", \"entries\": [\"As a bonus action, you can invoke the weapon's rune to launch a ball of energy to a point you can see within 30 feet of yourself. The energy then detonates into a 10-foot-rad",
+  "requires_attunement": false,
+  "properties": []
+}

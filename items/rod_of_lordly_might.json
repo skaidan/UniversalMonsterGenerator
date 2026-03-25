@@ -1,0 +1,11 @@
+{
+  "name": "Rod of Lordly Might",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 2,
+  "description": "This rod has a flanged head, and it functions as a magic Mace that grants a +3 bonus to attack rolls and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.\n{\"type\": \"entries\", \"name\": \"Buttons\", \"entries\": [\"You can press one of the following buttons as a {@variantrule Bonus Action|XPHB}; a button's effect lasts until you push a different button or until you push the ",
+  "requires_attunement": true,
+  "properties": []
+}

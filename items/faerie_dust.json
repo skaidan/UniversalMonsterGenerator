@@ -1,0 +1,11 @@
+{
+  "name": "Faerie Dust",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "A pinch of this dust can substitute for the material components of any enchantment spell of 3rd level or lower. If a pinch of faerie dust is sprinkled on a creature, roll percentile dice and consult the Faerie Dust table to determine the effect.\n{\"type\": \"table\", \"caption\": \"Faerie Dust\", \"colLabels\": [\"d100\", \"Magical Effect\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"01-70\", \"The creature sprinkled with dust gains a flying speed of 60 feet for 10 minutes.\"], [\"71-80\", \"The crea",
+  "requires_attunement": false,
+  "properties": []
+}

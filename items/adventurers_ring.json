@@ -1,0 +1,11 @@
+{
+  "name": "Adventurer's Ring",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "While the cover on this ring is open, the ring produces a flame that creates no heat and consumes no fuel. It sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. As a {@variantrule Bonus Action|XPHB}, you can close the cover, smothering the flame, or open it again.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Healing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "common",
+  "value": 5000,
+  "weight": 0.5,
+  "description": "This potion is a magic item. As a {@variantrule Bonus Action|XPHB}, you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains {@dice 2d4 + 2} {@variantrule Hit Points|XPHB}. The potion's red liquid glimmers when agitated.",
+  "requires_attunement": false,
+  "properties": []
+}

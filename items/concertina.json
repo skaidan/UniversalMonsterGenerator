@@ -1,0 +1,11 @@
+{
+  "name": "Concertina",
+  "type": "item",
+  "source": "RMBRE",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "A concertina is a less charming kind of accordion.\nIn addition to knocking out a killer polka, a creature playing the concertina can use an action to cause an area of mist or water up to 30 feet in diameter and 6 inches deep to freeze solid.\nOnce used, this feature of the concertina can't be used again until the next dawn.\nAny creatures touching the floor must succeed on a {@dc 20} Dexterity saving throw or be {@condition restrained} by the ice. As an action, a {@condition restrained} creature c",
+  "requires_attunement": false,
+  "properties": []
+}

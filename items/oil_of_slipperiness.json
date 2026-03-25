@@ -1,0 +1,11 @@
+{
+  "name": "Oil of Slipperiness",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the {@spell Freedom of Movement|XPHB} spell for 8 hours.\nAlternatively, the oil can be poured on the ground as a {@action Magic|XPHB} action, where it covers a 10-foot square, duplicating the effect of the {@spell Grease|XPHB} spell ",
+  "requires_attunement": false,
+  "properties": []
+}

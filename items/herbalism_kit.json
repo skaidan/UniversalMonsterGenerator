@@ -1,0 +1,11 @@
+{
+  "name": "Herbalism Kit",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": 3,
+  "description": "{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"name\": \"Ability:\", \"type\": \"item\", \"entries\": [\"Intelligence\"]}, {\"name\": \"Utilize:\", \"type\": \"item\", \"entries\": [\"Identify a plant ({@dc 10})\"]}, {\"name\": \"Craft:\", \"type\": \"item\", \"entries\": [\"{@item Antitoxin|XPHB}, {@item Candle|XPHB}, {@item Healer's Kit|XPHB}, {@item Potion of Healing|XDMG}\"]}]}",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stirring Scaled Ornament",
+  "type": "item",
+  "source": "FTD",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This ornament can be jewelry, a cloak, or another wearable accessory. It appears to be fashioned from a dragon's scale, tooth, or claw, or it incorporates images in those shapes.\nYou gain a +1 bonus to AC, and you can't be {@condition charmed} or {@condition frightened}. Moreover, each creature of your choice within 30 feet of you has advantage on saving throws it makes to avoid being {@condition charmed} or {@condition frightened} or to end those conditions on itself.",
+  "requires_attunement": false,
+  "properties": []
+}

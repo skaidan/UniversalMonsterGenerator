@@ -1,0 +1,11 @@
+{
+  "name": "Shield of Missile Attraction",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 6,
+  "description": "While holding this Shield, you have {@variantrule Resistance|XPHB} to damage from attacks made with Ranged weapons.\n{\"type\": \"entries\", \"name\": \"Curse\", \"entries\": [\"This Shield is cursed. Attuning to it curses you until you are targeted by a {@spell Remove Curse|XPHB} spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.\"]}",
+  "requires_attunement": true,
+  "properties": []
+}

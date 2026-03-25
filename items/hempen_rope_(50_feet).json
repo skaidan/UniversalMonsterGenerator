@@ -1,0 +1,11 @@
+{
+  "name": "Hempen Rope (50 feet)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 10,
+  "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a {@dc 17} Strength check.",
+  "requires_attunement": false,
+  "properties": []
+}

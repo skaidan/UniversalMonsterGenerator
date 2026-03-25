@@ -1,0 +1,11 @@
+{
+  "name": "Saddlebags",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 400,
+  "weight": 8,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

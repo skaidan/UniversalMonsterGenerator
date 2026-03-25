@@ -1,0 +1,14 @@
+{
+  "name": "Crusader's Shortsword",
+  "type": "item",
+  "source": "CoS",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": 2,
+  "description": "The Crusader's Shortsword is a sentient lawful good {@item +1 shortsword} (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.\nThe sword's purpose is to fight evil. The sword has the following additional properties:\n{\"type\": \"list\", \"items\": [\"The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the",
+  "requires_attunement": true,
+  "properties": [
+    "F",
+    "L"
+  ]
+}

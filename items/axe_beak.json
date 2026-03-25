@@ -1,0 +1,11 @@
+{
+  "name": "Axe Beak",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "An {@creature axe beak}'s splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated axe beak can be purchased in Ten-Towns for 50 gp.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "True-Ice Shards (Dagger)",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "{@note This item is paired with {@item True-Ice Shards (Rapier)|CoA}}\nCrafted from the very glacier in which he was imprisoned, the True-Ice Shards are a rapier and parrying dagger (main gauche) pair used by Levistus. They exemplify his time spent in the glacier, augmenting telepathy, divination, and defense. Due to his control over ice, Levistus can conjure the True-Ice Shards from anywhere, including if they were destroyed.\nWhen using the magic dagger, you gain a +3 bonus to your AC, as long a",
+  "requires_attunement": true,
+  "properties": [
+    "F",
+    "L",
+    "T"
+  ]
+}

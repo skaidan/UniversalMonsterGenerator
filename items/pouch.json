@@ -1,0 +1,11 @@
+{
+  "name": "Pouch",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 50,
+  "weight": 1,
+  "description": "A Pouch holds up to 6 pounds within one-fifth of a cubic foot.",
+  "requires_attunement": false,
+  "properties": []
+}

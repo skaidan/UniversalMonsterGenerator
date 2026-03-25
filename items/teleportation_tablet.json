@@ -1,0 +1,11 @@
+{
+  "name": "Teleportation Tablet",
+  "type": "item",
+  "source": "CRCotN",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This clay tablet is eight inches long, four inches wide, and half an inch thick. Inscribed on it is the sigil sequence for a permanent teleportation circle. A creature that studies the sequence for 10 minutes can make a {@dc 21} Intelligence ({@skill Arcana}) check, learning the circle's destination on a success.\nYou can use an action to break the tablet in half, turning it to dust. If the tablet is broken while it is on the same plane of existence as the teleportation circle whose sigil sequenc",
+  "requires_attunement": false,
+  "properties": []
+}

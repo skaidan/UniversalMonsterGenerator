@@ -1,0 +1,11 @@
+{
+  "name": "Fabulist Gem",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This glittering red gem is commonly found embedded in a ring or brooch.\nWhile wearing the gem, you gain the following benefits.\n{\"type\": \"entries\", \"name\": \"Counterfeit Coins\", \"entries\": [\"You can use your action to magically create a pile of coins, worth no more than 100 gp total, in an unoccupied space within 10 feet of yourself. The pile must appear on a surface that can support it. After 1 hour, the coins vanish, regardless of where they are. Once this action is used, it can't be used again",
+  "requires_attunement": true,
+  "properties": []
+}

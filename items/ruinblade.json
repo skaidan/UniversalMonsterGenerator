@@ -1,0 +1,14 @@
+{
+  "name": "Ruinblade",
+  "type": "item",
+  "source": "IMR",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 6,
+  "description": "Ruinblade is a unique weapon possessed by {@creature Moghadam|IMR}, the architect of the Tomb of Horrors. A symbol of his authority, Moghadam carries the weapon during the time frame of the adventure to intimidate the tomb's workers. (In later years, after {@creature Acererak|ToA} trapped Moghadam in the completed tomb as an undead archwraith, Moghadam was able to use the weapon as his own phylactery.)\nA small jade version of the green devil face of the Tomb of Horrors is fashioned into the hilt",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

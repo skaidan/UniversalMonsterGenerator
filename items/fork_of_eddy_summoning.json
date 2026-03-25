@@ -1,0 +1,11 @@
+{
+  "name": "Fork of Eddy Summoning",
+  "type": "item",
+  "source": "NF",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This Tiny tuning fork crackles with harmless, multicolored magical energy. As a {@action Magic|XPHB} action, you can tap the fork against any object to summon an {@creature Eldritch Eddy|NF} (see appendix B). The eddy appears in an unoccupied space as close to you as possible. The eddy is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you and your allies, and it obeys your commands. If you fail to command it, the eddy defends itself against attackers but takes no other actions. It takes its",
+  "requires_attunement": false,
+  "properties": []
+}

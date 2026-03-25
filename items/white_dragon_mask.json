@@ -1,0 +1,11 @@
+{
+  "name": "White Dragon Mask",
+  "type": "item",
+  "source": "RoTOS",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This gleaming mask is white with highlights of pale blue and is topped by a spined crest. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.\n{\"type\": \"entries\", \"name\": \"Damage Absorption\", \"entries\": [\"You have resistance against cold damage. If you already have resistance to cold damage from another source, you instead have immunity to cold damage. If you already have immunity to cold damage from another s",
+  "requires_attunement": true,
+  "properties": []
+}

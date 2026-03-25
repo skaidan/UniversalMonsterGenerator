@@ -1,0 +1,11 @@
+{
+  "name": "Driftglobe",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 1,
+  "description": "This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can command it to emanate light equivalent to that of the {@spell Light|XPHB} or {@spell Daylight|XPHB} spell (your choice). Once used, the Daylight effect can't be used again until the next dawn.\nYou can issue another command as a {@action Magic|XPHB} action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature g",
+  "requires_attunement": false,
+  "properties": []
+}

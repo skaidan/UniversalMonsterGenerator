@@ -1,0 +1,13 @@
+{
+  "name": "Korolnor Scepter",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 2,
+  "description": "The Korolnor Scepter is one of ten Ruling Scepters of Shanatar, forged by the dwarven gods and given to the ruling houses of the ancient dwarven empire. The Korolnor Scepter's location was unknown for the longest time until a {@creature storm giant} queen, Neri, found it in a barnacle-covered shipwreck at the bottom of the Trackless Sea. The Ruling Scepters are all roughly the same size and shape, but their materials and properties vary.\nThe Korolnor Scepter is a tapered mithral rod as thick and",
+  "requires_attunement": true,
+  "properties": [
+    "L"
+  ]
+}

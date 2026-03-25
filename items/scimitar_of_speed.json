@@ -1,0 +1,14 @@
+{
+  "name": "Scimitar of Speed",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 3,
+  "description": "You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a {@variantrule Bonus Action|XPHB} on each of your turns.",
+  "requires_attunement": true,
+  "properties": [
+    "F|XPHB",
+    "L|XPHB"
+  ]
+}

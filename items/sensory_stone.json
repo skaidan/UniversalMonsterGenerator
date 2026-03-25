@@ -1,0 +1,11 @@
+{
+  "name": "Sensory Stone",
+  "type": "item",
+  "source": "SatO",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This small, smooth stone contains the essence of a single experience.\nAs an action, you or a willing creature you designate can touch the stone and experience the sensation as if it happened to the designated creature. The illusory experience is fleeting and harmless, however real it might feel in the moment.\n{\"type\": \"entries\", \"name\": \"Record Sensation\", \"entries\": [\"You can use your reaction to record a short sensation lasting no longer than 6 seconds experienced by a creature of your choice ",
+  "requires_attunement": false,
+  "properties": []
+}

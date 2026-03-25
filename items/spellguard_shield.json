@@ -1,0 +1,11 @@
+{
+  "name": "Spellguard Shield",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 6,
+  "description": "While holding this Shield, you have {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects, and spell attack rolls have {@variantrule Disadvantage|XPHB} against you.",
+  "requires_attunement": true,
+  "properties": []
+}

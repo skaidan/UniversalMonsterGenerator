@@ -1,0 +1,11 @@
+{
+  "name": "Jeweled gold crown",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 750000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

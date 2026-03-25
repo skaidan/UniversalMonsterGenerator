@@ -1,0 +1,11 @@
+{
+  "name": "Gold Zino",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "none",
+  "value": 100,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

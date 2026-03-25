@@ -1,0 +1,11 @@
+{
+  "name": "Rope",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 5,
+  "description": "As a {@action Utilize|XPHB} action, you can tie a knot with Rope if you succeed on a {@dc 10} Dexterity ({@skill Sleight of Hand|XPHB}) check. The Rope can be burst with a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check.\nYou can bind an unwilling creature with the Rope only if the creature has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition. If the creature's legs are bound, the creature has the {@condition Restrained|XPHB} ",
+  "requires_attunement": false,
+  "properties": []
+}

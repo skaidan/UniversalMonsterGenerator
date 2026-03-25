@@ -1,0 +1,11 @@
+{
+  "name": "Dragonchess Set",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": "",
+  "description": "{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"name\": \"Ability:\", \"type\": \"item\", \"entries\": [\"Wisdom\"]}, {\"name\": \"Utilize:\", \"type\": \"item\", \"entries\": [\"Discern whether someone is cheating ({@dc 10}), or win the game ({@dc 20})\"]}]}",
+  "requires_attunement": false,
+  "properties": []
+}

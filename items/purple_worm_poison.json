@@ -1,0 +1,11 @@
+{
+  "name": "Purple Worm Poison",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 200000,
+  "weight": "",
+  "description": "A creature subjected to Purple Worm Poison makes a {@dc 21} Constitution saving throw, taking 35 ({@damage 10d6}) Poison damage on a failed save or half as much damage on a successful one.",
+  "requires_attunement": false,
+  "properties": []
+}

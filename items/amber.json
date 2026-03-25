@@ -1,0 +1,11 @@
+{
+  "name": "Amber",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A watery gold to rich gold gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

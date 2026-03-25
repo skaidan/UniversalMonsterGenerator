@@ -1,0 +1,11 @@
+{
+  "name": "Adamantine Bar",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "none",
+  "value": 100000,
+  "weight": 10,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rusted Hulk",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "none",
+  "value": 5000000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

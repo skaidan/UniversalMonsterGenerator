@@ -1,0 +1,13 @@
+{
+  "name": "Azuredge",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 4,
+  "description": "Forged by the archwizard Ahghairon, this intelligent battleaxe was crafted to defend Waterdeep. Its current wielder is a former member of Force Grey named {@creature Meloon Wardragon|WDH}, but the weapon is searching for a new owner.\nAzuredge has a solid steel handle etched with tiny runes, wrapped in blue dragon hide with a star sapphire set into the pommel. The axe head is forged from silver, electrum, and steel alloys whose edges constantly shimmer with a deep blue luminescence.\nYou gain a +3",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

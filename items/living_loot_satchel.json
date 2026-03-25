@@ -1,0 +1,11 @@
+{
+  "name": "Living Loot Satchel",
+  "type": "item",
+  "source": "AI",
+  "rarity": "varies",
+  "value": "",
+  "weight": "",
+  "description": "As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a {@item bag of holding} and is available in a variety of colors and styles.\n{\"type\": \"table\", \"caption\": \"Class-Based Living Loot Satchel\", \"colStyles\": [\"col-2\", \"col-10\"], \"colLabels\": [\"Class\", \"Satchel\"], \"rows\": [[\"Barbarian\", \"Broad belt with a dozen hanging pockets\"], [\"Bard\", \"Lute case\"], [\"Cleric\", \"Hollowed-out holy tome\"], [\"Druid\", \"Made from natural, organic",
+  "requires_attunement": false,
+  "properties": []
+}

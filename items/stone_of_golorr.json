@@ -1,0 +1,11 @@
+{
+  "name": "Stone of Golorr",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "The Stone of Golorr is a glossy, greenish-gray stone that fits in the palm of your hand. The stone is actually an {@creature aboleth} named Golorr, transformed by magic into an object.\n{\"type\": \"entries\", \"name\": \"Random Properties\", \"entries\": [\"The Stone of Golorr has the following properties, determined by rolling on the tables in the \\\"Artifacts\\\" section in chapter 7 of the Dungeon Master's Guide:\", {\"type\": \"list\", \"items\": [\"1 {@table Artifact Properties; Minor Beneficial Properties|dmg|m",
+  "requires_attunement": true,
+  "properties": []
+}

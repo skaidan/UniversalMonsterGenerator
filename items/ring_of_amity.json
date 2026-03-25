@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Amity",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This ring is carved from hematite and bears an engraving of the friend rune.\nWhen you first attune to this ring, you can touch one willing creature and form a magical bond between the two of you. While this bond lasts, whenever you are subjected to a spell or magical effect that restores hit points, the bonded creature also receives the benefits of the spell or effect.\nYou can bond with a different creature whenever you finish a long rest, provided that you can touch the creature and the creatur",
+  "requires_attunement": true,
+  "properties": []
+}

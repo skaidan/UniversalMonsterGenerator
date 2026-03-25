@@ -1,0 +1,11 @@
+{
+  "name": "War Horn of Valor",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This brass war horn is engraved with the war rune, which glows purple when the horn is blown.\nYou can blow the horn as a bonus action. When you do, if you have the frightened condition, you immediately end that condition on yourself. You also have advantage on saving throws against being frightened until the start of your next turn.\n{\"type\": \"entries\", \"name\": \"Invoking the Rune\", \"entries\": [\"When you blow the horn, you can also invoke the rune, imbuing the horn's deep call with protective magi",
+  "requires_attunement": false,
+  "properties": []
+}

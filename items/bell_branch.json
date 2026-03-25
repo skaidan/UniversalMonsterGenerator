@@ -1,0 +1,11 @@
+{
+  "name": "Bell Branch",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This silver implement is shaped like a tree branch and is strung with small golden bells. The branch is a spellcasting focus for your spells while you hold it.\nThe branch has 3 charges, and it regains {@dice 1d3} expended charges daily at dawn. You can use the charges in the following ways while holding it:\n{\"type\": \"list\", \"items\": [\"As a bonus action, you can expend 1 charge to detect the presence of aberrations, celestials, constructs, elementals, fey, fiends, or undead within 60 feet of you.",
+  "requires_attunement": true,
+  "properties": []
+}

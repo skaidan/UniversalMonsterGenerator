@@ -1,0 +1,11 @@
+{
+  "name": "Ioun Stone, Reserve",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Ioun Stone|XDMG}\nThis vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains {@dice 1d4} levels of stored spells chosen by the DM.\nAny creature can cast a spell of level 1 through 4 into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level o",
+  "requires_attunement": true,
+  "properties": []
+}

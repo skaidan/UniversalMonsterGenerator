@@ -1,0 +1,11 @@
+{
+  "name": "Rod of Absorption",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 2,
+  "description": "While holding this rod, you can take a {@variantrule Reaction|XPHB} to absorb a spell that is targeting only you and doesn't create an area of effect. The absorbed spell's effect is canceled, and the spell's energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. A canceled spell dissipates with no effect, and any resources used to cast it are wasted. The rod can absorb and store up to 50 levels of energy over the course of its existence. On",
+  "requires_attunement": true,
+  "properties": []
+}

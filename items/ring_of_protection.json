@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Protection",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "You gain a +1 bonus to {@variantrule Armor Class|XPHB} and saving throws while wearing this ring.",
+  "requires_attunement": true,
+  "properties": []
+}

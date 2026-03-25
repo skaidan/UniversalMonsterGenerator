@@ -1,0 +1,11 @@
+{
+  "name": "Star rose quartz",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "A rosy stone with white star-shaped center gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

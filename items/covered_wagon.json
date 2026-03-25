@@ -1,0 +1,11 @@
+{
+  "name": "Covered Wagon",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": 25000,
+  "weight": 1300,
+  "description": "This vehicle is a {@item Wagon|XPHB} covered by durable canvas. A creature has {@variantrule Cover|XPHB|Three-Quarters Cover} while riding inside this vehicle.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ioun Stone, Protection",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Ioun Stone|XDMG}\nYou gain a +1 bonus to {@variantrule Armor Class|XPHB} while this dusty-rose prism orbits your head.",
+  "requires_attunement": true,
+  "properties": []
+}

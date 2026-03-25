@@ -1,0 +1,117 @@
+{
+  "total": 2417,
+  "items": [
+    {
+      "name": "+1 All-Purpose Tool",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": "",
+      "description": "This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the \"Equipment\" chapter in the {@book Player's Handbook|PHB} for a list of {@item artisan's tools|PHB}). Whatever form the tool takes, you are proficient with it.\nWhile holding this tool, you gain a +1 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.\nAs an action, you can focus on the tool to cha",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Amulet of the Devout",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 1,
+      "description": "This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear the holy symbol, you gain a +1 bonus to spell attack rolls and the saving throw DCs of your spells.\nWhile you wear this amulet, you can use your Channel Divinity feature without expending one of the feature's uses. Once this property is used, it can't be used again until the next dawn.",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Arcane Grimoire",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 3,
+      "description": "While you are holding this leather-bound book, you can use it as a spellcasting focus for your wizard spells, and you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your wizard spells.\nYou can use this book as a spellbook. In addition, when you use your Arcane Recovery feature, you can increase the number of spell slot levels you regain by 1.",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Bloodwell Vial",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": "",
+      "description": "To attune to this vial, you must place a few drops of your blood into it. The vial can't be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells.\nIn addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can reg",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Dragonhide Belt",
+      "type": "item",
+      "source": "FTD",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": "",
+      "description": "This finely detailed belt is made of dragonhide. While wearing it, you gain a +1 bonus to the saving throw DCs of your ki features. In addition, you can use an action to regain ki points equal to a roll of your Martial Arts die. You can't use this action again until the next dawn.",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Fate Dealer's Deck",
+      "type": "item",
+      "source": "BMT",
+      "rarity": "rare",
+      "value": "",
+      "weight": "",
+      "description": "The backs of these cards are inscribed with glyphs representing the Inner Planes, the Outer Planes, or the holy symbols of various deities. While holding this deck, you can use it as a spellcasting focus, and you gain a +1 bonus to spell attack rolls and to your spell save DC.\nIn addition, while you're holding the deck, you can draw a card as an action to expend and roll one of your Hit Dice and add the deck's bonus to the number rolled. One creature you can see within 30 feet of you either take",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Moon Sickle",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 2,
+      "description": "This silver-bladed sickle glimmers softly with moonlight. While holding this magic weapon, you gain a +1 bonus to attack and damage rolls made with it, and you gain a +1 bonus to spell attack rolls and the saving throw DCs of your druid and ranger spells. In addition, you can use the sickle as a spellcasting focus for your druid and ranger spells.\nWhen you cast a spell that restores hit points, you can roll a {@dice d4} and add the number rolled to the amount of hit points restored, provided you",
+      "requires_attunement": true,
+      "properties": [
+        "L"
+      ]
+    },
+    {
+      "name": "+1 Rhythm-Maker's Drum",
+      "type": "item",
+      "source": "TCE",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 3,
+      "description": "While holding this {@item drum|PHB}, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your bard spells.\nAs an action, you can play the {@item drum|PHB} to regain one use of your Bardic Inspiration feature. This property of the {@item drum|PHB} can't be used again until the next dawn.",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Rod of the Pact Keeper",
+      "type": "item",
+      "source": "DMG",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 2,
+      "description": "While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.\nIn addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.",
+      "requires_attunement": true,
+      "properties": []
+    },
+    {
+      "name": "+1 Rod of the Pact Keeper",
+      "type": "item",
+      "source": "XDMG",
+      "rarity": "uncommon",
+      "value": "",
+      "weight": 2,
+      "description": "While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your {@filter Warlock spells|spells|class=Warlock}.\nIn addition, you can regain one spell slot as a {@action Magic|XPHB} action while holding the rod. You can't use this property again until you finish a {@variantrule Long Rest|XPHB}.",
+      "requires_attunement": true,
+      "properties": []
+    }
+  ]
+}

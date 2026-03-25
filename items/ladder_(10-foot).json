@@ -1,0 +1,11 @@
+{
+  "name": "Ladder (10-foot)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": 25,
+  "description": "Ladder (10-foot)",
+  "requires_attunement": false,
+  "properties": []
+}

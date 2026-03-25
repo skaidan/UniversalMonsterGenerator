@@ -1,0 +1,11 @@
+{
+  "name": "Waterskin",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 20,
+  "weight": 5,
+  "description": "A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orzhov Keyrune",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This keyrune is carved from white marble with veins of black. The end is shaped like a thrull's head, with a gold faceplate affixed. On command, the keyrune transforms into a {@creature winged thrull|GGR} for up to 2 hours. If you don't come from an Orzhov oligarch family, it serves you grudgingly, clownishly aping your movements and mannerisms while carrying out your orders.\nWhen you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within",
+  "requires_attunement": true,
+  "properties": []
+}

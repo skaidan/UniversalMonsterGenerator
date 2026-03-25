@@ -1,0 +1,14 @@
+{
+  "name": "Dekella, Bident of Thassa",
+  "type": "item",
+  "source": "MOT",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 4,
+  "description": "Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.\n{\"type\": \"entries\", \"name\": \"Bident of the Deep\", \"entries\": [\"Thassa's signature weapon thrums with the icy currents of the deep ocean. This weapon functions as a trident that grants a +3 bonu",
+  "requires_attunement": true,
+  "properties": [
+    "T",
+    "V"
+  ]
+}

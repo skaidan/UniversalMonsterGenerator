@@ -1,0 +1,11 @@
+{
+  "name": "Costume Clothes",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": 4,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

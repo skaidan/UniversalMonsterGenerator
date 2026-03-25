@@ -1,0 +1,13 @@
+{
+  "name": "Staff of the Woodlands",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.\n{\"type\": \"entries\", \"name\": \"Spells\", \"entries\": [\"While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.\", {\"type\": \"table\", \"colStyles\": [\"col-10\", \"col-2 text-center\"]",
+  "requires_attunement": true,
+  "properties": [
+    "V|XPHB"
+  ]
+}

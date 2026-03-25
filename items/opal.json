@@ -1,0 +1,11 @@
+{
+  "name": "Opal",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 100000,
+  "weight": "",
+  "description": "A pale blue with green and golden mottling gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

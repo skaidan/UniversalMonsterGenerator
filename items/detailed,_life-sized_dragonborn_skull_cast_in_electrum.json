@@ -1,0 +1,11 @@
+{
+  "name": "Detailed, life-sized dragonborn skull cast in electrum",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 75000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Spiked Shield",
+  "type": "item",
+  "source": "WttHC",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 6,
+  "description": "Crude metal spikes adorn this magic Shield. It has the following properties that you can use while holding it.\n{\"type\": \"entries\", \"name\": \"Shield Bash\", \"entries\": [\"When you take the {@action Attack|XPHB} action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your {@variantrule Proficiency|XPHB|Proficiency Bonus} and Strength modifier to the attack roll. On a hit, the Shield deals Piercing damage equal to {@dice 2d6} plus your Strength m",
+  "requires_attunement": true,
+  "properties": []
+}

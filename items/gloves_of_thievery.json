@@ -1,0 +1,11 @@
+{
+  "name": "Gloves of Thievery",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ({@skill Sleight of Hand|XPHB}) checks.",
+  "requires_attunement": false,
+  "properties": []
+}

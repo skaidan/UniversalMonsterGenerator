@@ -1,0 +1,11 @@
+{
+  "name": "Silk (1 sq. yd.)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 1000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

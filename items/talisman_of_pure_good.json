@@ -1,0 +1,11 @@
+{
+  "name": "Talisman of Pure Good",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 1,
+  "description": "This talisman is a mighty symbol of goodness. A Fiend or an Undead that touches the talisman takes {@damage 8d6} Radiant damage and takes the damage again each time it ends its turn holding or carrying the talisman.\n{\"type\": \"entries\", \"name\": \"Holy Symbol\", \"entries\": [\"You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack rolls while you wear or hold it.\"]}\n{\"type\": \"entries\", \"name\": \"Pure Rebuke\", \"entries\": [\"The talisman has 7 charges. While wearing or holding the ",
+  "requires_attunement": true,
+  "properties": []
+}

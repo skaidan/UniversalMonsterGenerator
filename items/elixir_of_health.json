@@ -1,0 +1,11 @@
+{
+  "name": "Elixir of Health",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, and {@condition Poisoned|XPHB}.\nThe clear, red liquid has tiny bubbles of light in it.",
+  "requires_attunement": false,
+  "properties": []
+}

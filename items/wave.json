@@ -1,0 +1,14 @@
+{
+  "name": "Wave",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 4,
+  "description": "Held in the dungeon of White Plume Mountain, Wave is engraved with images of waves, shells, and sea creatures.\nYou gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you roll a 20 on the {@dice d20} for an attack roll with this weapon, the target takes an extra 21 Necrotic damage.\nWhile holding Wave, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Combat Ready\", \"entries\": [\"You have {@variantrule",
+  "requires_attunement": true,
+  "properties": [
+    "T|XPHB",
+    "V|XPHB"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mess Kit",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 20,
+  "weight": 1,
+  "description": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.",
+  "requires_attunement": false,
+  "properties": []
+}

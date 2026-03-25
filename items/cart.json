@@ -1,0 +1,11 @@
+{
+  "name": "Cart",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1500,
+  "weight": 200,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

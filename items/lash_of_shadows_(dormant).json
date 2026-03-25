@@ -1,0 +1,15 @@
+{
+  "name": "Lash of Shadows (Dormant)",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 3,
+  "description": "This snakeskin whip is touched by the power of Zehir and ends in five animated serpent heads.\n{\"type\": \"entries\", \"name\": \"Sentience\", \"entries\": [\"The Lash of Shadows is a sentient chaotic evil weapon with an Intelligence of 18, a Wisdom of 16, and a Charisma of 20. It has hearing and {@sense darkvision} out to a range of 120 feet.\", \"The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal, Common, and Draconic.\"]}\n{\"type\": \"entries\", \"name\": \"Persona",
+  "requires_attunement": true,
+  "properties": [
+    "F",
+    "R",
+    "Vst|EGW"
+  ]
+}

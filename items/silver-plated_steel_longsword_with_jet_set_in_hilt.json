@@ -1,0 +1,11 @@
+{
+  "name": "Silver-plated steel longsword with jet set in hilt",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "none",
+  "value": 75000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

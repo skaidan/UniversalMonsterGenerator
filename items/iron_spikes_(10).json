@@ -1,0 +1,11 @@
+{
+  "name": "Iron Spikes (10)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 5,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

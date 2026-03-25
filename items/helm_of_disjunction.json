@@ -1,0 +1,11 @@
+{
+  "name": "Helm of Disjunction",
+  "type": "item",
+  "source": "HAT-LMI",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "The wizard Mordenkainen crafted this sleek, golden helmet. If he created other helms of disjunction, they have yet to be found.\nAs an action while wearing this helm, you can use it to emit an antimagic pulse in a 300-foot-radius sphere centered on yourself. The pulse has the following effects:\n{\"type\": \"entries\", \"name\": \"Magic Item Disjunction\", \"entries\": [\"Potions and scrolls in the area are destroyed. All other magic items in the area have their magical properties suppressed for 1 minute. Ar",
+  "requires_attunement": true,
+  "properties": []
+}

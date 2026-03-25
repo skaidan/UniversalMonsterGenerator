@@ -1,0 +1,11 @@
+{
+  "name": "Amulet",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 500,
+  "weight": 1,
+  "description": "For an Amulet to be an effective Holy Symbol, it must be worn or held.",
+  "requires_attunement": false,
+  "properties": []
+}

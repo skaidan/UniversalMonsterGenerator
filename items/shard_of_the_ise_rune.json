@@ -1,0 +1,11 @@
+{
+  "name": "Shard of the Ise Rune",
+  "type": "item",
+  "source": "SKT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This shard of ice is long and slender, roughly the size of a dagger. The ise (ice) rune glows within it. The shard has the following properties, which work only while it's on your person.\n{\"name\": \"Frigid Touch\", \"type\": \"entries\", \"entries\": [\"As an action, you can touch a body of water and freeze the water in a 10-foot-radius sphere around the spot you touched. Once you use this property, you can't use it again until you finish a short or long rest.\"]}\n{\"name\": \"Frost Friend\", \"type\": \"entries",
+  "requires_attunement": true,
+  "properties": []
+}

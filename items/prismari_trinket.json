@@ -1,0 +1,11 @@
+{
+  "name": "Prismari Trinket",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you may roll once on the Prismari Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.\n{\"caption\": \"Prismari Trinkets\", \"colLabels\": [\"d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A pair of rose-tinted glasses with glittery frames\"], [\"2\", \"A stoppered glass bottle that, when opened, plays a brassy orchestral piece\"], [\"3\", \"A quartet of hovering water ",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Norlander Longship",
+  "type": "item",
+  "source": "FRAiF",
+  "rarity": "none",
+  "value": 2000000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

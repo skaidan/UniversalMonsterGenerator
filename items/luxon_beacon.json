@@ -1,0 +1,11 @@
+{
+  "name": "Luxon Beacon",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This dodecahedron of faintly glowing crystal is heavier than it appears. A set of handles are affixed to its sides, and it pulsates and thrums when touched.\n{\"type\": \"entries\", \"name\": \"Fragment of Possibility\", \"entries\": [\"A creature that touches the beacon and concentrates for 1 minute receives a Fragment of Possibility, which looks like a Tiny, grayish bead of energy that follows the creature around, staying within 1 foot of it at all times. The fragment lasts for 8 hours or until used. Once",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Absorbing Tattoo",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Absorbing Tattoo|TCE}",
+  "requires_attunement": true,
+  "properties": []
+}

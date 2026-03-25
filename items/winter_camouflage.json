@@ -1,0 +1,11 @@
+{
+  "name": "Winter Camouflage",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": 5000,
+  "weight": 4,
+  "description": "While you wear Winter Camouflage in an appropriate environment, you have {@variantrule Advantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks.",
+  "requires_attunement": false,
+  "properties": []
+}

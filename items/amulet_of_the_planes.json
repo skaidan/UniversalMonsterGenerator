@@ -1,0 +1,11 @@
+{
+  "name": "Amulet of the Planes",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 1,
+  "description": "While wearing this amulet, you can take a {@action Magic|XPHB} action to name a location that you are familiar with on another plane of existence. Then make a {@dc 15} Intelligence ({@skill Arcana|XPHB}) check. On a successful check, you cast {@spell Plane Shift|XPHB}. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling {@dice 1d100} and consulting the following table.\n{\"type\": \"table\", \"colStyles\": [\"col-2 text-center\", ",
+  "requires_attunement": true,
+  "properties": []
+}

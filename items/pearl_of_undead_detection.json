@@ -1,0 +1,11 @@
+{
+  "name": "Pearl of Undead Detection",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "unknown (magic)",
+  "value": 50000,
+  "weight": "",
+  "description": "This black pearl glows faintly when undead are within 120 feet of it.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wrought-Iron Tower",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 2,
+  "description": "Constructed from the same materials as his tower, Dispater's Wrought-Iron Tower is a powerful weapon that marks his rule over Dis. It embodies his ideals, representing defense, authority, and power. Its construction changes hourly, similar to the tower, appearing as either iron, steel, lead, or adamantine.\nThe Wrought-Iron Tower is a magic staff that functions as a warhammer and you have a +3 bonus to attack and damage rolls made with it. If a creature is vulnerable to a certain type of damage, ",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

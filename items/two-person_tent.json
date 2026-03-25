@@ -1,0 +1,11 @@
+{
+  "name": "Two-Person Tent",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 200,
+  "weight": 20,
+  "description": "A simple and portable canvas shelter, a tent sleeps two.",
+  "requires_attunement": false,
+  "properties": []
+}

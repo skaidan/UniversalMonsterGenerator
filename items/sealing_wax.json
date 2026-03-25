@@ -1,0 +1,11 @@
+{
+  "name": "Sealing Wax",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 50,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Basic Poison",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "As a {@variantrule Bonus Action|XPHB}, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra {@damage 1d4} Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.",
+  "requires_attunement": false,
+  "properties": []
+}

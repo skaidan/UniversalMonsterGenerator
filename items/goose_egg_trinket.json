@@ -1,0 +1,11 @@
+{
+  "name": "Goose Egg Trinket",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "Sometimes, an egg laid by a {@creature giant goose|BGG} inexplicably contains some kind of small trinket or minor magic item. Once it lays a golden egg, a giant goose can't do so again for a year and a day.\nYou can use the Goose Egg Trinket table to determine the contents of a golden egg. A giant goose's egg can be a great way to give characters an item that's important to the story of an adventure or your campaign.\n{\"type\": \"table\", \"caption\": \"Goose Egg Trinket\", \"colLabels\": [\"d12\", \"Egg Cont",
+  "requires_attunement": false,
+  "properties": []
+}

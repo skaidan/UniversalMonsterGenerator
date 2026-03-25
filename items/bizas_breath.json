@@ -1,0 +1,11 @@
+{
+  "name": "Biza's Breath",
+  "type": "item",
+  "source": "JttRC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "A creature subjected to this poison must succeed on a {@dc 16} Constitution saving throw or become {@condition poisoned} for 1 minute. The {@condition poisoned} creature must use its action to make a melee attack against a randomly determined creature within its reach. If there is no other creature within its reach, the {@condition poisoned} creature does nothing on its turn. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+  "requires_attunement": false,
+  "properties": []
+}

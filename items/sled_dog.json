@@ -1,0 +1,11 @@
+{
+  "name": "Sled Dog",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "none",
+  "value": 5000,
+  "weight": "",
+  "description": "A sled dog (use the {@creature wolf} stat block in appendix A of the Monster Manual) costs 50 gp and can pull 360 pounds.\nSled dogs must take a short rest after pulling a sled for 1 hour; otherwise, they gain one level of {@condition exhaustion}.",
+  "requires_attunement": false,
+  "properties": []
+}

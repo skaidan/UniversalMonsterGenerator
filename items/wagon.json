@@ -1,0 +1,11 @@
+{
+  "name": "Wagon",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 3500,
+  "weight": 400,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Swarming Insects",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "This staff has 10 charges.\n{\"type\": \"entries\", \"name\": \"Insect Cloud\", \"entries\": [\"While holding the staff , you can take a {@action Magic|XPHB} action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you. The insects remain for 10 minutes, making the area {@variantrule Heavily Obscured|XPHB} for creatures other than you. A strong wind (like that created by {@spell Gust of Wind|XPHB}) disp",
+  "requires_attunement": true,
+  "properties": [
+    "V|XPHB"
+  ]
+}

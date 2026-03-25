@@ -1,0 +1,11 @@
+{
+  "name": "Boots of the Winding Path",
+  "type": "item",
+  "source": "EFA",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing these boots, you can take a {@variantrule Bonus Action|XPHB} to teleport up to 15 feet to an unoccupied space you can see. You must have occupied that space at some point during the current turn.",
+  "requires_attunement": true,
+  "properties": []
+}

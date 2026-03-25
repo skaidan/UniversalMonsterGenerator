@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Advantage",
+  "type": "item",
+  "source": "WBtW",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "When you drink this potion, you gain advantage on one ability check, attack roll, or saving throw of your choice that you make within the next hour.\nThis potion takes the form of a sparkling, golden mist that moves and pours like water.",
+  "requires_attunement": false,
+  "properties": []
+}

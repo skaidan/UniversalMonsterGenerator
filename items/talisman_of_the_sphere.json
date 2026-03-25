@@ -1,0 +1,11 @@
+{
+  "name": "Talisman of the Sphere",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 1,
+  "description": "While holding or wearing this talisman, you have {@variantrule Advantage|XPHB} on any Intelligence ({@skill Arcana|XPHB}) check you make to control a {@item Sphere of Annihilation|XDMG}. In addition, when you start your turn in control of a {@item Sphere of Annihilation|XDMG}, you can take a {@action Magic|XPHB} action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.",
+  "requires_attunement": true,
+  "properties": []
+}

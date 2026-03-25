@@ -1,0 +1,11 @@
+{
+  "name": "Crown of the Forest",
+  "type": "item",
+  "source": "IMR",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this crown, a character automatically fails any Intelligence ({@skill Investigation}) check made to see through an illusion. An illusion that is touched still has its true nature revealed. However, a character wearing a crown has such a strong sense that the illusion is real that they might not know which of their senses to believe.\nIf this crown is closely examined by a character who succeeds on a {@dc 20} Intelligence ({@skill Nature}) or Wisdom ({@skill Perception}) check, or wi",
+  "requires_attunement": false,
+  "properties": []
+}

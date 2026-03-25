@@ -1,0 +1,11 @@
+{
+  "name": "Ladder",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": 25,
+  "description": "A Ladder is 10 feet tall. You must climb to move up or down it.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Junky +1 Dagger",
+  "type": "item",
+  "source": "TftYP",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": 1,
+  "description": "You have a +1 bonus to attack and damage rolls made with this dagger, which looks like junk. When it is used, its grip frays, its blade chips, and it flakes rust. If you get a natural 1 on an attack roll while wielding this weapon, it breaks and becomes nonmagical.",
+  "requires_attunement": false,
+  "properties": [
+    "F",
+    "L",
+    "T"
+  ]
+}

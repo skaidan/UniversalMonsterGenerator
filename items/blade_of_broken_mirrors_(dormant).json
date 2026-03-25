@@ -1,0 +1,16 @@
+{
+  "name": "Blade of Broken Mirrors (Dormant)",
+  "type": "item",
+  "source": "EGW",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 1,
+  "description": "A weapon of Tharizdun, this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end.\n{\"type\": \"entries\", \"name\": \"Sentience\", \"entries\": [\"The Blade of Broken Mirrors is a sentient chaotic evil weapon with an Intelligence of 21, a Wisdom of 24, and a Charisma of 24. It has hearing and {@sense darkvision} out to a range of 120 feet.\", \"The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal and Common.\"",
+  "requires_attunement": true,
+  "properties": [
+    "F",
+    "L",
+    "T",
+    "Vst|EGW"
+  ]
+}

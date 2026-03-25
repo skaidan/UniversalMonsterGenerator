@@ -1,0 +1,11 @@
+{
+  "name": "Timepiece of Travel",
+  "type": "item",
+  "source": "AI",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "While attuned to this device, you have a +1 bonus to Dexterity saving throws and you always know which way is north. Additionally, you can cast the {@spell longstrider} spell on yourself at will.\n{\"type\": \"entries\", \"name\": \"Turn-by-Turn Directions\", \"entries\": [\"You can name any location within 10 miles of your current location that is known to at least one creature also within 10 miles of that location (including you). Once you name the location, a disembodied voice heard only by you provides ",
+  "requires_attunement": true,
+  "properties": []
+}

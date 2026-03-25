@@ -1,0 +1,11 @@
+{
+  "name": "Pipes of Pestilence",
+  "type": "item",
+  "source": "WttHC",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "If you play these pipes as a {@action Magic|XPHB} action, you summon one {@creature Swarm of Corrupted Rats|WttHC} in an unoccupied space within 60 feet of yourself. The swarm is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you and your allies for as long as you continue to play the pipes each round as a {@action Magic|XPHB} action. While {@variantrule Friendly [Attitude]|XPHB|Friendly}, the swarm is under your control, obeys your commands, and takes no action other than to defend itself ",
+  "requires_attunement": true,
+  "properties": []
+}

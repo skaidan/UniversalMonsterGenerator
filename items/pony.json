@@ -1,0 +1,11 @@
+{
+  "name": "Pony",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 3000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

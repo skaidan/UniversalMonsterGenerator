@@ -1,0 +1,11 @@
+{
+  "name": "Silverquill Trinket",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.\n{\"caption\": \"Silverquill Trinkets\", \"colLabels\": [\"d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A black leather notebook filled with half-finished poems\"], [\"2\", \"A set of flashcards detailing different colloquialisms and their meanings\"], [\"3\", \"A canteen that mak",
+  "requires_attunement": false,
+  "properties": []
+}

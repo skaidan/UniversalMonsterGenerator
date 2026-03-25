@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Invisibility",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this ring, you can take a {@action Magic|XPHB} action to give yourself the {@condition Invisible|XPHB} condition. You remain {@condition Invisible|XPHB} until the ring is removed or until you take a {@variantrule Bonus Action|XPHB} to become visible again.",
+  "requires_attunement": true,
+  "properties": []
+}

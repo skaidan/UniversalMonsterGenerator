@@ -1,0 +1,11 @@
+{
+  "name": "Monster Camouflage",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": 5000,
+  "weight": 6,
+  "description": "A suit of Monster Camouflage looks like a Beast or Monstrosity, such as an {@creature owlbear|XMM}. To discern that you're disguised, a creature must take the {@action Study|XPHB} action to inspect your appearance and succeed on a DC 10 Intelligence ({@skill Investigation|XPHB} or {@skill Nature|XPHB}) check. The creature has {@variantrule Advantage|XPHB} on this check if it is within 30 feet of you and automatically succeeds on this check if you do anything the monster you're disguised as could",
+  "requires_attunement": false,
+  "properties": []
+}

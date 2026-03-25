@@ -1,0 +1,11 @@
+{
+  "name": "Murgaxor's Elixir of Life",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "unknown",
+  "value": "",
+  "weight": "",
+  "description": "Whoever drinks this concoction gains advantage on death saving throws for 24 hours.",
+  "requires_attunement": false,
+  "properties": []
+}

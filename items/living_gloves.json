@@ -1,0 +1,11 @@
+{
+  "name": "Living Gloves",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "These symbiotic gloves—made of thin chitin and sinew—pulse with a life of their own. To attune to them, you must wear them for the entire attunement period, during which the gloves bond with your skin.\nWhile attuned to these gloves, you gain one of the following proficiencies (your choice when you attune to the gloves):\n{\"type\": \"list\", \"items\": [\"{@skill Sleight of Hand}\", \"{@item Thieves' tools|PHB}\", \"One kind of {@item artisan's tools|PHB} of your choice\", \"One kind of {@item musical instrum",
+  "requires_attunement": true,
+  "properties": []
+}

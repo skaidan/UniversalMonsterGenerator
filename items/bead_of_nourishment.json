@@ -1,0 +1,11 @@
+{
+  "name": "Bead of Nourishment",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.",
+  "requires_attunement": false,
+  "properties": []
+}

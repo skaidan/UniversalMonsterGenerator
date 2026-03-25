@@ -1,0 +1,11 @@
+{
+  "name": "+1 Wraps of Unarmed Power",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing these wraps, you have a +1 bonus to attack rolls and damage rolls made with your Unarmed Strikes. Those strikes deal your choice of Force damage or their normal damage type.",
+  "requires_attunement": false,
+  "properties": []
+}

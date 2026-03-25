@@ -1,0 +1,11 @@
+{
+  "name": "Carriage",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10000,
+  "weight": 600,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

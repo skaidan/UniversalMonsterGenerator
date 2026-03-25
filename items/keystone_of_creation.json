@@ -1,0 +1,11 @@
+{
+  "name": "Keystone of Creation",
+  "type": "item",
+  "source": "AitFR-AVT",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "A keystone of creation is a piece of the {@item Stone of Creation|AitFR-AVT}, usually between 6 to 10 inches on a side, and can be rough-hewn or cleanly cut and polished by a mason attuned to the {@item Stone of Creation|AitFR-AVT}.\n{\"type\": \"entries\", \"name\": \"Random Properties\", \"entries\": [\"A keystone of creation has the following random properties:\", {\"type\": \"list\", \"items\": [\"1 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property\", \"1 {@table Beneficial M",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lightbringer",
+  "type": "item",
+  "source": "PaBTSO",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 4,
+  "description": "You have a +1 bonus to attack and damage rolls made with this magic weapon.\nThis weapon, known as Lightbringer, was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and is made of solid brass. The mace glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra {@damage 1d6} radiant damage to Undead creatures.",
+  "requires_attunement": false,
+  "properties": []
+}

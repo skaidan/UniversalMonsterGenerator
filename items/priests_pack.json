@@ -1,0 +1,11 @@
+{
+  "name": "Priest's Pack",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 3300,
+  "weight": 29,
+  "description": "A Priest's Pack contains the following items: {@item Backpack|XPHB}, {@item Blanket|XPHB}, {@item Holy Water|XPHB}, {@item Lamp|XPHB}, 7 days of {@item Rations|XPHB}, {@item Robe|XPHB}, and {@item Tinderbox|XPHB}.",
+  "requires_attunement": false,
+  "properties": []
+}

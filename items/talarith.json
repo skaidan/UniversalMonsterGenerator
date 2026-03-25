@@ -1,0 +1,11 @@
+{
+  "name": "Talarith",
+  "type": "item",
+  "source": "BAM",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "The {@creature reigar|BAM} who creates this piece of jewelry chooses its form: bracelet, brooch, diadem, or necklace. While the reigar wears the talarith, any weapon wielded by the {@creature reigar|BAM} deals an extra {@damage 1d6} force damage when it hits.\nAs an action, a reigar can use its talarith to summon a golem that looks just like the reigar. The golem obeys the reigar's commands and uses the {@creature reigar|BAM|reigar's} statistics, except it is a Construct that doesn't have a talar",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,27 @@
+🔗 Descargando items.json desde GitHub mirror...
+  Intentando: https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/refs/heads/main/data/items.json
+✓ JSON descargado exitosamente (2771706 bytes)
+✓ Items existentes cargados: 1808
+
+==================================================
+CLASIFICANDO ITEMS
+==================================================
+✓ Total de items a procesar: 2417
+✓ Clasificación completada
+  └─ Mundanos: 0
+  └─ Mágicos: 0
+
+NUEVOS ITEMS AGREGADOS:
+✓ Total nuevos: 0
+
+==================================================
+GUARDANDO ITEMS
+==================================================
+✓ Items mundanos guardados: 0
+✓ Items mágicos guardados: 0
+✓ Resumen guardado en items/summary.json
+
+==================================================
+✓ SCRAPING COMPLETADO
+==================================================
+Total de items extraídos: 0

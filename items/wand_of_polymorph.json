@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Polymorph",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 1,
+  "description": "This wand has 7 charges. While holding it, you can expend 1 charge to cast {@spell Polymorph|XPHB} (save {@dc 15}) from it.\n{\"type\": \"entries\", \"name\": \"Regaining Charges\", \"entries\": [\"The wand regains {@dice 1d6 + 1} expended charges daily at dawn. If you expend the wand's last charge, roll {@dice 1d20}. On a 1, the wand crumbles into ashes and is destroyed.\"]}",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gloves of Swimming and Climbing",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ({@skill Athletics|XPHB}) checks made to climb or swim.",
+  "requires_attunement": true,
+  "properties": []
+}

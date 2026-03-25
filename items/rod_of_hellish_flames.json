@@ -1,0 +1,11 @@
+{
+  "name": "Rod of Hellish Flames",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "Glowing cinders orbit the flanged head of this black iron rod.\nThis rod can be used as an arcane focus. While holding this rod, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Hellish Resistance\", \"entries\": [\"You have resistance to fire and necrotic damage.\"]}, {\"type\": \"item\", \"name\": \"Searing Rebuke\", \"entries\": [\"You can cast the {@spell Hellish Rebuke} spell as a 4th-level spell (save {@dc 16}) from the rod. Once you use th",
+  "requires_attunement": true,
+  "properties": []
+}

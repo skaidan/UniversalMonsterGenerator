@@ -1,0 +1,11 @@
+{
+  "name": "Sailing Ship",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1000000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

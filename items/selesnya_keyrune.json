@@ -1,0 +1,11 @@
+{
+  "name": "Selesnya Keyrune",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "Carved from white and green marble in the shape of a wolf's head, this keyrune transforms into a {@creature dire wolf}. The wolf persists for 8 hours. Its Intelligence is 6, and it understands Elvish and Sylvan but can't speak those languages. While it is within 1 mile of you, you can communicate with each other telepathically.\nWhen you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a {@c",
+  "requires_attunement": true,
+  "properties": []
+}

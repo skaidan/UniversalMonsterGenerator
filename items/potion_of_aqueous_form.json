@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Aqueous Form",
+  "type": "item",
+  "source": "MOT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are {@condition incapacitated} or die.\nYou're under the following effects while in this form:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Liquid Movement\", \"entry\": \"You have a swimming speed of 30 feet. You can move over or through other liquids. You can enter and occupy the space of another creature. You can rise up to your normal height",
+  "requires_attunement": false,
+  "properties": []
+}

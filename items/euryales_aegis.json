@@ -1,0 +1,11 @@
+{
+  "name": "Euryale's Aegis",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 6,
+  "description": "This gleaming brass shield bears a relief of the legendary medusa druid {@creature Euryale|BMT}.\nWhile wielding this shield, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Blessing of Euryale\", \"entries\": [\"You have resistance to poison damage and are immune to the {@condition petrified} condition.\"]}, {\"type\": \"item\", \"name\": \"Petrifying Heraldry\", \"entries\": [\"As a bonus action, you can make the front of the shield flare with",
+  "requires_attunement": true,
+  "properties": []
+}

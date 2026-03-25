@@ -1,0 +1,11 @@
+{
+  "name": "Planecaller's Codex",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: {@spell banishment}, {@spell find familiar}, {@spell gate}, {@spell magic circle}, {@spell planar binding}, and {@spell summon elemental|TCE}. It functions as a spellbook for you.\nWhile you are holding the book, you can use it as a spellcasting focus for your wizard spells.\nThe book has 3 charges, and it regains {@dice ",
+  "requires_attunement": true,
+  "properties": []
+}

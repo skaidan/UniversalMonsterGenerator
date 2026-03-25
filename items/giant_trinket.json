@@ -1,0 +1,11 @@
+{
+  "name": "Giant Trinket",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "While exploring your home, you discovered some trivial remnant of the ancient inhabitants, as determined by rolling on the Giant Trinkets table. The items in parentheses are the normal-sized objects most analogous to the described giant trinkets.\n{\"caption\": \"Giant Trinkets\", \"colLabels\": [\"d6\", \"Giant Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A giant's toothpick (a {@item dagger|PHB})\"], [\"2\", \"A giant's handkerchief (a {@item blanket|PHB})\"], [\"3\", \"A giant's mar",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gold chalice (Legion of Dusk)",
+  "type": "item",
+  "source": "PSX",
+  "rarity": "none",
+  "value": 75000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

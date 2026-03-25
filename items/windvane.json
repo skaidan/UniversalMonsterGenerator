@@ -1,0 +1,15 @@
+{
+  "name": "Windvane",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 3,
+  "description": "A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the weapon feels insubstantial, as if clutching a cool, gently flowing breeze. The spear contains a spark of {@creature Yan-C-Bin|PotA}, the Prince of Evil Air.\nYou have a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse weapon property. When you hit with it, the target takes an extra {@damage 1d6} lightning damage.\n{\"name\": \"Air Mastery\", \"ty",
+  "requires_attunement": true,
+  "properties": [
+    "T",
+    "V",
+    "F"
+  ]
+}

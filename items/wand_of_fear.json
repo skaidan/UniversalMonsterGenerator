@@ -1,0 +1,11 @@
+{
+  "name": "Wand of Fear",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This wand has 7 charges.\n{\"type\": \"entries\", \"name\": \"Spells\", \"entries\": [\"While holding the wand, you can cast one of the spells (save {@dc 15}) on the following table from it. The table indicates how many charges you must expend to cast the spell.\", {\"type\": \"table\", \"colStyles\": [\"col-10\", \"col-2 text-center\"], \"colLabels\": [\"Spell\", \"Charge Cost\"], \"rows\": [[\"{@spell Command|XPHB} (\\\"flee\\\" or \\\"grovel\\\" only)\", \"1\"], [\"{@spell Fear|XPHB} (60-foot {@variantrule Cone [Area of Effect]|XPHB|Co",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dodecahedron of Doom",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This twelve-sided metal die is 12 inches across and bears the numbers 1 through 12 engraved on its pentagonal sides. The dodecahedron contains arcane clockwork mechanisms that whir and click whenever the die is cast.\nThe dodecahedron can be hurled up to 60 feet as an action. A random magical effect occurs when the die comes to rest after rolling across the ground for at least 10 feet. If an effect requires a target and no eligible target is within range, nothing happens. Spells cast by the dodec",
+  "requires_attunement": false,
+  "properties": []
+}

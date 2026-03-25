@@ -1,0 +1,11 @@
+{
+  "name": "Night Caller",
+  "type": "item",
+  "source": "TftYP",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 1,
+  "description": "This whistle is carved from transparent crystal, and it resembles a tiny dragon curled up like a snail. The name Night Caller is etched on the whistle in Dwarvish runes. If a character succeeds on a {@dc 20} Intelligence ({@skill Arcana} or {@skill History}) check, the character recalls lore that says the {@creature duergar} made several such whistles for various groups in an age past.\nIf you blow the whistle in darkness or under the night sky, it allows you to cast the {@spell animate dead} spe",
+  "requires_attunement": false,
+  "properties": []
+}

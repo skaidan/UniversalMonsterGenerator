@@ -1,0 +1,11 @@
+{
+  "name": "Heart Weaver's Primer",
+  "type": "item",
+  "source": "TCE",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: {@spell antipathy/sympathy}, {@spell charm person}, {@spell dominate person}, {@spell enthrall}, {@spell hypnotic pattern}, {@spell modify memory}, and {@spell suggestion}. It functions as a spellbook for you.\nWhile you are holding the book, you can use it as a spellcasting focus for your wizard spells.\nThe book has 3 charges, and it regains {@dice 1d3} expended charges dail",
+  "requires_attunement": true,
+  "properties": []
+}

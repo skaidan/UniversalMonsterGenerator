@@ -1,0 +1,11 @@
+{
+  "name": "Net",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 3,
+  "description": "When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or have the {@condition Restrained|XPHB} condition until it escapes. The target succeeds automatically if it is Huge or larger.\nTo escape, the target or a creature within 5 feet of it must tak",
+  "requires_attunement": false,
+  "properties": []
+}

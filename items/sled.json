@@ -1,0 +1,11 @@
+{
+  "name": "Sled",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2000,
+  "weight": 300,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

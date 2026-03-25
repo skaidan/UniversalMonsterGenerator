@@ -1,0 +1,11 @@
+{
+  "name": "Monster Hunter's Pack",
+  "type": "item",
+  "source": "VRGR",
+  "rarity": "none",
+  "value": 3300,
+  "weight": 48.5,
+  "description": "Includes:\n{\"type\": \"list\", \"items\": [\"a {@item chest|phb}\", \"a {@item crowbar|phb}\", \"a {@item hammer|phb}\", \"three wooden stakes\", \"a {@item holy symbol|phb}\", \"a {@item holy water (flask)|phb|flask of holy water}\", \"a set of {@item manacles|phb}\", \"a {@item steel mirror|phb}\", \"a {@item oil (flask)|phb|flask of oil}\", \"a {@item tinderbox|phb}\", \"3 {@item torch|phb|torches}\"]}",
+  "requires_attunement": false,
+  "properties": []
+}

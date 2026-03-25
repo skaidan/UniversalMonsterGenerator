@@ -1,0 +1,11 @@
+{
+  "name": "Dread Helm",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This fearsome steel helm makes your eyes glow red while you wear it.",
+  "requires_attunement": false,
+  "properties": []
+}

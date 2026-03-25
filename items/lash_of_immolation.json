@@ -1,0 +1,14 @@
+{
+  "name": "Lash of Immolation",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 3,
+  "description": "The handle of this dark leather whip bears the fire rune, and embers dance around the whip's tail.\nYou gain a +1 bonus to attack and damage rolls made with this weapon, and on a hit, the whip deals an extra {@damage 1d6} fire damage. When you score a critical hit with an attack using this whip, the target also has the restrained condition until the start of your next turn, as fiery bands lash around the target.\n{\"type\": \"entries\", \"name\": \"Invoking the Rune\", \"entries\": [\"When you make an attack",
+  "requires_attunement": false,
+  "properties": [
+    "F",
+    "R"
+  ]
+}

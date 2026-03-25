@@ -1,0 +1,11 @@
+{
+  "name": "Cheese (wedge)",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

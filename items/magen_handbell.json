@@ -1,0 +1,11 @@
+{
+  "name": "Magen Handbell",
+  "type": "item",
+  "source": "NF",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "While holding this brass handbell, you can take a {@action Magic|XPHB} action to ring it and summon a {@creature Terran Magen|NF} (see appendix B). The magen appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your {@variantrule Initiative|XPHB} count. The magen disappears after 1 hour, when it dies, or when you dismiss it as a {@variantrule Bonus Action|XPHB}. The bell can't be used th",
+  "requires_attunement": false,
+  "properties": []
+}

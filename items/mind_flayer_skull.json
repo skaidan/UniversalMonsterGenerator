@@ -1,0 +1,11 @@
+{
+  "name": "Mind Flayer Skull",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "unknown (magic)",
+  "value": "",
+  "weight": "",
+  "description": "While you have the skull in your possession, you are {@condition invisible} to mind flayers, as is anything you are wearing or carrying.",
+  "requires_attunement": false,
+  "properties": []
+}

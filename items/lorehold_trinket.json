@@ -1,0 +1,11 @@
+{
+  "name": "Lorehold Trinket",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you may roll once on the Lorehold Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.\n{\"caption\": \"Lorehold Trinkets\", \"colLabels\": [\"d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A map made of concentric circles that can be rotated around the page\"], [\"2\", \"A puzzle box bedecked with amber\"], [\"3\", \"A dented brass compass with a red needle\"], [\"4\", \"Th",
+  "requires_attunement": false,
+  "properties": []
+}

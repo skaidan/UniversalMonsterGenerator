@@ -1,0 +1,11 @@
+{
+  "name": "Sanctum Amulet",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "A black opal pendant hangs at the base of this pearlescent chain. The sacred rune is inscribed on the back of the pendant.\nWhile wearing this item, you have resistance to necrotic damage. Additionally, you can cast the {@spell spare the dying} cantrip using either an action or a bonus action.\n{\"type\": \"entries\", \"name\": \"Invoking the Rune\", \"entries\": [\"When a creature you can see within 60 feet of you is reduced to 0 hit points as a result of taking damage, you can use your reaction to invoke t",
+  "requires_attunement": true,
+  "properties": []
+}

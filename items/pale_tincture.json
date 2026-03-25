@@ -1,0 +1,11 @@
+{
+  "name": "Pale Tincture",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 25000,
+  "weight": "",
+  "description": "A creature subjected to Pale Tincture must succeed on a {@dc 16} Constitution saving throw or take 3 ({@damage 1d6}) Poison damage and have the {@condition Poisoned|XPHB} condition. The {@condition Poisoned|XPHB} creature repeats the save every 24 hours, taking 3 ({@damage 1d6}) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains {@condition Poisoned|XPHB}. After seven successful saves against the poison, the creature is no longer {",
+  "requires_attunement": false,
+  "properties": []
+}

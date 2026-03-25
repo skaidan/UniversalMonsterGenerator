@@ -1,0 +1,13 @@
+{
+  "name": "Gulthias Staff",
+  "type": "item",
+  "source": "CoS",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "Made from the branch of a Gulthias tree (see the {@creature twig blight||blights} entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains {@dice 1d6 + 4} of its expended charges daily at dusk.\nIf the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard out to a range of 300 feet. All blights that can hear the scream i",
+  "requires_attunement": true,
+  "properties": [
+    "V"
+  ]
+}

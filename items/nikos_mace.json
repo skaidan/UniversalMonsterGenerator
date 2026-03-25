@@ -1,0 +1,11 @@
+{
+  "name": "Niko's Mace",
+  "type": "item",
+  "source": "UtHftLH",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 4,
+  "description": "This Mace has 6 charges and regains {@dice 1d6} expended charges daily at dawn. While holding the Mace, you can expend 1 of its charges to cast {@spell Summon Celestial|XPHB} ({@hit 9} to hit with spell attacks).",
+  "requires_attunement": true,
+  "properties": []
+}

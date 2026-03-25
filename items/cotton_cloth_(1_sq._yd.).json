@@ -1,0 +1,11 @@
+{
+  "name": "Cotton Cloth (1 sq. yd.)",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 50,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

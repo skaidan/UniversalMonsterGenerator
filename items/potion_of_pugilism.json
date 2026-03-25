@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Pugilism",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 0.5,
+  "description": "After you drink this potion, each {@variantrule Unarmed Strike|XPHB} you make deals an extra {@damage 1d6} Force damage on a hit. This effect lasts 10 minutes.\nThis potion is a thick green fluid that tastes like spinach.",
+  "requires_attunement": false,
+  "properties": []
+}

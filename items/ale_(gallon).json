@@ -1,0 +1,11 @@
+{
+  "name": "Ale (gallon)",
+  "type": "item",
+  "source": "PHB",
+  "rarity": "none",
+  "value": 20,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

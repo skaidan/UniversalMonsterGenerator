@@ -1,0 +1,11 @@
+{
+  "name": "Ruby Rod of Asmodeus",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "Asmodeus's Ruby Rod is said to have been constructed from a shard of pure evil, a ruby soaked in the blood of the innocents, the drool from a draconic deity, and the tears of 777 angels. It is a magic rod that functions as a morningstar and you have a +2 bonus to attack and damage rolls made with it. All damage dealt with it is converted to necrotic, and when you hit a good aligned creature, that creature takes an extra {@damage 2d12} necrotic damage.\nThe Ruby Rod of Asmodeus has 66 charges and ",
+  "requires_attunement": true,
+  "properties": []
+}

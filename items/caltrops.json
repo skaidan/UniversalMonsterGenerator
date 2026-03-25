@@ -1,0 +1,11 @@
+{
+  "name": "Caltrops",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 100,
+  "weight": 2,
+  "description": "As a {@action Utilize|XPHB} action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a {@dc 15} Dexterity saving throw or take 1 Piercing damage and have its {@variantrule Speed|XPHB} reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.",
+  "requires_attunement": false,
+  "properties": []
+}

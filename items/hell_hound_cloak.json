@@ -1,0 +1,11 @@
+{
+  "name": "Hell Hound Cloak",
+  "type": "item",
+  "source": "TftYP",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This dark cloak is made of cured {@creature hell hound} hide. As an action, you can command the cloak to transform you into a {@creature hell hound} for up to 1 hour. The transformation otherwise functions as the {@spell polymorph} spell, but you can use a bonus action to revert to your normal form.\n{\"type\": \"entries\", \"name\": \"Curse\", \"entries\": [\"This cloak is cursed with the essence of a {@creature hell hound}, and becoming attuned to it extends the curse to you. Until the curse is broken wit",
+  "requires_attunement": true,
+  "properties": []
+}

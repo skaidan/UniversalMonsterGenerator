@@ -1,0 +1,11 @@
+{
+  "name": "Robe of Eyes",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"All-Around Vision\", \"entries\": [\"The robe gives you {@variantrule Advantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks that rely on sight.\"]}, {\"type\": \"item\", \"name\": \"Special Senses\", \"entries\": [\"You have {@sense Darkvision|XPHB} and {@sense Truesight|XPHB}, both with a range of 120 feet.\"]}]}\n{\"type\": \"",
+  "requires_attunement": true,
+  "properties": []
+}

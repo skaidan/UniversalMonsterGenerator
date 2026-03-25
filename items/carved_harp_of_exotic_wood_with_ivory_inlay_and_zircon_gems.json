@@ -1,0 +1,11 @@
+{
+  "name": "Carved harp of exotic wood with ivory inlay and zircon gems",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "none",
+  "value": 75000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

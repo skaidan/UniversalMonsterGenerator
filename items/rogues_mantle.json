@@ -1,0 +1,11 @@
+{
+  "name": "Rogue's Mantle",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This dark, hooded mantle of thick cloth is infused with secretive and deceptive magic. While wearing it, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Darkvision\", \"entries\": [\"You gain {@sense darkvision} within a range of 60 feet. If you already have {@sense darkvision}, the mantle increases your {@sense darkvision}'s range by 60 feet instead.\"]}, {\"type\": \"item\", \"name\": \"Move in Shadows\", \"entries\": [\"While you are in {@qu",
+  "requires_attunement": true,
+  "properties": []
+}

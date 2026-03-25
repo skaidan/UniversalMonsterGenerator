@@ -1,0 +1,11 @@
+{
+  "name": "Daoud's Wondrous Lanthorn",
+  "type": "item",
+  "source": "QftIS",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "This artifact destroys wealth to provide light and protection. Wrought from the finest yellow gold, the lantern has four faces, and an unwavering amber flame burns within it. The faces of the lantern are fitted with faceted gemstone lenses.\nThe lantern is a symbol of the teachings of Daoud, who was once a priest of Istus, a god of fate. When Daoud was stripped of his possessions, he developed a radical new philosophy in his quest to understand fate. He urged followers of his ideology to eschew w",
+  "requires_attunement": true,
+  "properties": []
+}

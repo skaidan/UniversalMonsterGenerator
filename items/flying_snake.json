@@ -1,0 +1,11 @@
+{
+  "name": "Flying Snake",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": 2500,
+  "weight": "",
+  "description": "Pet flying snakes use the {@creature Flying Snake|XMM} stat block.",
+  "requires_attunement": false,
+  "properties": []
+}

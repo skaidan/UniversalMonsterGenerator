@@ -1,0 +1,11 @@
+{
+  "name": "Baba Yaga's Dancing Broom",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "The archfey {@book Baba Yaga|XDMG|8|Baba Yaga} crafted many of these magic brooms. No two appear exactly alike. While holding the broom, you can take a {@action Magic|XPHB} action to transform it into an {@creature Animated Broom|XMM} under your control. The broom then moves into an unoccupied space as close to you as possible. The broom acts immediately after you on your {@variantrule Initiative|XPHB} count and remains animate until you take a {@variantrule Bonus Action|XPHB} and use a command ",
+  "requires_attunement": true,
+  "properties": []
+}

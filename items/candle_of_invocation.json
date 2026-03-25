@@ -1,0 +1,11 @@
+{
+  "name": "Candle of Invocation",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This candle's magic is activated when the candle is lit, which requires a {@action Magic|XPHB} action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.\nWhile lit, the candle sheds {@variantrule Dim Light|XPHB} in a 30-foot radius. While you are within that light, you have {@variantrule Advantage|XPHB} on {@variantrule D20 Test|XPHB|D20 Tests}. In addition, a Cleric",
+  "requires_attunement": true,
+  "properties": []
+}

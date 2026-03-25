@@ -1,0 +1,11 @@
+{
+  "name": "Canvas (1 sq. yd.)",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

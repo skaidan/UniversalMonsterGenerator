@@ -1,0 +1,11 @@
+{
+  "name": "Acid",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2500,
+  "weight": 1,
+  "description": "When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or take {@damage 2d6} Acid damage.",
+  "requires_attunement": false,
+  "properties": []
+}

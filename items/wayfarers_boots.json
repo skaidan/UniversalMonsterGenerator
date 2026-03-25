@@ -1,0 +1,11 @@
+{
+  "name": "Wayfarer's Boots",
+  "type": "item",
+  "source": "BGG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This pair of boots is made of durable cloth, with the journey rune stitched in golden thread above each heel. While you are wearing this item, your walking speed increases by 10 feet, and you have advantage on Wisdom ({@skill Survival}) checks.\n{\"type\": \"entries\", \"name\": \"Invoking the Runes\", \"entries\": [\"As a bonus action, you can invoke the boots' runes to cast the {@spell expeditious retreat} spell with them. Once the runes have been invoked, they can't be invoked again until the next dawn.\"",
+  "requires_attunement": true,
+  "properties": []
+}

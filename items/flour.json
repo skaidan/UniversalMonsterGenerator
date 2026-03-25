@@ -1,0 +1,11 @@
+{
+  "name": "Flour",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 2,
+  "weight": 2,
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

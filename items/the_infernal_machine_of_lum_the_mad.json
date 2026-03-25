@@ -1,0 +1,11 @@
+{
+  "name": "The Infernal Machine of Lum the Mad",
+  "type": "item",
+  "source": "IMR",
+  "rarity": "artifact",
+  "value": "",
+  "weight": "",
+  "description": "This strange device was once thought to have been built by gods long forgotten and to have survived the eons since their passing, for it is incredibly ancient and crafted by means unlike anything known today. However, its true origins derive from a planar craft that crashed in the Barrier Peaks, for the Infernal Machine once functioned as this craft's central command console.\nExplorers who discovered the crash site removed the command console and brought it back to civilization, not understandin",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Iron Ball",
+  "type": "item",
+  "source": "IDRotF",
+  "rarity": "unknown",
+  "value": "",
+  "weight": "",
+  "description": "This ball is used to play a game of {@adventure Chain Lightning|IDRotF|17|Chain Lightning}.",
+  "requires_attunement": false,
+  "properties": [
+    "F",
+    "T"
+  ]
+}

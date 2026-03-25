@@ -1,0 +1,11 @@
+{
+  "name": "Dragon",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "none",
+  "value": 100,
+  "weight": "",
+  "description": "Gold coin, half again as large as a {@item nib|wdh} (1 dragon = 100 {@item nib|wdh|nibs})",
+  "requires_attunement": false,
+  "properties": []
+}

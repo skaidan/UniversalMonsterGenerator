@@ -1,0 +1,11 @@
+{
+  "name": "Professor Orb",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "rare",
+  "value": "",
+  "weight": 5,
+  "description": "Each professor orb takes the form of a smooth, solid, 5-pound sphere of smoky gray quartz about the size of a grapefruit. Close examination reveals two or more pinpricks of silver light deep inside the sphere.\nA Professor Orb is sentient and has the personality of a scholar. Its alignment is determined by rolling on the alignment table in the \"{@book Sentient Magic Items|DMG|7|Sentient Magic Items}\" section in chapter 7 of the {@book Dungeon Master's Guide|dmg}. Regardless of its disposition, th",
+  "requires_attunement": false,
+  "properties": []
+}

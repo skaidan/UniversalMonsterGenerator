@@ -1,0 +1,11 @@
+{
+  "name": "Riding Horse",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 7500,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

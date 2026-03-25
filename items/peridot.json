@@ -1,0 +1,11 @@
+{
+  "name": "Peridot",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 50000,
+  "weight": "",
+  "description": "A rich olive green gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

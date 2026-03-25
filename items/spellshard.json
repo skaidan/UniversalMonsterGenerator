@@ -1,0 +1,11 @@
+{
+  "name": "Spellshard",
+  "type": "item",
+  "source": "ERLW",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This polished Eberron dragonshard fits in the hand and stores information similar to a book. The shard can hold the equivalent of one book that's no more than 320 pages long. A shard can be created blank or already filled with information. When the shard is created, the creator can set a passphrase that must be spoken to access the information stored within.\nWhile holding the shard, you can use an action to open your mind to the shard, seeing its content in your mind. On subsequent rounds, readi",
+  "requires_attunement": false,
+  "properties": []
+}

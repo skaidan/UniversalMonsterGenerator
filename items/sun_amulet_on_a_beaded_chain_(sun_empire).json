@@ -1,0 +1,11 @@
+{
+  "name": "Sun amulet on a beaded chain (Sun Empire)",
+  "type": "item",
+  "source": "PSX",
+  "rarity": "none",
+  "value": 2500,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dagger of Venom",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.\nYou can take a {@variantrule Bonus Action|XPHB} to magically coat the blade with poison. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a {@dc 15} Constitution saving throw or take {@damage 2d10} Poison damage and have the {@condition Poisoned|XPHB} condition for 1 minute. The weapon can't be used this way again until the next dawn.",
+  "requires_attunement": false,
+  "properties": [
+    "F|XPHB",
+    "L|XPHB",
+    "T|XPHB"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rations",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 50,
+  "weight": 2,
+  "description": "Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See \"{@hazard Malnutrition|XPHB}\" for the risks of not eating.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Arrow-Catching Shield",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 6,
+  "description": "You gain a +2 bonus to {@variantrule Armor Class|XPHB} against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.\nWhenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a {@variantrule Reaction|XPHB} to become the target of the attack instead.",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mindblasting Cap",
+  "type": "item",
+  "source": "PaBTSO",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This soft, violet cap bears stitching in the pattern of folds on a brain.\nAs a bonus action while wearing the cap, you can project psychic energy in a 60-foot cone. Each creature in that area must make a {@dc 15} Intelligence saving throw. On a failed save, a creature takes {@damage 5d8} psychic damage and has the stunned condition for 1 minute. On a successful save, the creature takes half as much damage only. At the end of each of its turns, a stunned creature can repeat the saving throw, endi",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hazirawn",
+  "type": "item",
+  "source": "HotDQ",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 6,
+  "description": "A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra {@damage 1d6} necrotic damage when you hit with the weapon.\n{\"name\": \"Increased Potency\", \"type\": \"entries\", \"entries\": [\"While you are attuned to this weapon, its bonus on attack and damage rolls increases to +2, and a hit deals an extra {@d",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "2H"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Purple Dragon Knight Trinket",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{\"type\": \"table\", \"caption\": \"Purple Dragon Knight Trinkets\", \"colLabels\": [\"1d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"An amethyst dragon wyrmling's claw\"], [\"2\", \"A common purple quartz cut to resemble a dragon's eye\"], [\"3\", \"A signal whistle audible only to amethyst dragons\"], [\"4\", \"A robin's egg encased in amber\"], [\"5\", \"A whetstone that leaves any blade it hones faintly glittery\"], [\"6\", \"A vamplate taken from a slain rival jouster\"]]}",
+  "requires_attunement": false,
+  "properties": []
+}

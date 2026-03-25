@@ -1,0 +1,15 @@
+{
+  "name": "Dragontooth Dagger",
+  "type": "item",
+  "source": "RoT",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator's tooth, the handle is leather wrapped around the root of the tooth, and there is no crossguard.\nYou gain a +1 bonus to attack and damage rolls made with this weapon. On a hit with this weapon, the target takes an extra {@damage 1d6} acid damage.\n{\"name\": \"Draconic Potency\", \"type\": \"entries\", \"entries\": [\"Against enemies of the Cult of the Dragon, the dagger's bonus to attack and damage rolls increase",
+  "requires_attunement": false,
+  "properties": [
+    "F",
+    "L",
+    "T"
+  ]
+}

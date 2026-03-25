@@ -1,0 +1,11 @@
+{
+  "name": "Explorer's Pack",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 1000,
+  "weight": 55,
+  "description": "An Explorer's Pack contains the following items: {@item Backpack|XPHB}, {@item Bedroll|XPHB}, 2 flasks of {@item Oil|XPHB}, 10 days of {@item Rations|XPHB}, {@item Rope|XPHB}, {@item Tinderbox|XPHB}, 10 {@item Torch|XPHB|Torches}, and {@item Waterskin|XPHB}.",
+  "requires_attunement": false,
+  "properties": []
+}

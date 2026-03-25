@@ -1,0 +1,11 @@
+{
+  "name": "Eye patch with a mock eye set in blue sapphire and moonstone",
+  "type": "item",
+  "source": "DMG",
+  "rarity": "none",
+  "value": 250000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

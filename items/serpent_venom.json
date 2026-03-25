@@ -1,0 +1,11 @@
+{
+  "name": "Serpent Venom",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 20000,
+  "weight": "",
+  "description": "A creature subjected to Serpent Venom must succeed on a {@dc 11} Constitution saving throw, taking 10 ({@damage 3d6}) Poison damage on a failed save or half as much damage on a successful one.",
+  "requires_attunement": false,
+  "properties": []
+}

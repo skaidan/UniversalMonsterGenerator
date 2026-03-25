@@ -1,0 +1,11 @@
+{
+  "name": "Periapt of Proof against Poison",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 1,
+  "description": "This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have {@variantrule Immunity|XPHB} to the {@condition Poisoned|XPHB} condition and Poison damage.",
+  "requires_attunement": true,
+  "properties": []
+}

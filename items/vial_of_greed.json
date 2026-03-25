@@ -1,0 +1,11 @@
+{
+  "name": "Vial of Greed",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This small glass vial can stockpile resources for use in the future. Once stored, resources last for 1 century before vanishing. As an action you make the vial store any number of the following resources, which are magically consumed and converted into a violet-colored liquid:\n{\"type\": \"list\", \"items\": [\"Up to 31 days of food and/or drink. The flavors are lost, instead becoming tasteless.\", \"Up to 7 days of alcohol. The flavors are lost, instead becoming tasteless.\", \"Up to 5 magic scrolls that ",
+  "requires_attunement": true,
+  "properties": []
+}

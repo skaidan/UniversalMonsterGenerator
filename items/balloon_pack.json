@@ -1,0 +1,11 @@
+{
+  "name": "Balloon Pack",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This backpack contains the spirit of an {@creature air elemental} and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon as an action and gain the effect of the {@spell levitate} spell for 10 minutes, targeting yourself and requiring no {@status concentration}. Alternatively, you can use a reaction to deploy the balloon when you're falling and gain the effect of the {@spell feather fall} spell for yourself.\nWhen either spell ends, the balloon slowly deflates",
+  "requires_attunement": false,
+  "properties": []
+}

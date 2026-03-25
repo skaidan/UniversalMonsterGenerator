@@ -1,0 +1,11 @@
+{
+  "name": "Gem of Brightness",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This prism has 50 charges. While you are holding it, you can take a {@action Magic|XPHB} action and use one of three command words to cause one of the following effects:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"First Command Word\", \"entries\": [\"The gem sheds {@variantrule Bright Light|XPHB} in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet. This effect doesn't expend a charge. It lasts until you take a {@variantrule Bonus Ac",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cult of the Dragon Trinket",
+  "type": "item",
+  "source": "FRHoF",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{\"type\": \"table\", \"caption\": \"Cult of the Dragon Trinkets\", \"colLabels\": [\"1d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A dragon claw pendant on a leather cord\"], [\"2\", \"Ashes of a dracolich in a small brass canister\"], [\"3\", \"A map of an unknown dragon's lair\"], [\"4\", \"A black pearl etched with a Draconic rune\"], [\"5\", \"A drop of dragon's blood preserved in amber\"], [\"6\", \"A scrap of purple silk\"]]}",
+  "requires_attunement": false,
+  "properties": []
+}

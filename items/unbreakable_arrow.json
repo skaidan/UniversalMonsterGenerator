@@ -1,0 +1,11 @@
+{
+  "name": "Unbreakable Arrow",
+  "type": "item",
+  "source": "XGE",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "This arrow can't be broken, except when it is within an {@spell antimagic field}.",
+  "requires_attunement": false,
+  "properties": []
+}

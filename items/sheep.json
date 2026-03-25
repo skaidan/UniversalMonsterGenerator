@@ -1,0 +1,11 @@
+{
+  "name": "Sheep",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 200,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

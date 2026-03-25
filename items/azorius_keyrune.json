@@ -1,0 +1,11 @@
+{
+  "name": "Azorius Keyrune",
+  "type": "item",
+  "source": "GGR",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This keyrune is carved from white marble and lapis lazuli to resemble a noble bird of prey. It can become a {@creature giant eagle} for up to 1 hour. While the transformed eagle is within 1 mile of you, you can communicate with it telepathically. As an action, you can see through the eagle's eyes and hear what it hears until the start of your next turn, and you gain the benefit of its keen sight. During this time, you are deaf and blind with regard to your own senses.\nWhen you use an action to s",
+  "requires_attunement": true,
+  "properties": []
+}

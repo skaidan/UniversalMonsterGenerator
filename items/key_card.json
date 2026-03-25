@@ -1,0 +1,11 @@
+{
+  "name": "Key Card",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "As an action, you can brandish this card and use it to cast the {@spell Knock} spell, with no sound made by the spell. This property can be used five times, and it regains all expended uses at dawn.",
+  "requires_attunement": false,
+  "properties": []
+}

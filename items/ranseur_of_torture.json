@@ -1,0 +1,15 @@
+{
+  "name": "Ranseur of Torture",
+  "type": "item",
+  "source": "CoA",
+  "rarity": "artifact",
+  "value": "",
+  "weight": 18,
+  "description": "Forged of infernal iron and Hellfire through the help of Dispater, the Ranseur of Torture has been Belial's weapon of choice since he first became an archdevil.\nIt is so directly tied to him that one of his worshipped symbols is a two-pronged fork. The weapon never leaves his side, and he is a master at wielding it.\nThe Ranseur of Torture is a magic pike. You have a +3 bonus to attack and damage rolls made with this weapon, and it does {@damage 2d10} piercing damage instead of its regular damage",
+  "requires_attunement": true,
+  "properties": [
+    "H",
+    "R",
+    "2H"
+  ]
+}

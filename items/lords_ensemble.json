@@ -1,0 +1,11 @@
+{
+  "name": "Lord's Ensemble",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "The Masked Lords of Waterdeep don this ensemble when meeting with one another. This raiment renders each lord indistinguishable from the others. The ensemble consists of three pieces—a helm, an amulet, and a robe—that function as a single magic item when worn together, but only within the city of Waterdeep and its sewers. You become attuned to the ensemble as a single item.\n{\"type\": \"entries\", \"name\": \"Lord's Helm\", \"entries\": [\"This bucket helm covers your head and conceals your face. Screens o",
+  "requires_attunement": true,
+  "properties": []
+}

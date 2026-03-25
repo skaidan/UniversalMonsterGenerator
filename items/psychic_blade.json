@@ -1,0 +1,14 @@
+{
+  "name": "Psychic Blade",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": [
+    "F|XPHB",
+    "T|XPHB"
+  ]
+}

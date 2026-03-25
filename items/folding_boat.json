@@ -1,0 +1,11 @@
+{
+  "name": "Folding Boat",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a {@action Magic|XPHB} action to use:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"First Command Word\", \"entries\": [\"The box unfolds into a Rowboat.\"]}, {\"type\": \"item\", \"name\": \"Second Command Word\", \"entries\": [\"The box unfolds into a",
+  "requires_attunement": false,
+  "properties": []
+}

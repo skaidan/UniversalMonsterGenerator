@@ -1,0 +1,11 @@
+{
+  "name": "Quiver of Ehlonna",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": 2,
+  "description": "Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 {@item Arrow|XPHB|Arrows}, {@item Bolt|XPHB|Bolts}, or similar objects. The midsize compartment holds up to 18 {@item Javelin|XPHB|Javelins} or similar objects. The longest compartment holds up to 6 long objects, such as bows, {@item Quarterstaff|XPHB|Quarterstaff's}, or {@item Spear|XPHB|Sp",
+  "requires_attunement": false,
+  "properties": []
+}

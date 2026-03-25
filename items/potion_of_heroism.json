@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Heroism",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "When you drink this potion, you gain 10 {@variantrule Temporary Hit Points|XPHB} that last for 1 hour. For the same duration, you are under the effect of the {@spell Bless|XPHB} spell (no {@status Concentration|XPHB} required).\nThis potion's blue liquid bubbles and steams as if boiling.",
+  "requires_attunement": false,
+  "properties": []
+}

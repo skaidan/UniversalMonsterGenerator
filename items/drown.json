@@ -1,0 +1,14 @@
+{
+  "name": "Drown",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "legendary",
+  "value": "",
+  "weight": 4,
+  "description": "A steel trident decorated with bronze barnacles along the upper part of its haft, Drown has a sea-green jewel just below the tines and a silver shell at the end of its haft. It floats on the surface if dropped onto water, and it floats in place if it is released underwater. The trident is always cool to the touch, and it is immune to any damage due to exposure to water. Drown contains a spark of {@creature Olhydra|PotA}, the Princess of Evil Water.\nYou gain a +1 bonus to attack and damage rolls ",
+  "requires_attunement": true,
+  "properties": [
+    "T",
+    "V"
+  ]
+}

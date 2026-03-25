@@ -1,0 +1,11 @@
+{
+  "name": "Witherbloom Trinket",
+  "type": "item",
+  "source": "SCC",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "When you make your character, you may roll once on the Witherbloom Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.\n{\"caption\": \"Witherbloom Trinkets\", \"colLabels\": [\"d6\", \"Trinket\"], \"colStyles\": [\"col-2 text-center\", \"col-10\"], \"rows\": [[\"1\", \"A black bird-shaped mask, trimmed with glowing green thread\"], [\"2\", \"A set of rabbit bones\"], [\"3\", \"A pair of thick knee-high waders, stained with muck and moss\"], [\"4",
+  "requires_attunement": false,
+  "properties": []
+}

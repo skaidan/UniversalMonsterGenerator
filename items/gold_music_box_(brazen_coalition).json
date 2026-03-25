@@ -1,0 +1,11 @@
+{
+  "name": "Gold music box (Brazen Coalition)",
+  "type": "item",
+  "source": "PSX",
+  "rarity": "none",
+  "value": 250000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Feather of Diatryma Summoning",
+  "type": "item",
+  "source": "WDH",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "This bright plume is made from the feather of a {@creature diatryma|wdh} (pronounced dee-ah-TRY-mah), a Large, colorful, flightless bird native to the Underdark. If you use an action to speak the command word and throw the feather into a Large unoccupied space on the ground within 5 feet of you, the feather becomes a living diatryma for up to 6 hours, after which it reverts to its feather form. It reverts to feather form early if it drops to 0 hit points or if you use an action to speak the comm",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Slumbering Dragon-Touched Focus",
+  "type": "item",
+  "source": "FTD",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales.\nYou have advantage on initiative rolls. While you are holding the focus, it can function as a spellcasting focus for all your spells.",
+  "requires_attunement": true,
+  "properties": []
+}

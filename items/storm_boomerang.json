@@ -1,0 +1,11 @@
+{
+  "name": "Storm Boomerang",
+  "type": "item",
+  "source": "PotA",
+  "rarity": "uncommon",
+  "value": "",
+  "weight": "",
+  "description": "This boomerang is a ranged weapon carved from {@creature griffon} bone and etched with the symbol of elemental air. When thrown, it has a range of 60/120 feet, and any creature that is proficient with the javelin is also proficient with this weapon. On a hit, the boomerang deals {@damage 1d4} bludgeoning damage and {@damage 3d4} thunder damage, and the target must succeed on a {@dc 10} Constitution saving throw or be {@condition stunned} until the end of its next turn. On a miss, the boomerang r",
+  "requires_attunement": false,
+  "properties": []
+}

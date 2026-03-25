@@ -1,0 +1,11 @@
+{
+  "name": "Helm of Devil Command",
+  "type": "item",
+  "source": "BGDIA",
+  "rarity": "very rare",
+  "value": "",
+  "weight": "",
+  "description": "This bulky, eyeless helmet is made for a {@creature pit fiend} but magically resizes to fit the heads of other wearers.\nWhile wearing the helm, you can see out of it as though you weren't wearing it. In addition, you know the exact location and type of all devils within 1,000 feet of you. You can telepathically communicate with a devil within range, or you can broadcast your thoughts to all devils within range. The devils receiving your broadcasted thoughts have no special means of replying to t",
+  "requires_attunement": true,
+  "properties": []
+}

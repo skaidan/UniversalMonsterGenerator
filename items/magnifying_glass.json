@@ -1,0 +1,11 @@
+{
+  "name": "Magnifying Glass",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A Magnifying Glass grants {@variantrule Advantage|XPHB} on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.",
+  "requires_attunement": false,
+  "properties": []
+}

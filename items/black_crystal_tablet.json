@@ -1,0 +1,11 @@
+{
+  "name": "Black Crystal Tablet",
+  "type": "item",
+  "source": "WDMM",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "Any creature that attunes to the tablet must make a {@dc 20} Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see \"{@book Madness|dmg|8|Madness}\" in chapter 8 of the {@book Dungeon Master's Guide|dmg}).\nAs an action, a creature attuned to the Black Crystal Tablet can use it to cast {@spell eyebite} or {@spell gate} (the portal created by this spell links to the Far Realm only). After the tablet is used",
+  "requires_attunement": true,
+  "properties": []
+}

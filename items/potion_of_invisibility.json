@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Invisibility",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 0.5,
+  "description": "This potion's container looks empty but feels as though it holds liquid. When you drink the potion, you have the {@condition Invisible|XPHB} condition for 1 hour. The effect ends early if you make an attack roll, deal damage, or cast a spell.",
+  "requires_attunement": false,
+  "properties": []
+}

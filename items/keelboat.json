@@ -1,0 +1,11 @@
+{
+  "name": "Keelboat",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 300000,
+  "weight": "",
+  "description": "",
+  "requires_attunement": false,
+  "properties": []
+}

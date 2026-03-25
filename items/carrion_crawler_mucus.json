@@ -1,0 +1,11 @@
+{
+  "name": "Carrion Crawler Mucus",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 20000,
+  "weight": "",
+  "description": "A creature subjected to Carrion Crawler Mucus must succeed on a {@dc 13} Constitution saving throw or have the {@condition Poisoned|XPHB} condition for 1 minute. The creature also has the {@condition Paralyzed|XPHB} condition while {@condition Poisoned|XPHB} in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.",
+  "requires_attunement": false,
+  "properties": []
+}

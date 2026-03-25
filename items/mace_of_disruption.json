@@ -1,0 +1,11 @@
+{
+  "name": "Mace of Disruption",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": 4,
+  "description": "When you hit a Fiend or an Undead with this magic weapon, that creature takes an extra {@damage 2d6} Radiant damage. If the target has 25 {@variantrule Hit Points|XPHB} or fewer after taking this damage, it must succeed on a {@dc 15} Wisdom saving throw or be destroyed. On a successful save, the creature has the {@condition Frightened|XPHB} condition until the end of your next turn.\n{\"type\": \"entries\", \"name\": \"Light\", \"entries\": [\"While you hold this weapon, it sheds {@variantrule Bright Light|",
+  "requires_attunement": true,
+  "properties": []
+}

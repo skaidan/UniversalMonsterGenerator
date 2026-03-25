@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Acid Resistance",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Ring of Resistance|XDMG}",
+  "requires_attunement": false,
+  "properties": []
+}

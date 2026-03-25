@@ -1,0 +1,11 @@
+{
+  "name": "Black Pearl",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 50000,
+  "weight": "",
+  "description": "A pure black gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

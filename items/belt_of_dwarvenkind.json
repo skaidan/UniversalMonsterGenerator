@@ -1,0 +1,11 @@
+{
+  "name": "Belt of Dwarvenkind",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "rare",
+  "value": "",
+  "weight": "",
+  "description": "While wearing this belt, you gain the following benefits:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Dwarvish\", \"entries\": [\"You know Dwarvish.\"]}, {\"type\": \"item\", \"name\": \"Friend of Dwarvenkind\", \"entries\": [\"You have {@variantrule Advantage|XPHB} on Charisma ({@skill Persuasion|XPHB}) checks made to interact with dwarves and duergar.\"]}, {\"type\": \"item\", \"name\": \"Toughness\", \"entries\": [\"Your Constitution increases by 2, to a maximum of 20.\", \"In additi",
+  "requires_attunement": true,
+  "properties": []
+}

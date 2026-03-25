@@ -1,0 +1,11 @@
+{
+  "name": "Coral",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "none",
+  "value": 10000,
+  "weight": "",
+  "description": "A crimson gemstone.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Spindle of Fate",
+  "type": "item",
+  "source": "BMT",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This wand is shaped like a drop spindle wrapped in red thread. The wand has 6 charges that can be used for the following properties:\n{\"type\": \"list\", \"style\": \"list-hang-notitle\", \"items\": [{\"type\": \"item\", \"name\": \"Battle Foreknowledge\", \"entries\": [\"When you roll initiative, you can expend 1 charge to add or subtract your proficiency bonus from the total roll.\"]}, {\"type\": \"item\", \"name\": \"Doom Foretold\", \"entries\": [\"As an action, you can expend 2 charges to target a creature within 30 feet o",
+  "requires_attunement": true,
+  "properties": []
+}

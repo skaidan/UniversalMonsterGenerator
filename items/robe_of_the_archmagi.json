@@ -1,0 +1,11 @@
+{
+  "name": "Robe of the Archmagi",
+  "type": "item",
+  "source": "XDMG",
+  "rarity": "legendary",
+  "value": "",
+  "weight": "",
+  "description": "This elegant garment is made from exquisite cloth and adorned with runes.\nYou gain these benefits while wearing the robe.\n{\"type\": \"entries\", \"name\": \"Armor\", \"entries\": [\"If you aren't wearing armor, your base {@variantrule Armor Class|XPHB} is 15 plus your Dexterity modifier.\"]}\n{\"type\": \"entries\", \"name\": \"Magic Resistance\", \"entries\": [\"You have {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects.\"]}\n{\"type\": \"entries\", \"name\": \"War Mage\", \"entries\": [\"You",
+  "requires_attunement": true,
+  "properties": []
+}

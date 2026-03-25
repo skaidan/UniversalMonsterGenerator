@@ -1,0 +1,11 @@
+{
+  "name": "Book",
+  "type": "item",
+  "source": "XPHB",
+  "rarity": "none",
+  "value": 2500,
+  "weight": 5,
+  "description": "A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence ({@skill Arcana|XPHB}, {@skill History|XPHB}, {@skill Nature|XPHB}, or {@skill Religion|XPHB}) checks you make about that topic.",
+  "requires_attunement": false,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sleep Grenade",
+  "type": "item",
+  "source": "QftIS",
+  "rarity": "none",
+  "value": "",
+  "weight": "",
+  "description": "{#itemEntry Grenade|DMG}\nThis grenade releases a cloud of soporific mist that fills a 20-foot-radius sphere, then dissipates. Each creature in that area must succeed on a {@dc 15} Constitution saving throw or have the {@condition unconscious} condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an action to shake it awake.",
+  "requires_attunement": false,
+  "properties": []
+}

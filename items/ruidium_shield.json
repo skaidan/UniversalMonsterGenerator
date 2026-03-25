@@ -1,0 +1,11 @@
+{
+  "name": "Ruidium Shield",
+  "type": "item",
+  "source": "CRCotN",
+  "rarity": "very rare",
+  "value": "",
+  "weight": 6,
+  "description": "Tendrils of ruidium extend across the metal surface of this shield. While this shield is on your person, you gain the following benefits:\n{\"type\": \"list\", \"items\": [\"You have resistance to psychic damage.\", \"You can breathe water.\", \"You gain a swimming speed equal to your walking speed.\"]}\n{\"type\": \"entries\", \"name\": \"Psychic Reflection\", \"entries\": [\"When you take psychic damage while holding the shield, you can use your reaction to choose another creature you can see within 30 feet of you. Th",
+  "requires_attunement": true,
+  "properties": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mythallar Bracelet",
+  "type": "item",
+  "source": "NF",
+  "rarity": "common",
+  "value": "",
+  "weight": "",
+  "description": "Three small, crystal beads made from a decommissioned mythallar are strung on this leather bracelet. As a {@action Magic|XPHB} action, you can pluck one bead from the bracelet to gain {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) checks for 1 minute.\nA bead disappears immediately after it's plucked. Once all three beads have been plucked, the bracelet loses its magic.",
+  "requires_attunement": false,
+  "properties": []
+}
