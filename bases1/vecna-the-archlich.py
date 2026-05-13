@@ -17,7 +17,7 @@ class VecnaTheArchlich(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(5/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If Vecna fails a saving throw, he can choose to succeed instead.Special Equipment. Vecna carries a magic dagger named Afterthought. In the hands of anyone other than Vecna, Afterthought is a +2 dagger"""
         return 'If Vecna fails a saving throw, he can choose to succeed instead.Special Equipment. Vecna carries a magic dagger named Afterthought. In the hands of anyone other than Vecna, Afterthought is a +2 dagger'
 
@@ -29,7 +29,7 @@ class VecnaTheArchlich(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 5) piercing damage plus 9 (2d8) necrotic damage. If the target is a creature, it is afflicted by entropic magic, taking 9 (2d8) necrotic damage at the start of each of its turns. Immediately after taking this damage on its turn, the target can make a DC 20 Constitution saving throw, ending the effect on itself on a success. Until it succeeds on this save, the afflicted target can't regain hit points."""
         return "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 5) piercing damage plus 9 (2d8) necrotic damage. If the target is a creature, it is afflicted by entropic magic, taking 9 (2d8) necrotic damage at the start of each of its turns. Immediately after taking this damage on its turn, the target can make a DC 20 Constitution saving throw, ending the effect on itself on a success. Until it succeeds on this save, the afflicted target can't regain hit points."
 
-    def flight_of_the_damned_(recharge_5–6)_attack(self) -> str:
+    def flight_of_the_damned_attack(self) -> str:
         """Vecna conjures a torrent of flying, spectral entities that fill a 120-foot cone and pass through all creatures in that area before dissipating. Each creature in that area must make a DC 22 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is frightened of Vecna for 1 minute. On a successful save, the creature takes half as much damage and isn't frightened. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."""
         return "Vecna conjures a torrent of flying, spectral entities that fill a 120-foot cone and pass through all creatures in that area before dissipating. Each creature in that area must make a DC 22 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is frightened of Vecna for 1 minute. On a successful save, the creature takes half as much damage and isn't frightened. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 

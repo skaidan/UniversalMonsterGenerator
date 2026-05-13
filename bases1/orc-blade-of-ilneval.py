@@ -33,7 +33,7 @@ class OrcBladeOfIlneval(GlobalCreatureBaseClass):
         """Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."""
         return 'Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
 
-    def ilnevals_command_(recharge_4–6)_attack(self) -> str:
+    def ilnevals_command_attack(self) -> str:
         """Up to three allied orcs within 120 feet of this orc that can hear it can use their reactions to each make one weapon attack."""
         return 'Up to three allied orcs within 120 feet of this orc that can hear it can use their reactions to each make one weapon attack.'
 

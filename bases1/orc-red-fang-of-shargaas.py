@@ -33,7 +33,7 @@ class OrcRedFangOfShargaas(GlobalCreatureBaseClass):
         """Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (3d4 + 3) piercing damage."""
         return 'Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (3d4 + 3) piercing damage.'
 
-    def veil_of_shargaas_(recharges_after_a_short_or_long_rest)_attack(self) -> str:
+    def veil_of_shargaas_attack(self) -> str:
         """The orc casts darkness without any components. Wisdom is its spellcasting ability."""
         return 'The orc casts darkness without any components. Wisdom is its spellcasting ability.'
 

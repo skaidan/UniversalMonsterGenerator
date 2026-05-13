@@ -17,7 +17,7 @@ class Lich(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(3/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If the lich fails a saving throw, it can choose to succeed instead.Rejuvenation. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming activ"""
         return 'If the lich fails a saving throw, it can choose to succeed instead.Rejuvenation. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming activ'
 

@@ -25,11 +25,11 @@ class GreenSlaad(GlobalCreatureBaseClass):
         """The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice."""
         return 'The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.'
 
-    def bite_(slaad_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.'
 
-    def claw_(slaad_form_only)_attack(self) -> str:
+    def claw_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.'
 

@@ -21,11 +21,11 @@ class Jackalwere(GlobalCreatureBaseClass):
         """The jackalwere can use its action to polymorph into a specific Medium human or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal). Other than its size, its statistics are th"""
         return 'The jackalwere can use its action to polymorph into a specific Medium human or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal). Other than its size, its statistics are th'
 
-    def bite_(jackal_or_hybrid_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."""
         return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
 
-    def scimitar_(human_or_hybrid_form_only)_attack(self) -> str:
+    def scimitar_attack(self) -> str:
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."""
         return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.'
 

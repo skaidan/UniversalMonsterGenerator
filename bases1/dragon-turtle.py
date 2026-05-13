@@ -37,7 +37,7 @@ class DragonTurtle(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone."""
         return 'Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.'
 
-    def steam_breath_(recharge_5-6)_attack(self) -> str:
+    def steam_breath_attack(self) -> str:
         """The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d 6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage."""
         return "The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d 6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage."
 

@@ -21,15 +21,15 @@ class Wereboar(GlobalCreatureBaseClass):
         """The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. An"""
         return 'The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. An'
 
-    def multiattack_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def multiattack_attack(self) -> str:
         """The wereboar makes two attacks, only one of which can be with its tusks."""
         return 'The wereboar makes two attacks, only one of which can be with its tusks.'
 
-    def maul_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def maul_attack(self) -> str:
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.'
 
-    def tusks_(boar_or_hybrid_form_only)_attack(self) -> str:
+    def tusks_attack(self) -> str:
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.'
 

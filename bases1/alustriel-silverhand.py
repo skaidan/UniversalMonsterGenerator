@@ -33,7 +33,7 @@ class AlustrielSilverhand(GlobalCreatureBaseClass):
         """Ranged Spell Attack: +14 to hit, range 120 ft., one target. Hit: 65 (9d12 + 7) force damage, and if the target is a creature, it must make a DC 22 Charisma saving throw. On a failed save, the target has the incapacitated condition until the start of Alustriel's next turn. On a successful save, the target's speed is reduced by 10 feet until the start of Alustriel's next turn."""
         return "Ranged Spell Attack: +14 to hit, range 120 ft., one target. Hit: 65 (9d12 + 7) force damage, and if the target is a creature, it must make a DC 22 Charisma saving throw. On a failed save, the target has the incapacitated condition until the start of Alustriel's next turn. On a successful save, the target's speed is reduced by 10 feet until the start of Alustriel's next turn."
 
-    def argent_blaze_(requires_silver_fire)_attack(self) -> str:
+    def argent_blaze_attack(self) -> str:
         """Alustriel summons a 60-foot cone of silver fire. Each creature in that area must make a DC 22 Dexterity saving throw, taking 77 (14d10) radiant damage on a failed save or half as much damage on a successful one. Additionally, Alustriel or one creature of her choice within 60 feet of her then regains 10 (3d6) hit points."""
         return 'Alustriel summons a 60-foot cone of silver fire. Each creature in that area must make a DC 22 Dexterity saving throw, taking 77 (14d10) radiant damage on a failed save or half as much damage on a successful one. Additionally, Alustriel or one creature of her choice within 60 feet of her then regains 10 (3d6) hit points.'
 

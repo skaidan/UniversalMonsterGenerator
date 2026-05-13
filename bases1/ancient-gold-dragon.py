@@ -41,7 +41,7 @@ class AncientGoldDragon(GlobalCreatureBaseClass):
         """Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."""
         return "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
 
-    def breath_weapons_(recharge_5-6)_attack(self) -> str:
+    def breath_weapons_attack(self) -> str:
         """The dragon uses one of the following breath weapons."""
         return 'The dragon uses one of the following breath weapons.'
 

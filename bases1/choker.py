@@ -17,7 +17,7 @@ class Choker(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def aberrant_quickness_(recharges_after_a_short_or_long_rest)(self) -> str:
+    def aberrant_quickness_(self) -> str:
         """The choker can take an extra action on its turn.Boneless. The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.Spider Climb. The choker can climb difficult surfa"""
         return 'The choker can take an extra action on its turn.Boneless. The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.Spider Climb. The choker can climb difficult surfa'
 

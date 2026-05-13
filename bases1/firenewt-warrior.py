@@ -29,7 +29,7 @@ class FirenewtWarrior(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage."""
         return 'Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.'
 
-    def spit_fire_(recharges_after_a_short_or_long_rest)_attack(self) -> str:
+    def spit_fire_attack(self) -> str:
         """The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one."""
         return 'The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.'
 

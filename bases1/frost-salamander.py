@@ -33,7 +33,7 @@ class FrostSalamander(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) piercing damage."""
         return 'Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) piercing damage.'
 
-    def freezing_breath_(recharge_6)_attack(self) -> str:
+    def freezing_breath_attack(self) -> str:
         """The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one."""
         return 'The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one.'
 

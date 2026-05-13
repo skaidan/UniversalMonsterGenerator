@@ -25,15 +25,15 @@ class Werebear(GlobalCreatureBaseClass):
         """In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid."""
         return 'In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.'
 
-    def bite_(bear_or_hybrid_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.'
 
-    def claw_(bear_or_hybrid_form_only)_attack(self) -> str:
+    def claw_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.'
 
-    def greataxe_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def greataxe_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.'
 

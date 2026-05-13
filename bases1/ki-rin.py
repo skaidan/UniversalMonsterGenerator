@@ -17,7 +17,7 @@ class KiRin(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(3/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If the ki-rin fails a saving throw, it can choose to succeed instead.Magic Resistance. The ki-rin has advantage on saving throws against spells and other magical effects."""
         return 'If the ki-rin fails a saving throw, it can choose to succeed instead.Magic Resistance. The ki-rin has advantage on saving throws against spells and other magical effects.'
 

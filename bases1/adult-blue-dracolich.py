@@ -17,7 +17,7 @@ class AdultBlueDracolich(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(3/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If the dracolich fails a saving throw, it can choose to succeed instead.Magic Resistance. The dracolich has advantage on saving throws against spells and other magical effects."""
         return 'If the dracolich fails a saving throw, it can choose to succeed instead.Magic Resistance. The dracolich has advantage on saving throws against spells and other magical effects.'
 
@@ -41,7 +41,7 @@ class AdultBlueDracolich(GlobalCreatureBaseClass):
         """Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours."""
         return "Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours."
 
-    def lightning_breath_(recharge_5–6)_attack(self) -> str:
+    def lightning_breath_attack(self) -> str:
         """The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one."""
         return 'The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.'
 

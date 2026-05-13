@@ -25,7 +25,7 @@ class Oni(GlobalCreatureBaseClass):
         """The oni makes two attacks, either with its claws or its glaive."""
         return 'The oni makes two attacks, either with its claws or its glaive.'
 
-    def claw_(oni_form_only)_attack(self) -> str:
+    def claw_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.'
 

@@ -21,7 +21,7 @@ class YuanTiMalison(GlobalCreatureBaseClass):
         """The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doe"""
         return "The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doe"
 
-    def multiattack_(yuan-ti_form_only)_attack(self) -> str:
+    def multiattack_attack(self) -> str:
         """The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once."""
         return 'The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.'
 
@@ -29,11 +29,11 @@ class YuanTiMalison(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.'
 
-    def scimitar_(yuan-ti_form_only)_attack(self) -> str:
+    def scimitar_attack(self) -> str:
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
 
-    def longbow_(yuan-ti_form_only)_attack(self) -> str:
+    def longbow_attack(self) -> str:
         """Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."""
         return 'Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.'
 

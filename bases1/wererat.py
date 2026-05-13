@@ -21,19 +21,19 @@ class Wererat(GlobalCreatureBaseClass):
         """The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each for"""
         return 'The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each for'
 
-    def multiattack_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def multiattack_attack(self) -> str:
         """The wererat makes two attacks, only one of which can be a bite."""
         return 'The wererat makes two attacks, only one of which can be a bite.'
 
-    def bite_(rat_or_hybrid_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."""
         return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.'
 
-    def shortsword_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def shortsword_attack(self) -> str:
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."""
         return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
 
-    def hand_crossbow_(humanoid_or_hybrid_form_only)_attack(self) -> str:
+    def hand_crossbow_attack(self) -> str:
         """Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."""
         return 'Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
 

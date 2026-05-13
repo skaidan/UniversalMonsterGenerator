@@ -29,7 +29,7 @@ class Blackguard(GlobalCreatureBaseClass):
         """Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."""
         return 'Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
 
-    def dreadful_aspect_(recharges_after_a_short_or_long_rest)_attack(self) -> str:
+    def dreadful_aspect_attack(self) -> str:
         """Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom saving throw or be frightened of the blackguard for 1 minute. If a frightened target ends its turn more than 30 feet away from the blackguard, the target can repeat the saving throw, ending the effect on itself on a success."""
         return 'Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom saving throw or be frightened of the blackguard for 1 minute. If a frightened target ends its turn more than 30 feet away from the blackguard, the target can repeat the saving throw, ending the effect on itself on a success.'
 

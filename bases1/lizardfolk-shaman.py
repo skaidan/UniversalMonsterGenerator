@@ -21,7 +21,7 @@ class LizardfolkShaman(GlobalCreatureBaseClass):
         """The lizardfolk can hold its breath for 15 minutes.Spellcasting (Lizardfolk Form Only). The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with s"""
         return 'The lizardfolk can hold its breath for 15 minutes.Spellcasting (Lizardfolk Form Only). The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with s'
 
-    def multiattack_(lizardfolk_form_only)_attack(self) -> str:
+    def multiattack_attack(self) -> str:
         """The lizardfolk makes two attacks: one with its bite and one with its claws."""
         return 'The lizardfolk makes two attacks: one with its bite and one with its claws.'
 
@@ -29,11 +29,11 @@ class LizardfolkShaman(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends."""
         return "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends."
 
-    def claws_(lizardfolk_form_only)_attack(self) -> str:
+    def claws_attack(self) -> str:
         """Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."""
         return 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.'
 
-    def change_shape_(recharges_after_a_short_or_long_rest)_attack(self) -> str:
+    def change_shape_attack(self) -> str:
         """The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."""
         return "The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
 

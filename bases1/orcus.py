@@ -37,7 +37,7 @@ class Orcus(GlobalCreatureBaseClass):
         """Ranged Spell Attack: +15 to hit, range 120 ft., one target. Hit: 29 (5d8 + 7) necrotic damage."""
         return 'Ranged Spell Attack: +15 to hit, range 120 ft., one target. Hit: 29 (5d8 + 7) necrotic damage.'
 
-    def conjure_undead_(1/day)_attack(self) -> str:
+    def conjure_undead_attack(self) -> str:
         """While holding the Wand of Orcus, Orcus conjures Undead creatures whose combined average hit points don't exceed 500. These creatures magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action."""
         return "While holding the Wand of Orcus, Orcus conjures Undead creatures whose combined average hit points don't exceed 500. These creatures magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action."
 

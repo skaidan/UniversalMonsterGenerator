@@ -25,7 +25,7 @@ class EvokerWizard(GlobalCreatureBaseClass):
         """Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft., one target. Hit: 25 (4d10 + 3) force damage."""
         return 'Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft., one target. Hit: 25 (4d10 + 3) force damage.'
 
-    def sculpted_explosion_(recharge_4–6)_attack(self) -> str:
+    def sculpted_explosion_attack(self) -> str:
         """The evoker unleashes a magical explosion of a particular damage type: cold, fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere centered on a point within 150 feet of the evoker. Each creature in that area must make a DC 15 Dexterity saving throw. The evoker can select up to three creatures it can see in the area to ignore the spell, as the evoker sculpts the spell's energy around them. On a failed save, a creature takes 40 (9d8) damage of the chosen type and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone."""
         return "The evoker unleashes a magical explosion of a particular damage type: cold, fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere centered on a point within 150 feet of the evoker. Each creature in that area must make a DC 15 Dexterity saving throw. The evoker can select up to three creatures it can see in the area to ignore the spell, as the evoker sculpts the spell's energy around them. On a failed save, a creature takes 40 (9d8) damage of the chosen type and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone."
 

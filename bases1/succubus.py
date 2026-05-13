@@ -21,7 +21,7 @@ class Succubus(GlobalCreatureBaseClass):
         """The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.Shapechanger. The fiend can use"""
         return "The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.Shapechanger. The fiend can use"
 
-    def claw_(fiend_form_only)_attack(self) -> str:
+    def claw_attack(self) -> str:
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
 

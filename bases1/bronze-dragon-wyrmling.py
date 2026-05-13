@@ -25,7 +25,7 @@ class BronzeDragonWyrmling(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage."""
         return 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.'
 
-    def breath_weapons_(recharge_5-6)_attack(self) -> str:
+    def breath_weapons_attack(self) -> str:
         """The dragon uses one of the following breath weapons."""
         return 'The dragon uses one of the following breath weapons.'
 

@@ -25,11 +25,11 @@ class DeathSlaad(GlobalCreatureBaseClass):
         """The slaad makes three attacks: one with its bite and two with its claws or greatsword."""
         return 'The slaad makes three attacks: one with its bite and two with its claws or greatsword.'
 
-    def bite_(slaad_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage."""
         return 'Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.'
 
-    def claws_(slaad_form_only)_attack(self) -> str:
+    def claws_attack(self) -> str:
         """Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage."""
         return 'Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.'
 

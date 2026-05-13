@@ -37,7 +37,7 @@ class GnollPackLord(GlobalCreatureBaseClass):
         """Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."""
         return 'Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.'
 
-    def incite_rampage_(recharge_5-6)_attack(self) -> str:
+    def incite_rampage_attack(self) -> str:
         """One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait."""
         return 'One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.'
 

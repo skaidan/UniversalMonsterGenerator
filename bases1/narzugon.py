@@ -37,7 +37,7 @@ class Narzugon(GlobalCreatureBaseClass):
         """Each creature within 60 feet of the narzugon that isn't a Fiend must succeed on a DC 17 Charisma saving throw or become frightened of the narzugon for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that makes a successful saving throw is immune to this narzugon's Terrifying Command for 24 hours."""
         return "Each creature within 60 feet of the narzugon that isn't a Fiend must succeed on a DC 17 Charisma saving throw or become frightened of the narzugon for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that makes a successful saving throw is immune to this narzugon's Terrifying Command for 24 hours."
 
-    def healing_(1/day)_attack(self) -> str:
+    def healing_attack(self) -> str:
         """The narzugon, or one creature it touches, regains 100 hit points."""
         return 'The narzugon, or one creature it touches, regains 100 hit points.'
 

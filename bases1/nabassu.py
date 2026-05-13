@@ -12,7 +12,7 @@ class Nabassu(GlobalCreatureBaseClass):
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {'hit_points': 190, 'min_level': 1, 'level': 1, 'STR': 22, 'DEX': 14, 'CON': 21, 'INT': 14, 'WIS': 15, 'CHAR': 17, 'armor_class': 18, 'alignment': 'typically Chaotic Evil Armor Class  18 (natural armor) Hit Points  190 (20d8 + 100) Speed  40 ft.', 'legendary': False, 'size': 'Medium', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['demonic_shadows', 'multiattack', 'bite', 'claw', 'soul-stealing_gaze']}
+    DEFAULT_STATS = {'hit_points': 190, 'min_level': 1, 'level': 1, 'STR': 22, 'DEX': 14, 'CON': 21, 'INT': 14, 'WIS': 15, 'CHAR': 17, 'armor_class': 18, 'alignment': 'typically Chaotic Evil Armor Class  18 (natural armor) Hit Points  190 (20d8 + 100) Speed  40 ft.', 'legendary': False, 'size': 'Medium', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['demonic_shadows', 'multiattack', 'bite', 'claw', 'soul_stealing_gaze']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
@@ -33,7 +33,7 @@ class Nabassu(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28 (4d10 + 6) force damage."""
         return 'Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28 (4d10 + 6) force damage.'
 
-    def soul-stealing_gaze_attack(self) -> str:
+    def soul_stealing_gaze_attack(self) -> str:
         """The nabassu targets one creature it can see within 30 feet of it. If the target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (2d12) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a ghoul under the nabassu's control."""
         return "The nabassu targets one creature it can see within 30 feet of it. If the target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (2d12) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a ghoul under the nabassu's control."
 

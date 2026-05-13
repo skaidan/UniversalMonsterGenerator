@@ -17,7 +17,7 @@ class GithzeraiZerth(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def innate_spellcasting_(psionics)(self) -> str:
+    def innate_spellcasting_(self) -> str:
         """The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:At will: mage hand (the hand is invisible)3/day each: feather fall, jump, see """
         return "The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:At will: mage hand (the hand is invisible)3/day each: feather fall, jump, see "
 

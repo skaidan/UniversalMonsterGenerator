@@ -33,7 +33,7 @@ class LaeralSilverhand(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage plus 7 (2d6) fire damage, or 6 (1d10 + 1) slashing damage plus 7 (2d6) fire damage when used with two hands."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage plus 7 (2d6) fire damage, or 6 (1d10 + 1) slashing damage plus 7 (2d6) fire damage when used with two hands.'
 
-    def spellfire_(recharges_after_a_long_rest)_attack(self) -> str:
+    def spellfire_attack(self) -> str:
         """Magical, heatless, silver fire harmlessly erupts from Laeral and surrounds her until she is incapacitated or until she uses an action to quench it. She gains one of the following benefits of her choice, which lasts until the silver fire ends:"""
         return 'Magical, heatless, silver fire harmlessly erupts from Laeral and surrounds her until she is incapacitated or until she uses an action to quench it. She gains one of the following benefits of her choice, which lasts until the silver fire ends:'
 

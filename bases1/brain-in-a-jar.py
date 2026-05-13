@@ -21,11 +21,11 @@ class BrainInAJar(GlobalCreatureBaseClass):
         """The brain can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a m"""
         return 'The brain can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a m'
 
-    def chill_touch_(cantrip)_attack(self) -> str:
+    def chill_touch_attack(self) -> str:
         """Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (3d8) necrotic damage, and the target can't regain hit points until the start of the brain's next turn. If the target is undead, it also has disadvantage on attack rolls against the brain until the end of the brain's next turn."""
         return "Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit: 13 (3d8) necrotic damage, and the target can't regain hit points until the start of the brain's next turn. If the target is undead, it also has disadvantage on attack rolls against the brain until the end of the brain's next turn."
 
-    def mind_blast_(recharge_5–6)_attack(self) -> str:
+    def mind_blast_attack(self) -> str:
         """The brain magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 14 Intelligence saving throw or take 17 (3d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."""
         return 'The brain magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 14 Intelligence saving throw or take 17 (3d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.'
 

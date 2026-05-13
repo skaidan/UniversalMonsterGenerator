@@ -17,7 +17,7 @@ class BestialSpirit(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def flyby_(air_only)(self) -> str:
+    def flyby_(self) -> str:
         """The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.Pack Tactics (Land and Water Only). The beast has advantage on an attack roll against a creature if at least one of """
         return "The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.Pack Tactics (Land and Water Only). The beast has advantage on an attack roll against a creature if at least one of "
 

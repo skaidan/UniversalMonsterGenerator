@@ -17,7 +17,7 @@ class GithyankiWarrior(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def innate_spellcasting_(psionics)(self) -> str:
+    def innate_spellcasting_(self) -> str:
         """The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:At will: mage hand (the hand is invisible)3/day each: jump, misty step, """
         return "The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:At will: mage hand (the hand is invisible)3/day each: jump, misty step, "
 

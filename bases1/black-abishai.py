@@ -33,7 +33,7 @@ class BlackAbishai(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage."""
         return 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage.'
 
-    def creeping_darkness_(recharge_6)_attack(self) -> str:
+    def creeping_darkness_attack(self) -> str:
         """The abishai casts darkness at a point within 120 feet of it, requiring no spell components or concentration. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action."""
         return 'The abishai casts darkness at a point within 120 feet of it, requiring no spell components or concentration. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.'
 

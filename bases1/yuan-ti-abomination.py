@@ -21,7 +21,7 @@ class YuanTiAbomination(GlobalCreatureBaseClass):
         """The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It does"""
         return "The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It does"
 
-    def multiattack_(abomination_form_only)_attack(self) -> str:
+    def multiattack_attack(self) -> str:
         """The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each."""
         return 'The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each.'
 
@@ -33,11 +33,11 @@ class YuanTiAbomination(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target."""
         return "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target."
 
-    def scimitar_(abomination_form_only)_attack(self) -> str:
+    def scimitar_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.'
 
-    def longbow_(abomination_form_only)_attack(self) -> str:
+    def longbow_attack(self) -> str:
         """Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage."""
         return 'Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage.'
 

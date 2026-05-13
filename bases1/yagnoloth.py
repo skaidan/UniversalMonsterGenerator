@@ -33,7 +33,7 @@ class Yagnoloth(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23 (3d12 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or become stunned until the end of the yagnoloth's next turn."""
         return "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23 (3d12 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or become stunned until the end of the yagnoloth's next turn."
 
-    def battlefield_cunning_(recharge_4–6)_attack(self) -> str:
+    def battlefield_cunning_attack(self) -> str:
         """Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each."""
         return 'Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.'
 

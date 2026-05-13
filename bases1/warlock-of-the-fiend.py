@@ -17,7 +17,7 @@ class WarlockOfTheFiend(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def dark_ones_own_luck_(recharges_after_a_short_or_long_rest)(self) -> str:
+    def dark_ones_own_luck_(self) -> str:
         """When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur."""
         return "When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur."
 

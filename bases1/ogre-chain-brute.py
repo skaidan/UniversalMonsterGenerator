@@ -21,7 +21,7 @@ class OgreChainBrute(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage."""
         return 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.'
 
-    def chain_smash_(recharge_6)_attack(self) -> str:
+    def chain_smash_attack(self) -> str:
         """Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target must make a DC 14 Constitution saving throw or be stunned for 1 minute. The target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success."""
         return 'Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target must make a DC 14 Constitution saving throw or be stunned for 1 minute. The target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success.'
 

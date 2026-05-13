@@ -17,7 +17,7 @@ class Warlord(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def indomitable_(3/day)(self) -> str:
+    def indomitable_(self) -> str:
         """The warlord can reroll a saving throw it fails. It must use the new roll.Survivor. The warlord regains 10 hit points at the start of its turn if it has fewer than half its hit points but at least 1 hi"""
         return 'The warlord can reroll a saving throw it fails. It must use the new roll.Survivor. The warlord regains 10 hit points at the start of its turn if it has fewer than half its hit points but at least 1 hi'
 

@@ -12,12 +12,12 @@ class Demogorgon(GlobalCreatureBaseClass):
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {'hit_points': 464, 'min_level': 1, 'level': 1, 'STR': 29, 'DEX': 14, 'CON': 26, 'INT': 20, 'WIS': 17, 'CHAR': 25, 'armor_class': 22, 'alignment': 'Chaotic Evil Armor Class  22 (natural armor) Hit Points  464 (32d12 + 256) Speed  50 ft.', 'legendary': False, 'size': 'Huge', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['legendary_resistance_(3/day)', 'multiattack', 'tentacle', 'gaze', '&nbsp;_1-2:_beguiling_gaze', '&nbsp;_3-4:_confusing_caze', '&nbsp;_5-6:_hypnotic_caze', 'spellcasting']}
+    DEFAULT_STATS = {'hit_points': 464, 'min_level': 1, 'level': 1, 'STR': 29, 'DEX': 14, 'CON': 26, 'INT': 20, 'WIS': 17, 'CHAR': 25, 'armor_class': 22, 'alignment': 'Chaotic Evil Armor Class  22 (natural armor) Hit Points  464 (32d12 + 256) Speed  50 ft.', 'legendary': False, 'size': 'Huge', 'type': 'Fiend (Demon)', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['legendary_resistance_3_day', 'multiattack', 'tentacle', 'gaze', 'ability_1_2_beguiling_gaze', 'ability_3_4_confusing_caze', 'ability_5_6_hypnotic_caze', 'spellcasting']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(3/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If Demogorgon fails a saving throw, he can choose to succeed instead.Magic Resistance. Demogorgon has advantage on saving throws against spells and other magical effects.Two Heads. Demogorgon has adva"""
         return 'If Demogorgon fails a saving throw, he can choose to succeed instead.Magic Resistance. Demogorgon has advantage on saving throws against spells and other magical effects.Two Heads. Demogorgon has adva'
 
@@ -33,15 +33,15 @@ class Demogorgon(GlobalCreatureBaseClass):
         """Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a d6):"""
         return 'Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a d6):'
 
-    def &nbsp;_1-2:_beguiling_gaze_attack(self) -> str:
+    def attack_1_2_beguiling_gaze_attack(self) -> str:
         """The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight."""
         return "The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight."
 
-    def &nbsp;_3-4:_confusing_caze_attack(self) -> str:
+    def attack_3_4_confusing_caze_attack(self) -> str:
         """The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell."""
         return "The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell."
 
-    def &nbsp;_5-6:_hypnotic_caze_attack(self) -> str:
+    def attack_5_6_hypnotic_caze_attack(self) -> str:
         """The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its action, reaction, and movement."""
         return "The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its action, reaction, and movement."
 

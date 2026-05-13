@@ -33,11 +33,11 @@ class YuanTiPitMaster(GlobalCreatureBaseClass):
         """Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage."""
         return 'Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage.'
 
-    def merrshaulks_slumber_(1/day)_attack(self) -> str:
+    def merrshaulks_slumber_attack(self) -> str:
         """The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed."""
         return 'The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.'
 
-    def spellcasting_(yuan-ti_form_only)_attack(self) -> str:
+    def spellcasting_attack(self) -> str:
         """The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):"""
         return 'The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):'
 

@@ -17,7 +17,7 @@ class Champion(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def indomitable_(2/day)(self) -> str:
+    def indomitable_(self) -> str:
         """The champion rerolls a failed saving throw."""
         return 'The champion rerolls a failed saving throw.'
 

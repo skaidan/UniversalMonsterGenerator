@@ -37,7 +37,7 @@ class KrakenPriest(GlobalCreatureBaseClass):
         """The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):"""
         return 'The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):'
 
-    def voice_of_the_kraken_(recharges_after_a_short_or_long_rest)_attack(self) -> str:
+    def voice_of_the_kraken_attack(self) -> str:
         """A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Wisdom saving throw or be frightened of the priest for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."""
         return "A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Wisdom saving throw or be frightened of the priest for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 

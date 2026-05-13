@@ -29,7 +29,7 @@ class YoungBrassDragon(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.'
 
-    def breath_weapons_(recharge_5-6)_attack(self) -> str:
+    def breath_weapons_attack(self) -> str:
         """The dragon uses one of the following breath weapons."""
         return 'The dragon uses one of the following breath weapons.'
 

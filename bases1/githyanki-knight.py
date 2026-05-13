@@ -17,7 +17,7 @@ class GithyankiKnight(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def innate_spellcasting_(psionics)(self) -> str:
+    def innate_spellcasting_(self) -> str:
         """The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:At will: mage hand (the"""
         return "The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:At will: mage hand (the"
 

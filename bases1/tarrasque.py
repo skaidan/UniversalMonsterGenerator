@@ -17,7 +17,7 @@ class Tarrasque(GlobalCreatureBaseClass):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def legendary_resistance_(3/day)(self) -> str:
+    def legendary_resistance_(self) -> str:
         """If the tarrasque fails a saving throw, it can choose to succeed instead.Magic Resistance. The tarrasque has advantage on saving throws against spells and other magical effects.Reflective Carapace. Any"""
         return 'If the tarrasque fails a saving throw, it can choose to succeed instead.Magic Resistance. The tarrasque has advantage on saving throws against spells and other magical effects.Reflective Carapace. Any'
 

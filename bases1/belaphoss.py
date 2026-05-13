@@ -33,7 +33,7 @@ class Belaphoss(GlobalCreatureBaseClass):
         """Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward Belaphoss."""
         return 'Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward Belaphoss.'
 
-    def abyssal_storm_(recharge_5–6)_attack(self) -> str:
+    def abyssal_storm_attack(self) -> str:
         """Belaphoss surrounds himself with explosive fire that fills a 30-foot sphere centered on him and spreads around corners. Each creature in the fire must make a Dexterity saving throw, taking 28 (8d6) fire damage and 28 (8d6) bludgeoning damage on a failed save, or half as much damage on a successful one. Belaphoss is immune to this damage. Objects in the area are subject to it, and the fire ignites flammable objects in the area that aren't being worn or carried."""
         return "Belaphoss surrounds himself with explosive fire that fills a 30-foot sphere centered on him and spreads around corners. Each creature in the fire must make a Dexterity saving throw, taking 28 (8d6) fire damage and 28 (8d6) bludgeoning damage on a failed save, or half as much damage on a successful one. Belaphoss is immune to this damage. Objects in the area are subject to it, and the fire ignites flammable objects in the area that aren't being worn or carried."
 

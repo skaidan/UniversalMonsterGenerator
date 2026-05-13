@@ -12,12 +12,12 @@ class DeathDog(GlobalCreatureBaseClass):
     """
     
     # Valores por defecto extraídos del scraping
-    DEFAULT_STATS = {'hit_points': 39, 'min_level': 1, 'level': 1, 'STR': 15, 'DEX': 14, 'CON': 14, 'INT': 3, 'WIS': 13, 'CHAR': 6, 'armor_class': 12, 'alignment': 'neutral evil Armor Class  12 Hit Points  39 (6d8 + 12) Speed  40 ft. STR 15 (+2) DEX 14 (+2) CON 14 (+2) INT 3 (-4) WIS 13 (+1) CHA 6 (-2) Skills  Perception +5', 'legendary': False, 'size': 'Medium', 'type': 'monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['two-headed', 'multiattack', 'bite']}
+    DEFAULT_STATS = {'hit_points': 39, 'min_level': 1, 'level': 1, 'STR': 15, 'DEX': 14, 'CON': 14, 'INT': 3, 'WIS': 13, 'CHAR': 6, 'armor_class': 12, 'alignment': 'neutral evil Armor Class  12 Hit Points  39 (6d8 + 12) Speed  40 ft. STR 15 (+2) DEX 14 (+2) CON 14 (+2) INT 3 (-4) WIS 13 (+1) CHA 6 (-2) Skills  Perception +5', 'legendary': False, 'size': 'Medium', 'type': 'monstrosity', 'hit_points_up': [1, 1, 1], 'STR_up': [1, 1, 0], 'DEX_up': [0, 1, 0], 'CON_up': [0, 0, 1], 'INT_up': [1, 0, 0], 'WIS_up': [0, 0, 1], 'CHAR_up': [0, 0, 0], 'abilities': ['two_headed', 'multiattack', 'bite']}
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    def two-headed(self) -> str:
+    def two_headed(self) -> str:
         """The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious."""
         return 'The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.'
 

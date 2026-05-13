@@ -25,7 +25,7 @@ class Allip(GlobalCreatureBaseClass):
         """Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage."""
         return 'Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage.'
 
-    def howling_babble_(recharge_6)_attack(self) -> str:
+    def howling_babble_attack(self) -> str:
         """Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic damage, and it is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned. Constructs and Undead are immune to this effect."""
         return "Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic damage, and it is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned. Constructs and Undead are immune to this effect."
 

@@ -25,11 +25,11 @@ class GraySlaad(GlobalCreatureBaseClass):
         """The slaad makes three attacks: one with its bite and two with its claws or greatsword."""
         return 'The slaad makes three attacks: one with its bite and two with its claws or greatsword.'
 
-    def bite_(slaad_form_only)_attack(self) -> str:
+    def bite_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
 
-    def claws_(slaad_form_only)_attack(self) -> str:
+    def claws_attack(self) -> str:
         """Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage."""
         return 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.'
 
