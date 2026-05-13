@@ -20,7 +20,11 @@ def load_classes_from_dir(directory: str) -> dict[str, type]:
 
         spec = importlib.util.spec_from_file_location(module_name, path)
         module = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(module)
+        try:
+            spec.loader.exec_module(module)
+        except Exception as exc:
+            print(f"Warning: skipping {filename} due to import error: {exc}")
+            continue
 
         for attr_name in dir(module):
             obj = getattr(module, attr_name)
@@ -38,40 +42,41 @@ def create_dynamic_class(base_classes: list[type], name: str = "DynamicCreature"
     return type(name, tuple(base_classes), {})
 
 
+def combine_class_names(base1: type, base2: type) -> str:
+    """Combine two class names into a single creature name."""
+    return f"{base1.__name__}{base2.__name__}"
+
+
 def main(
     return_json_string: bool = False,
 ) -> Union[dict, str]:
     """
     Build a random DynamicCreature by:
-    1. Selecting one class from each base directory (base1, base2, base3)
-    2. Extracting stats from base1's DEFAULT_STATS
-    3. Creating the dynamic creature
-    4. Collecting abilities from all three base classes
+    1. Selecting two classes from bases1
+    2. Extracting stats from the first selected class's DEFAULT_STATS
+    3. Creating the dynamic creature with a mixed name
+    4. Collecting abilities from both selected classes
     """
     DIR1 = "bases1"
-    DIR2 = "bases2"
-    DIR3 = "bases3"
 
     classes_dir1 = load_classes_from_dir(DIR1)
-    classes_dir2 = load_classes_from_dir(DIR2)
-    classes_dir3 = load_classes_from_dir(DIR3)
 
-    if not (classes_dir1 and classes_dir2 and classes_dir3):
-        raise ValueError("At least one directory does not contain any classes")
+    if not classes_dir1:
+        raise ValueError("Directory bases1 does not contain any classes")
 
     base1 = random.choice(list(classes_dir1.values()))
-    base2 = random.choice(list(classes_dir2.values()))
-    base3 = random.choice(list(classes_dir3.values()))
+    base2 = random.choice(list(classes_dir1.values()))
 
     print(f"Base1: {base1.__name__}")
     print(f"Base2: {base2.__name__}")
-    print(f"Base3: {base3.__name__}")
 
+    creature_name = combine_class_names(base1, base2)
     DynamicCreature = create_dynamic_class(
-        [base1, base2, base3],
-        name="DynamicCreature",
+        [base1, base2],
+        name=creature_name,
     )
 
+    print(f"Creature name: {DynamicCreature.__name__}")
     print("MRO:")
     for cls in DynamicCreature.mro():
         print(f"  {cls.__name__}")
@@ -83,7 +88,18 @@ def main(
             f"Base1 class {base1.__name__} must define DEFAULT_STATS class attribute"
         )
 
-    # Create creature with extracted stats
+    # Combine abilities from the two selected Base1 classes
+    abilities = []
+    for cls in (base1, base2):
+        base_stats = getattr(cls, "DEFAULT_STATS", None)
+        if base_stats is None:
+            raise ValueError(
+                f"Base1 class {cls.__name__} must define DEFAULT_STATS class attribute"
+            )
+        abilities.extend(base_stats.get("abilities", []))
+
+    # Create creature with extracted stats from the first selected class,
+    # but collect abilities from both selected classes.
     creature = DynamicCreature(
         hit_points=stats["hit_points"],
         min_level=stats["min_level"],
@@ -107,7 +123,7 @@ def main(
         INT_up=stats["INT_up"],
         WIS_up=stats["WIS_up"],
         CHAR_up=stats["CHAR_up"],
-        abilities=[],  # components will add their abilities
+        abilities=abilities,
     )
 
     print("\nCreature:")

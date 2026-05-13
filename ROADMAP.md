@@ -4,8 +4,7 @@
 Un generador dinámico de monstruos que combina múltiples bases de características para crear criaturas únicas con habilidades emergentes.
 
 ## Arquitectura
-- **Bases1**: Proporciona estadísticas base (HP, atributos, AC)
-- **Bases2 & Bases3**: Contribuyen habilidades especiales
+- **Bases1**: Proporciona estadísticas base y abilities
 - **dynamic_loader**: Orquesta la combinación inteligente de clases
 
 ## Próximas Iteraciones
@@ -18,7 +17,7 @@ Un generador dinámico de monstruos que combina múltiples bases de característ
 ### v1.1 - Extracción Inteligente de Atributos
 - 🔄 Las clases Base1 definen valores por defecto para stats
 - 🔄 dynamic_loader extrae automáticamente stats de Base1
-- 🔄 dynamic_loader agrega abilities de Base1, Base2, Base3
+- 🔄 dynamic_loader agrega abilities de dos selecciones de Base1
 
 ### v1.2 - Generación Procedural Avanzada
 - Modificadores por nivel

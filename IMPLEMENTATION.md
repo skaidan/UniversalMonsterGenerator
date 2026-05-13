@@ -7,7 +7,7 @@ Archivo: [ROADMAP.md](ROADMAP.md) y [.instructions.md](.instructions.md)
 
 Define:
 - Visión clara del producto
-- Arquitectura de 3 capas (Stats/Abilities/Abilities)
+- Arquitectura de 2 capas (Stats/Abilities)
 - Roadmap de 4 fases (Actualidad → Rareza → Persistencia → Loot)
 - KPIs y métricas de éxito
 
@@ -17,24 +17,20 @@ Archivo: [dynamic_loader.py](dynamic_loader.py)
 **Cambios principales:**
 - ✅ Las clases `Base1` ahora definen `DEFAULT_STATS` con sus valores característicos
 - ✅ `dynamic_loader` extrae automáticamente estos stats
-- ✅ Las abilities se recolectan inteligentemente de las 3 clases base
-- ✅ No hay más hardcodeo de valores
+- ✅ Las abilities se recolectan inteligentemente de las 2 clases base
+- ✅ El nombre de la criatura se genera combinando los nombres de las 2 clases
 
 **Flujo actual:**
 ```
-1. Selecciona aleatoriamente: Base1_X + Base2_Y + Base3_Z
+1. Selecciona aleatoriamente: Base1_X + Base1_Y
 2. Extrae stats de Base1_X.DEFAULT_STATS
-3. Crea la criatura dinámica
+3. Crea la criatura dinámica con nombre mezclado
 4. Abilities se agregan automáticamente mediante MRO
 ```
 
 ### 3. **Clases Base Actualizadas**
 - [bases1/base1_a.py](bases1/base1_a.py): `DEFAULT_STATS` para Base1A
-- [bases1/base1_b.py](bases1/base1_b.py): `DEFAULT_STATS` para Base1B  
-- [bases2/base2_a.py](bases2/base2_a.py): Contribuye abilities
-- [bases2/base2_b.py](bases2/base2_b.py): Contribuye abilities (header corregido)
-- [bases3/base3_a.py](bases3/base3_a.py): Contribuye abilities
-- [bases3/base3_b.py](bases3/base3_b.py): Contribuye abilities (header corregido)
+- [bases1/base1_b.py](bases1/base1_b.py): `DEFAULT_STATS` para Base1B
 
 ## 📊 Ejemplo de Salida
 
@@ -99,14 +95,8 @@ UniversalMonsterGenerator/
 ├── creature_base.py           # Base dataclass
 ├── dynamic_loader.py          # Orquestador inteligente
 ├── bases1/
-│   ├── base1_a.py            # Stats: 20/3/14/12/16/10/11/8/15
-│   └── base1_b.py            # Stats: 25/4/16/14/14/11/10/9/14
-├── bases2/
-│   ├── base2_a.py            # Ability: MagicResistance
-│   └── base2_b.py            # Ability: MagicResistance
-└── bases3/
-    ├── base3_a.py            # Ability: Regeneration
-    └── base3_b.py            # Ability: Regeneration
+│   ├── base1_a.py            # Stats + abilities
+│   └── base1_b.py            # Stats + abilities
 ```
 
 ## ✨ Próximos Pasos Recomendados

@@ -25,7 +25,7 @@ class Yochlol(GlobalCreatureBaseClass):
         """The yochlol makes two melee attacks."""
         return 'The yochlol makes two melee attacks.'
 
-    def slam_(bite_in_spider_form)_attack(self) -> str:
+    def slam_bite_in_spider_form_attack(self) -> str:
         """Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage."""
         return 'Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.'
 

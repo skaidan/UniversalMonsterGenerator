@@ -6,7 +6,7 @@ Este generador crea criaturas infinitas para tus dungeons mediante combinación 
 ## ✨ Características
 
 - 🔄 **Escalado Cíclico**: Arrays `_up` reutilizables permiten escalar criaturas a cualquier nivel
-- 🎲 **Generación Aleatoria**: Combina 3 capas de clases base (Stats/Abilities/Abilities)
+- 🎲 **Generación Aleatoria**: Combina 2 clases de `bases1` (Stats de la primera, Abilities de ambas)
 - ✅ **Validaciones Estrictas**: Arrays con reglas específicas para balance de juego
 - 📦 **Arquitectura Modular**: Fácil agregar nuevas clases sin modificar código core
 - 🔧 **API Simple**: Genera criaturas como dict o JSON string
@@ -58,12 +58,16 @@ Level 8: HP 27 (+2), STR 17 (+0)  ← Segundo ciclo (repetido)
 UniversalMonsterGenerator/
 ├── creature_base.py      # Dataclass base con validaciones
 ├── dynamic_loader.py     # Generador y escalador inteligente
-├── bases1/              # Clases con DEFAULT_STATS
-│   ├── base1_a.py
-│   └── base1_b.py
-├── bases2/              # Abilities layer 1
-└── bases3/              # Abilities layer 2
+└── bases1/              # Clases con DEFAULT_STATS y abilities
+    ├── base1_a.py
+    └── base1_b.py
 ```
+
+### Generación de Criaturas
+- Selecciona 2 clases aleatorias de `bases1`
+- Usa los stats de la primera clase seleccionada
+- Agrega las abilities de ambas clases
+- El nombre de la criatura se genera combinando los nombres de las 2 clases
 
 ## 📚 API Completa
 
