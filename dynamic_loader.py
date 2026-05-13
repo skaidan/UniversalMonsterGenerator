@@ -98,6 +98,9 @@ def main(
             )
         abilities.extend(base_stats.get("abilities", []))
 
+    # Fill defaults for optional stats if missing
+    stats.setdefault("abilities", [])
+
     # Create creature with extracted stats from the first selected class,
     # but collect abilities from both selected classes.
     creature = DynamicCreature(
@@ -116,7 +119,6 @@ def main(
         size=stats["size"],
         type=stats["type"],
         hit_points_up=stats["hit_points_up"],
-        min_level_up=stats["min_level_up"],
         STR_up=stats["STR_up"],
         DEX_up=stats["DEX_up"],
         CON_up=stats["CON_up"],
